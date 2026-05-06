@@ -117,28 +117,51 @@ xkeyboard-config) emit into the same directory in the same shape.
 
 ## Spike scope (current)
 
-- **Apps**: AeroSpace (positional), Vim (symbolic) — both interpretation models
-  live and validated.
+- **Apps**: AeroSpace + i3 (positional), Vim + VS Code (symbolic) — both
+  interpretation models live and validated.
 - **Layouts**: every layout shipped by macOS, dumped via UCKeyTranslate.
-  ~249 entries.
-- **Routes**: `/` (live picker) + `/app/[appId]/[layoutId]` for every combo
-  (~500 static pages).
-- **UI**: app + layout dropdowns, full-text binding filter, virtual keyboard
-  showing all 4 modifier states per key (base / shift / alt / alt+shift) with
-  bindings highlighted, hover-to-cross-highlight between binding rows and
-  keyboard.
+  249 entries.
+- **Routes**: `/` (live picker) + `/app/[appId]/[layoutId]/` pre-rendered for
+  every combo (997 static pages). URL updates via `replaceState` as you pick.
+- **UI**: app + layout dropdowns, ANSI/ISO chassis toggle (persisted in
+  localStorage), full-text binding filter, virtual keyboard showing all 4
+  modifier states per key (base / shift / alt / alt+shift) with bindings
+  highlighted, hover-to-cross-highlight between binding rows and keyboard.
 - **Tests**: Vitest covers both interpretation models including layout-specific
   assertions (e.g., AeroSpace's `alt-slash` resolves to Option+`-` on Norwegian
-  Mac, Vim's `Ctrl+/` resolves to Ctrl+Shift+7).
+  Mac; Vim's `Ctrl+/` resolves to Ctrl+Shift+7).
 
 ## Next
 
-- Generators for Windows (kbdlayout.info) and Linux (xkbcommon) layouts.
-- More apps. Quick wins: tmux (symbolic), i3 (positional), VS Code's
-  default keymap, JetBrains, sxhkd, Hyprland.
-- ANSI/ISO chassis toggle in the UI (currently each layout has a hard default —
-  US-family layouts default ANSI, others ISO).
+### Conflict detection — flag bindings that block typing
+
+Triggered live during dogfooding: AeroSpace's stock `Alt+8`/`Alt+Shift+8`
+bindings on Norwegian Mac eat `[`/`{` system-wide, so the WM literally blocks
+you from typing those characters until you remap. The cheatsheet has the data
+to surface this automatically.
+
+A binding **eats typing** iff:
+1. App is **positional** (symbolic apps read characters after layout
+   resolution, so they can't block typing).
+2. Binding's modifier set ⊆ `{alt, shift}` (Cmd and Ctrl suppress character
+   output, so any combo containing them is automatically safe to type
+   alongside).
+3. Layout produces a printable character at that key in that modifier state.
+
+That's a single pure function over data the cheatsheet already loads. Adding a
+new positional app gets conflict detection for free; no per-app curation. UI
+follow-on: a warning glyph on conflicting binding rows, plus a "what'll break
+typing on your layout" view that filters defaults to just the painful subset.
+
+This **doesn't** catch app-vs-OS-shortcut conflicts (an app binding the same
+combo as Spotlight, Mission Control, etc.). Different problem class — needs a
+"reserved combos" dataset per OS and is genuinely OS-specific work.
+
+### Other follow-ons
+
+- Generators for Windows (kbdlayout.info JSON) and Linux (xkbcommon /
+  xkeyboard-config) layouts.
+- More apps: tmux, JetBrains, sxhkd, Hyprland, Emacs, Sublime, Zed.
 - Print-friendly view → physical product upsell pathway (A3 paper, laser-
   engraved bamboo).
-- URL-driven picker state so the picker writes to `/app/.../...` as you change
-  it, making cheatsheets shareable by URL.
+- Search/filter in the layout dropdown (it's 249 entries deep right now).

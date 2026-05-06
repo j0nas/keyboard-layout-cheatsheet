@@ -1,0 +1,254 @@
+{
+	"id": "persian-qwerty",
+	"keymap": {
+		"0": {
+			"alt": "°",
+			"altShift": "(",
+			"base": "۰",
+			"shift": "("
+		},
+		"1": {
+			"alt": "!",
+			"altShift": "!",
+			"base": "۱",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "@",
+			"altShift": "†",
+			"base": "۲",
+			"shift": "٬"
+		},
+		"3": {
+			"alt": "#",
+			"altShift": "‡",
+			"base": "۳",
+			"shift": "٫"
+		},
+		"4": {
+			"alt": "$",
+			"altShift": "€",
+			"base": "۴",
+			"shift": "﷼"
+		},
+		"5": {
+			"alt": "%",
+			"altShift": "%",
+			"base": "۵",
+			"shift": "٪"
+		},
+		"6": {
+			"alt": "^",
+			"altShift": "^",
+			"base": "۶",
+			"shift": "×"
+		},
+		"7": {
+			"alt": "&",
+			"altShift": "&",
+			"base": "۷",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "٭",
+			"altShift": "*",
+			"base": "۸",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "•",
+			"altShift": ")",
+			"base": "۹",
+			"shift": ")"
+		},
+		"A": {
+			"alt": "ٱ",
+			"base": "ا",
+			"shift": "آ"
+		},
+		"B": {
+			"alt": "’",
+			"base": "ب",
+			"shift": "”"
+		},
+		"Backslash": {
+			"alt": "?",
+			"altShift": "?",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"base": "ث",
+			"shift": "چ"
+		},
+		"Comma": {
+			"alt": "≤",
+			"altShift": ",",
+			"base": "،",
+			"shift": "<"
+		},
+		"D": {
+			"base": "د",
+			"shift": "ذ"
+		},
+		"E": {
+			"alt": "ٓ",
+			"altShift": "ٖ",
+			"base": "ع",
+			"shift": "ٰ"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "=",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "ٕ",
+			"base": "ف",
+			"shift": "ٔ"
+		},
+		"G": {
+			"base": "گ",
+			"shift": "غ"
+		},
+		"Grave": {
+			"alt": "~",
+			"base": "‍",
+			"shift": "`"
+		},
+		"H": {
+			"base": "ه",
+			"shift": "ح"
+		},
+		"I": {
+			"alt": "ى",
+			"base": "ئ",
+			"shift": "ي"
+		},
+		"J": {
+			"base": "ج",
+			"shift": "ژ"
+		},
+		"K": {
+			"altShift": "",
+			"base": "ک",
+			"shift": "ك"
+		},
+		"L": {
+			"base": "ل"
+		},
+		"LeftBracket": {
+			"base": "]",
+			"shift": "}"
+		},
+		"M": {
+			"alt": "‹",
+			"base": "م",
+			"shift": "«"
+		},
+		"Minus": {
+			"alt": "_",
+			"altShift": "_",
+			"base": "-",
+			"shift": "ـ"
+		},
+		"N": {
+			"alt": "›",
+			"base": "ن",
+			"shift": "»"
+		},
+		"O": {
+			"base": "ظ",
+			"shift": "ؤ"
+		},
+		"P": {
+			"base": "پ"
+		},
+		"Period": {
+			"alt": "≥",
+			"altShift": ".",
+			"base": ".",
+			"shift": ">"
+		},
+		"Q": {
+			"alt": "ْ",
+			"base": "ق",
+			"shift": "ّ"
+		},
+		"Quote": {
+			"base": "\"",
+			"shift": "'"
+		},
+		"R": {
+			"alt": "ٍ",
+			"altShift": "‎",
+			"base": "ر",
+			"shift": "ِ"
+		},
+		"RightBracket": {
+			"base": "[",
+			"shift": "{"
+		},
+		"S": {
+			"alt": "ص",
+			"base": "س",
+			"shift": "ش"
+		},
+		"Section": {
+			"alt": "`",
+			"altShift": "`",
+			"base": "‍"
+		},
+		"Semicolon": {
+			"alt": "…",
+			"altShift": ";",
+			"base": "؛",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "÷",
+			"base": "\/",
+			"shift": "؟"
+		},
+		"T": {
+			"alt": "ة",
+			"altShift": "‏",
+			"base": "ت",
+			"shift": "ط"
+		},
+		"U": {
+			"alt": "َ",
+			"base": "ہ",
+			"shift": "ً"
+		},
+		"V": {
+			"alt": "‘",
+			"base": "ء",
+			"shift": "“"
+		},
+		"W": {
+			"alt": "ٌ",
+			"altShift": "ؤ",
+			"base": "و",
+			"shift": "ُ"
+		},
+		"X": {
+			"alt": "إ",
+			"base": "خ",
+			"shift": "أ"
+		},
+		"Y": {
+			"alt": "ً",
+			"base": "ی",
+			"shift": "َ"
+		},
+		"Z": {
+			"alt": "ظ",
+			"base": "ز",
+			"shift": "ض"
+		}
+	},
+	"name": "Persian – QWERTY",
+	"physicalLayout": "iso"
+}

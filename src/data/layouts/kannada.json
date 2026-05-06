@@ -1,0 +1,240 @@
+{
+	"id": "kannada",
+	"keymap": {
+		"0": {
+			"alt": "}",
+			"altShift": "]",
+			"base": "೦",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "‍",
+			"altShift": "!",
+			"base": "೧",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "‌",
+			"altShift": "@",
+			"base": "೨",
+			"shift": "@"
+		},
+		"3": {
+			"altShift": "#",
+			"base": "೩",
+			"shift": "್ರ"
+		},
+		"4": {
+			"alt": "₹",
+			"altShift": "$",
+			"base": "೪",
+			"shift": "ರ್"
+		},
+		"5": {
+			"altShift": "%",
+			"base": "೫",
+			"shift": "ಜ್ಞ"
+		},
+		"6": {
+			"altShift": "^",
+			"base": "೬",
+			"shift": "ತ್ರ"
+		},
+		"7": {
+			"altShift": "&",
+			"base": "೭",
+			"shift": "ಕ್ಷ"
+		},
+		"8": {
+			"altShift": "*",
+			"base": "೮",
+			"shift": "ಶ್ರ"
+		},
+		"9": {
+			"alt": "{",
+			"altShift": "[",
+			"base": "೯",
+			"shift": "("
+		},
+		"A": {
+			"base": "ೋ",
+			"shift": "ಓ"
+		},
+		"B": {
+			"base": "ವ"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"base": "ಮ",
+			"shift": "ಣ"
+		},
+		"Comma": {
+			"alt": "<",
+			"altShift": ">",
+			"base": ",",
+			"shift": "ಷ"
+		},
+		"D": {
+			"base": "್",
+			"shift": "ಅ"
+		},
+		"E": {
+			"base": "ಾ",
+			"shift": "ಆ"
+		},
+		"Equal": {
+			"alt": "ೄ",
+			"altShift": "ೠ",
+			"base": "ೃ",
+			"shift": "ಋ"
+		},
+		"F": {
+			"alt": "ೢ",
+			"altShift": "ಌ",
+			"base": "ಿ",
+			"shift": "ಇ"
+		},
+		"G": {
+			"base": "ು",
+			"shift": "ಉ"
+		},
+		"Grave": {
+			"alt": "₹",
+			"altShift": "~",
+			"base": "ೊ",
+			"shift": "ಒ"
+		},
+		"H": {
+			"altShift": "ೞ",
+			"base": "ಪ",
+			"shift": "ಫ"
+		},
+		"I": {
+			"base": "ಗ",
+			"shift": "ಘ"
+		},
+		"J": {
+			"alt": "ೲ",
+			"base": "ರ",
+			"shift": "ಱ"
+		},
+		"K": {
+			"base": "ಕ",
+			"shift": "ಖ"
+		},
+		"L": {
+			"base": "ತ",
+			"shift": "ಥ"
+		},
+		"LeftBracket": {
+			"base": "ಡ",
+			"shift": "ಢ"
+		},
+		"M": {
+			"base": "ಸ",
+			"shift": "ಶ"
+		},
+		"Minus": {
+			"alt": "-",
+			"altShift": "_",
+			"base": "-",
+			"shift": "ಃ"
+		},
+		"N": {
+			"base": "ಲ",
+			"shift": "ಳ"
+		},
+		"O": {
+			"base": "ದ",
+			"shift": "ಧ"
+		},
+		"P": {
+			"base": "ಜ",
+			"shift": "ಝ"
+		},
+		"Period": {
+			"alt": "॥",
+			"altShift": "ಽ",
+			"base": ".",
+			"shift": "।"
+		},
+		"Q": {
+			"base": "ೌ",
+			"shift": "ಔ"
+		},
+		"Quote": {
+			"alt": "'",
+			"altShift": "\"",
+			"base": "ಟ",
+			"shift": "ಠ"
+		},
+		"R": {
+			"alt": "ೣ",
+			"altShift": "ೡ",
+			"base": "ೀ",
+			"shift": "ಈ"
+		},
+		"RightBracket": {
+			"alt": "=",
+			"altShift": "+",
+			"base": "಼",
+			"shift": "ಞ"
+		},
+		"S": {
+			"base": "ೇ",
+			"shift": "ಏ"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": "ಚ",
+			"shift": "ಛ"
+		},
+		"Slash": {
+			"alt": "\/",
+			"altShift": "?",
+			"base": "ಯ",
+			"shift": "?"
+		},
+		"T": {
+			"base": "ೂ",
+			"shift": "ಊ"
+		},
+		"U": {
+			"alt": "ೱ",
+			"base": "ಹ",
+			"shift": "ಙ"
+		},
+		"V": {
+			"base": "ನ"
+		},
+		"W": {
+			"base": "ೈ",
+			"shift": "ಐ"
+		},
+		"X": {
+			"base": "ಂ"
+		},
+		"Y": {
+			"base": "ಬ",
+			"shift": "ಭ"
+		},
+		"Z": {
+			"base": "ೆ",
+			"shift": "ಎ"
+		}
+	},
+	"name": "Kannada – InScript",
+	"physicalLayout": "iso"
+}

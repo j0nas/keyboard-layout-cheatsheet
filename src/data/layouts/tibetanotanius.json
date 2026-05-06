@@ -1,0 +1,200 @@
+{
+	"id": "tibetanotanius",
+	"keymap": {
+		"0": {
+			"altShift": "༳",
+			"base": "༠"
+		},
+		"1": {
+			"altShift": "༪",
+			"base": "༡"
+		},
+		"2": {
+			"altShift": "༫",
+			"base": "༢"
+		},
+		"3": {
+			"altShift": "༬",
+			"base": "༣",
+			"shift": "྅"
+		},
+		"4": {
+			"altShift": "༭",
+			"base": "༤"
+		},
+		"5": {
+			"altShift": "༮",
+			"base": "༥"
+		},
+		"6": {
+			"altShift": "༯",
+			"base": "༦"
+		},
+		"7": {
+			"altShift": "༰",
+			"base": "༧",
+			"shift": "༸"
+		},
+		"8": {
+			"alt": "༔",
+			"altShift": "༱",
+			"base": "༨",
+			"shift": "ཿ"
+		},
+		"9": {
+			"altShift": "༲",
+			"base": "༩",
+			"shift": "༴"
+		},
+		"A": {
+			"base": "འ"
+		},
+		"B": {
+			"base": "བ",
+			"shift": "བྷ"
+		},
+		"Backslash": {
+			"alt": "༹",
+			"base": "྾",
+			"shift": "༑"
+		},
+		"C": {
+			"base": "ཅ",
+			"shift": "ཆ"
+		},
+		"Comma": {
+			"base": "ང"
+		},
+		"D": {
+			"alt": "ཌ",
+			"base": "ད"
+		},
+		"E": {
+			"alt": "ཻ",
+			"base": "ེ"
+		},
+		"Equal": {
+			"altShift": "༈",
+			"base": "༄",
+			"shift": "༅"
+		},
+		"F": {
+			"base": "྄",
+			"shift": "྄"
+		},
+		"G": {
+			"base": "ག",
+			"shift": "གྷ"
+		},
+		"Grave": {
+			"base": "ྈ"
+		},
+		"H": {
+			"alt": "ཿ",
+			"base": "ཧ"
+		},
+		"I": {
+			"alt": "ྀ",
+			"base": "ི"
+		},
+		"J": {
+			"base": "ཇ"
+		},
+		"K": {
+			"altShift": "ཀྵ",
+			"base": "ཀ",
+			"shift": "ཁ"
+		},
+		"L": {
+			"base": "ལ"
+		},
+		"LeftBracket": {
+			"alt": "༺",
+			"altShift": "༿",
+			"base": "༼"
+		},
+		"M": {
+			"alt": "ཾ",
+			"altShift": "ྃ",
+			"base": "མ"
+		},
+		"Minus": {
+			"alt": "༵",
+			"base": "༷",
+			"shift": "༵"
+		},
+		"N": {
+			"alt": "ཎ",
+			"base": "ན"
+		},
+		"O": {
+			"alt": "ཽ",
+			"base": "ོ"
+		},
+		"P": {
+			"base": "པ",
+			"shift": "ཕ"
+		},
+		"Period": {
+			"base": "ཉ"
+		},
+		"Q": {
+			"alt": "྅",
+			"base": "ཨ"
+		},
+		"Quote": {
+			"alt": " ",
+			"base": " "
+		},
+		"R": {
+			"base": "ར"
+		},
+		"RightBracket": {
+			"alt": "༻",
+			"altShift": "༾",
+			"base": "༽"
+		},
+		"S": {
+			"altShift": "ཥ",
+			"base": "ས",
+			"shift": "ཤ"
+		},
+		"Semicolon": {
+			"base": "྄"
+		},
+		"Slash": {
+			"altShift": "༐",
+			"base": "།",
+			"shift": "༏"
+		},
+		"T": {
+			"alt": "ཊ",
+			"altShift": "ཋ",
+			"base": "ཏ",
+			"shift": "ཐ"
+		},
+		"U": {
+			"base": "ུ"
+		},
+		"V": {
+			"base": "ཙ",
+			"shift": "ཚ"
+		},
+		"W": {
+			"base": "ཝ"
+		},
+		"X": {
+			"base": "ཛ",
+			"shift": "ཛྷ"
+		},
+		"Y": {
+			"base": "ཡ"
+		},
+		"Z": {
+			"base": "ཟ",
+			"shift": "ཞ"
+		}
+	},
+	"name": "Tibetan – Otani",
+	"physicalLayout": "iso"
+}

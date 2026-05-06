@@ -1,0 +1,82 @@
+{
+	"id": "vim",
+	"name": "Vim",
+	"interpretationModel": "symbolic",
+	"bindings": [
+		{
+			"keys": ["ctrl", "w"],
+			"action": "Window prefix (then h/j/k/l, s, v, q, c)",
+			"category": "Windows"
+		},
+		{
+			"keys": ["ctrl", "f"],
+			"action": "Page down",
+			"category": "Motion"
+		},
+		{
+			"keys": ["ctrl", "b"],
+			"action": "Page up",
+			"category": "Motion"
+		},
+		{
+			"keys": ["ctrl", "d"],
+			"action": "Half-page down",
+			"category": "Motion"
+		},
+		{
+			"keys": ["ctrl", "u"],
+			"action": "Half-page up",
+			"category": "Motion"
+		},
+		{
+			"keys": ["ctrl", "o"],
+			"action": "Jump to previous location",
+			"category": "Motion"
+		},
+		{
+			"keys": ["ctrl", "i"],
+			"action": "Jump to next location",
+			"category": "Motion"
+		},
+		{
+			"keys": ["ctrl", "]"],
+			"action": "Follow tag / definition",
+			"category": "Navigation"
+		},
+		{
+			"keys": ["ctrl", "t"],
+			"action": "Pop tag stack",
+			"category": "Navigation"
+		},
+		{
+			"keys": ["ctrl", "p"],
+			"action": "Insert-mode: previous completion",
+			"category": "Insert"
+		},
+		{
+			"keys": ["ctrl", "n"],
+			"action": "Insert-mode: next completion",
+			"category": "Insert"
+		},
+		{
+			"keys": ["ctrl", "x"],
+			"action": "Insert-mode: completion submenu prefix",
+			"category": "Insert"
+		},
+		{
+			"keys": ["ctrl", "a"],
+			"action": "Increment number under cursor",
+			"category": "Editing"
+		},
+		{
+			"keys": ["ctrl", "v"],
+			"action": "Visual block mode",
+			"category": "Modes"
+		},
+		{
+			"keys": ["ctrl", "r"],
+			"action": "Redo",
+			"category": "Editing"
+		}
+	]
+}

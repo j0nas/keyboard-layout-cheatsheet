@@ -1,0 +1,275 @@
+{
+	"id": "armenian-hmqwerty",
+	"keymap": {
+		"0": {
+			"alt": "»",
+			"altShift": "›",
+			"base": "0",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "՜",
+			"altShift": "★",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "™",
+			"altShift": "€",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "£",
+			"altShift": "№",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "¢",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "★",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "§",
+			"base": "6",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "¶",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "•",
+			"altShift": "°",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "«",
+			"altShift": "‹",
+			"base": "9",
+			"shift": "("
+		},
+		"A": {
+			"alt": "ը",
+			"altShift": "Ը",
+			"base": "ա",
+			"shift": "Ա"
+		},
+		"B": {
+			"base": "բ",
+			"shift": "Բ"
+		},
+		"Backslash": {
+			"alt": "«",
+			"altShift": "»",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"alt": "ց",
+			"altShift": "Ց",
+			"base": "ծ",
+			"shift": "Ծ"
+		},
+		"Comma": {
+			"alt": "՝",
+			"altShift": "≤",
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"base": "դ",
+			"shift": "Դ"
+		},
+		"E": {
+			"alt": "է",
+			"altShift": "Է",
+			"base": "ե",
+			"shift": "Ե"
+		},
+		"Equal": {
+			"alt": "≠",
+			"altShift": "±",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "ƒ",
+			"base": "ֆ",
+			"shift": "Ֆ"
+		},
+		"G": {
+			"alt": "©",
+			"altShift": "®",
+			"base": "գ",
+			"shift": "Գ"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "`",
+			"shift": "~"
+		},
+		"H": {
+			"base": "հ",
+			"shift": "Հ"
+		},
+		"I": {
+			"alt": "„",
+			"altShift": "„",
+			"base": "ի",
+			"shift": "Ի"
+		},
+		"J": {
+			"alt": "ջ",
+			"altShift": "Ջ",
+			"base": "ձ",
+			"shift": "Ձ"
+		},
+		"K": {
+			"alt": "ք",
+			"altShift": "Ք",
+			"base": "կ",
+			"shift": "Կ"
+		},
+		"L": {
+			"alt": "ղ",
+			"altShift": "Ղ",
+			"base": "լ",
+			"shift": "Լ"
+		},
+		"LeftBracket": {
+			"alt": "“",
+			"altShift": "”",
+			"base": "[",
+			"shift": "{"
+		},
+		"M": {
+			"base": "մ",
+			"shift": "Մ"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"base": "ն",
+			"shift": "Ն"
+		},
+		"O": {
+			"alt": "օ",
+			"altShift": "Օ",
+			"base": "ո",
+			"shift": "Ո"
+		},
+		"P": {
+			"alt": "փ",
+			"altShift": "Փ",
+			"base": "պ",
+			"shift": "Պ"
+		},
+		"Period": {
+			"alt": "։",
+			"altShift": "≥",
+			"base": ".",
+			"shift": ">"
+		},
+		"Q": {
+			"alt": "չ",
+			"altShift": "Չ",
+			"base": "ճ",
+			"shift": "Ճ"
+		},
+		"Quote": {
+			"alt": "՛",
+			"altShift": "֊",
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "ռ",
+			"altShift": "Ռ",
+			"base": "ր",
+			"shift": "Ր"
+		},
+		"RightBracket": {
+			"alt": "‘",
+			"altShift": "’",
+			"base": "]",
+			"shift": "}"
+		},
+		"S": {
+			"alt": "շ",
+			"altShift": "Շ",
+			"base": "ս",
+			"shift": "Ս"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": "…",
+			"altShift": "՟",
+			"base": ";",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "՞",
+			"altShift": "՞",
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"alt": "թ",
+			"altShift": "Թ",
+			"base": "տ",
+			"shift": "Տ"
+		},
+		"U": {
+			"alt": "÷",
+			"altShift": "՚",
+			"base": "ւ",
+			"shift": "Ւ"
+		},
+		"V": {
+			"alt": "և",
+			"base": "վ",
+			"shift": "Վ"
+		},
+		"W": {
+			"base": "ւ",
+			"shift": "Ւ"
+		},
+		"X": {
+			"base": "խ",
+			"shift": "Խ"
+		},
+		"Y": {
+			"alt": "†",
+			"altShift": "¥",
+			"base": "յ",
+			"shift": "Յ"
+		},
+		"Z": {
+			"alt": "ժ",
+			"altShift": "Ժ",
+			"base": "զ",
+			"shift": "Զ"
+		}
+	},
+	"name": "Armenian – HM QWERTY",
+	"physicalLayout": "iso"
+}

@@ -1,0 +1,127 @@
+{
+	"id": "i3",
+	"name": "i3",
+	"interpretationModel": "positional",
+	"bindings": [
+		{
+			"keys": ["alt", "1"],
+			"action": "Switch to workspace 1",
+			"category": "Workspaces"
+		},
+		{
+			"keys": ["alt", "2"],
+			"action": "Switch to workspace 2",
+			"category": "Workspaces"
+		},
+		{
+			"keys": ["alt", "3"],
+			"action": "Switch to workspace 3",
+			"category": "Workspaces"
+		},
+		{
+			"keys": ["alt", "4"],
+			"action": "Switch to workspace 4",
+			"category": "Workspaces"
+		},
+		{
+			"keys": ["alt", "shift", "1"],
+			"action": "Move container to workspace 1",
+			"category": "Workspaces"
+		},
+		{
+			"keys": ["alt", "shift", "2"],
+			"action": "Move container to workspace 2",
+			"category": "Workspaces"
+		},
+		{
+			"keys": ["alt", "j"],
+			"action": "Focus left",
+			"category": "Focus"
+		},
+		{
+			"keys": ["alt", "k"],
+			"action": "Focus down",
+			"category": "Focus"
+		},
+		{
+			"keys": ["alt", "l"],
+			"action": "Focus up",
+			"category": "Focus"
+		},
+		{
+			"keys": ["alt", "semicolon"],
+			"action": "Focus right",
+			"category": "Focus"
+		},
+		{
+			"keys": ["alt", "shift", "j"],
+			"action": "Move container left",
+			"category": "Move"
+		},
+		{
+			"keys": ["alt", "shift", "k"],
+			"action": "Move container down",
+			"category": "Move"
+		},
+		{
+			"keys": ["alt", "shift", "l"],
+			"action": "Move container up",
+			"category": "Move"
+		},
+		{
+			"keys": ["alt", "shift", "semicolon"],
+			"action": "Move container right",
+			"category": "Move"
+		},
+		{
+			"keys": ["alt", "h"],
+			"action": "Split horizontal",
+			"category": "Layout"
+		},
+		{
+			"keys": ["alt", "v"],
+			"action": "Split vertical",
+			"category": "Layout"
+		},
+		{
+			"keys": ["alt", "f"],
+			"action": "Toggle fullscreen",
+			"category": "Layout"
+		},
+		{
+			"keys": ["alt", "s"],
+			"action": "Stacked layout",
+			"category": "Layout"
+		},
+		{
+			"keys": ["alt", "w"],
+			"action": "Tabbed layout",
+			"category": "Layout"
+		},
+		{
+			"keys": ["alt", "e"],
+			"action": "Toggle split orientation",
+			"category": "Layout"
+		},
+		{
+			"keys": ["alt", "shift", "q"],
+			"action": "Kill focused window",
+			"category": "Window"
+		},
+		{
+			"keys": ["alt", "d"],
+			"action": "Open application launcher (dmenu)",
+			"category": "Launch"
+		},
+		{
+			"keys": ["alt", "shift", "r"],
+			"action": "Reload config / restart i3 in place",
+			"category": "Modes"
+		},
+		{
+			"keys": ["alt", "r"],
+			"action": "Enter resize mode",
+			"category": "Modes"
+		}
+	]
+}

@@ -1,0 +1,250 @@
+{
+	"id": "telugu",
+	"keymap": {
+		"0": {
+			"alt": "+",
+			"altShift": "౸",
+			"base": "౦",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "‍",
+			"altShift": "౹",
+			"base": "౧",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "‌",
+			"altShift": "౼",
+			"base": "౨",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "#",
+			"altShift": "౺",
+			"base": "౩",
+			"shift": "్ర"
+		},
+		"4": {
+			"alt": "₹",
+			"altShift": "౽",
+			"base": "౪",
+			"shift": "ర్"
+		},
+		"5": {
+			"alt": "%",
+			"altShift": "౻",
+			"base": "౫",
+			"shift": "జ్ఞ"
+		},
+		"6": {
+			"alt": "^",
+			"altShift": "౾",
+			"base": "౬",
+			"shift": "త్ర"
+		},
+		"7": {
+			"alt": "&",
+			"base": "౭",
+			"shift": "క్ష"
+		},
+		"8": {
+			"alt": "*",
+			"base": "౮",
+			"shift": "శ్ర"
+		},
+		"9": {
+			"alt": "=",
+			"base": "౯",
+			"shift": "("
+		},
+		"A": {
+			"base": "ో",
+			"shift": "ఓ"
+		},
+		"B": {
+			"base": "వ"
+		},
+		"Backslash": {
+			"alt": ";",
+			"altShift": ":",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"base": "మ",
+			"shift": "ణ"
+		},
+		"Comma": {
+			"alt": "<",
+			"altShift": ">",
+			"base": ",",
+			"shift": "ష"
+		},
+		"D": {
+			"base": "్",
+			"shift": "అ"
+		},
+		"E": {
+			"altShift": "#",
+			"base": "ా",
+			"shift": "ఆ"
+		},
+		"Equal": {
+			"alt": "ౄ",
+			"altShift": "ౠ",
+			"base": "ృ",
+			"shift": "ఋ"
+		},
+		"F": {
+			"alt": "ౢ",
+			"altShift": "ఌ",
+			"base": "ి",
+			"shift": "ఇ"
+		},
+		"G": {
+			"base": "ు",
+			"shift": "ఉ"
+		},
+		"Grave": {
+			"alt": "₹",
+			"altShift": "~",
+			"base": "ొ",
+			"shift": "ఒ"
+		},
+		"H": {
+			"base": "ప",
+			"shift": "ఫ"
+		},
+		"I": {
+			"altShift": "*",
+			"base": "గ",
+			"shift": "ఘ"
+		},
+		"J": {
+			"base": "ర",
+			"shift": "ఱ"
+		},
+		"K": {
+			"base": "క",
+			"shift": "ఖ"
+		},
+		"L": {
+			"base": "త",
+			"shift": "థ"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "డ",
+			"shift": "ఢ"
+		},
+		"M": {
+			"base": "స",
+			"shift": "శ"
+		},
+		"Minus": {
+			"alt": "౿",
+			"altShift": "_",
+			"base": "-",
+			"shift": "ః"
+		},
+		"N": {
+			"base": "ల",
+			"shift": "ళ"
+		},
+		"O": {
+			"base": "ద",
+			"shift": "ధ"
+		},
+		"P": {
+			"alt": "ౙ",
+			"base": "జ",
+			"shift": "ఝ"
+		},
+		"Period": {
+			"alt": "॥",
+			"altShift": "ఽ",
+			"base": ".",
+			"shift": "।"
+		},
+		"Q": {
+			"altShift": "!",
+			"base": "ౌ",
+			"shift": "ఔ"
+		},
+		"Quote": {
+			"alt": "'",
+			"altShift": "\"",
+			"base": "ట",
+			"shift": "ఠ"
+		},
+		"R": {
+			"alt": "ౣ",
+			"altShift": "ౡ",
+			"base": "ీ",
+			"shift": "ఈ"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "ఀ",
+			"shift": "ఞ"
+		},
+		"S": {
+			"base": "ే",
+			"shift": "ఏ"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": "ౘ",
+			"base": "చ",
+			"shift": "ఛ"
+		},
+		"Slash": {
+			"alt": "\/",
+			"base": "య",
+			"shift": "?"
+		},
+		"T": {
+			"altShift": "%",
+			"base": "ూ",
+			"shift": "ఊ"
+		},
+		"U": {
+			"altShift": "&",
+			"base": "హ",
+			"shift": "ఙ"
+		},
+		"V": {
+			"base": "న"
+		},
+		"W": {
+			"altShift": "@",
+			"base": "ై",
+			"shift": "ఐ"
+		},
+		"X": {
+			"base": "ం",
+			"shift": "ఁ"
+		},
+		"Y": {
+			"altShift": "^",
+			"base": "బ",
+			"shift": "భ"
+		},
+		"Z": {
+			"alt": "ౕ",
+			"altShift": "ౖ",
+			"base": "ె",
+			"shift": "ఎ"
+		}
+	},
+	"name": "Telugu – InScript",
+	"physicalLayout": "iso"
+}

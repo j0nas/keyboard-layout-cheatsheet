@@ -1,0 +1,289 @@
+{
+	"id": "inuttitutnunavik",
+	"keymap": {
+		"0": {
+			"alt": "ᔦ",
+			"altShift": "ᖴ",
+			"base": "ᔾ",
+			"shift": "0"
+		},
+		"1": {
+			"alt": "ᙰ",
+			"altShift": "ᒉ",
+			"base": "ᖕ",
+			"shift": "1"
+		},
+		"2": {
+			"alt": "ᐁ",
+			"altShift": "ᐯ",
+			"base": "ᑉ",
+			"shift": "2"
+		},
+		"3": {
+			"alt": "ᙯ",
+			"altShift": "ᕃ",
+			"base": "ᕐ",
+			"shift": "3"
+		},
+		"4": {
+			"alt": "ᑫ",
+			"base": "ᒃ",
+			"shift": "4"
+		},
+		"5": {
+			"alt": "ᑌ",
+			"base": "ᑦ",
+			"shift": "5"
+		},
+		"6": {
+			"alt": "ᓭ",
+			"base": "ᖅ",
+			"shift": "6"
+		},
+		"7": {
+			"alt": "ᒣ",
+			"base": "ᒻ",
+			"shift": "7"
+		},
+		"8": {
+			"alt": "ᓀ",
+			"base": "ᓐ",
+			"shift": "8"
+		},
+		"9": {
+			"alt": "ᓓ",
+			"altShift": "ᕴ",
+			"base": "ᓪ",
+			"shift": "9"
+		},
+		"A": {
+			"alt": "ᖒ",
+			"altShift": "ᒎ",
+			"base": "ᖑ",
+			"shift": "ᒍ"
+		},
+		"B": {
+			"alt": "ᑖ",
+			"altShift": "±",
+			"base": "ᑕ",
+			"shift": "÷"
+		},
+		"Backslash": {
+			"alt": "•",
+			"altShift": "•",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"alt": "ᖄ",
+			"altShift": "ᕌ",
+			"base": "ᖃ",
+			"shift": "ᕋ"
+		},
+		"Comma": {
+			"alt": "«",
+			"altShift": "§",
+			"base": ",",
+			"shift": "'"
+		},
+		"D": {
+			"alt": "ᖂ",
+			"altShift": "ᕉ",
+			"base": "ᖁ",
+			"shift": "ᕈ"
+		},
+		"E": {
+			"alt": "ᖀ",
+			"altShift": "ᕇ",
+			"base": "ᕿ",
+			"shift": "ᕆ"
+		},
+		"Equal": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "ᒡ",
+			"shift": "ᔅ"
+		},
+		"F": {
+			"alt": "ᑰ",
+			"altShift": "#",
+			"base": "ᑯ",
+			"shift": "\/"
+		},
+		"G": {
+			"alt": "ᑑ",
+			"altShift": "%",
+			"base": "ᑐ",
+			"shift": "("
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "`",
+			"base": "`",
+			"shift": "~"
+		},
+		"H": {
+			"alt": "ᓲ",
+			"altShift": "*",
+			"base": "ᓱ",
+			"shift": ")"
+		},
+		"I": {
+			"alt": "ᓃ",
+			"altShift": "@",
+			"base": "ᓂ"
+		},
+		"J": {
+			"alt": "ᒨ",
+			"altShift": "ᔫ",
+			"base": "ᒧ",
+			"shift": "ᔪ"
+		},
+		"K": {
+			"alt": "ᓅ",
+			"altShift": "ᕘ",
+			"base": "ᓄ",
+			"shift": "ᕗ"
+		},
+		"L": {
+			"alt": "ᓘ",
+			"altShift": "ᕶ",
+			"base": "ᓗ",
+			"shift": "ᕵ"
+		},
+		"LeftBracket": {
+			"alt": "ᕖ",
+			"altShift": "°",
+			"base": "ᕕ",
+			"shift": "ᕝ"
+		},
+		"M": {
+			"alt": "ᒫ",
+			"altShift": "ᓛ",
+			"base": "ᒪ",
+			"shift": "ᓚ"
+		},
+		"Minus": {
+			"alt": "ᕓ",
+			"altShift": "ᕼ",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "ᓵ",
+			"altShift": "ᓈ",
+			"base": "ᓴ",
+			"shift": "ᓇ"
+		},
+		"O": {
+			"alt": "ᓖ",
+			"altShift": "ᕸ",
+			"base": "ᓕ",
+			"shift": "ᕷ"
+		},
+		"P": {
+			"alt": "ᔩ",
+			"altShift": "ᕺ",
+			"base": "ᔨ",
+			"shift": "ᕹ"
+		},
+		"Period": {
+			"alt": "»",
+			"altShift": "¶",
+			"base": ".",
+			"shift": "\""
+		},
+		"Q": {
+			"alt": "ᖐ",
+			"altShift": "ᒌ",
+			"base": "ᖏ",
+			"shift": "ᒋ"
+		},
+		"Quote": {
+			"alt": "‘",
+			"altShift": "’",
+			"base": "'",
+			"shift": "ᕻ"
+		},
+		"R": {
+			"alt": "ᑮ",
+			"altShift": "¢",
+			"base": "ᑭ",
+			"shift": "$"
+		},
+		"RightBracket": {
+			"alt": "“",
+			"altShift": "”",
+			"base": "[",
+			"shift": "]"
+		},
+		"S": {
+			"alt": "ᐆ",
+			"altShift": "ᐴ",
+			"base": "ᐅ",
+			"shift": "ᐳ"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": "…",
+			"altShift": "&",
+			"base": ";",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "ᔮ",
+			"altShift": "ᕚ",
+			"base": "ᔭ",
+			"shift": "ᕙ"
+		},
+		"T": {
+			"alt": "ᑏ",
+			"altShift": "™",
+			"base": "ᑎ",
+			"shift": "+"
+		},
+		"U": {
+			"alt": "ᒦ",
+			"altShift": "®",
+			"base": "ᒥ",
+			"shift": "="
+		},
+		"V": {
+			"alt": "ᑳ",
+			"altShift": "!",
+			"base": "ᑲ",
+			"shift": "?"
+		},
+		"W": {
+			"alt": "ᐄ",
+			"altShift": "ᐲ",
+			"base": "ᐃ",
+			"shift": "ᐱ"
+		},
+		"X": {
+			"alt": "ᐋ",
+			"altShift": "ᐹ",
+			"base": "ᐊ",
+			"shift": "ᐸ"
+		},
+		"Y": {
+			"alt": "ᓰ",
+			"altShift": "©",
+			"base": "ᓯ",
+			"shift": "×"
+		},
+		"Z": {
+			"alt": "ᖔ",
+			"altShift": "ᒑ",
+			"base": "ᖓ",
+			"shift": "ᒐ"
+		}
+	},
+	"name": "Inuktitut – Nunavik",
+	"physicalLayout": "iso"
+}

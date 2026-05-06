@@ -1,0 +1,263 @@
+{
+	"id": "mongolian-cyrillic",
+	"keymap": {
+		"0": {
+			"alt": ")",
+			"altShift": "}",
+			"base": "?",
+			"shift": "0"
+		},
+		"1": {
+			"alt": "!",
+			"base": "№",
+			"shift": "1"
+		},
+		"2": {
+			"alt": "@",
+			"altShift": "—",
+			"base": "-",
+			"shift": "2"
+		},
+		"3": {
+			"alt": "#",
+			"altShift": "§",
+			"base": "\"",
+			"shift": "3"
+		},
+		"4": {
+			"alt": "$",
+			"altShift": "€",
+			"base": "₮",
+			"shift": "4"
+		},
+		"5": {
+			"alt": ";",
+			"base": ":",
+			"shift": "5"
+		},
+		"6": {
+			"alt": "^",
+			"altShift": "…",
+			"base": ".",
+			"shift": "6"
+		},
+		"7": {
+			"alt": "&",
+			"base": "_",
+			"shift": "7"
+		},
+		"8": {
+			"alt": "*",
+			"base": ",",
+			"shift": "8"
+		},
+		"9": {
+			"alt": "(",
+			"altShift": "{",
+			"base": "%",
+			"shift": "9"
+		},
+		"A": {
+			"base": "й",
+			"shift": "Й"
+		},
+		"B": {
+			"base": "м",
+			"shift": "М"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "¥",
+			"shift": "|"
+		},
+		"C": {
+			"base": "ё",
+			"shift": "Ё"
+		},
+		"Comma": {
+			"alt": "<",
+			"altShift": "≤",
+			"base": "ь",
+			"shift": "Ь"
+		},
+		"D": {
+			"alt": "ћ",
+			"altShift": "Ћ",
+			"base": "б",
+			"shift": "Б"
+		},
+		"E": {
+			"alt": "ў",
+			"altShift": "Ў",
+			"base": "у",
+			"shift": "У"
+		},
+		"Equal": {
+			"alt": "]",
+			"altShift": "≈",
+			"base": "щ",
+			"shift": "Щ"
+		},
+		"F": {
+			"base": "ө",
+			"shift": "Ө"
+		},
+		"G": {
+			"base": "а",
+			"shift": "А"
+		},
+		"Grave": {
+			"alt": "~",
+			"altShift": "≈",
+			"base": "=",
+			"shift": "+"
+		},
+		"H": {
+			"base": "х",
+			"shift": "Х"
+		},
+		"I": {
+			"alt": "ѕ",
+			"altShift": "Ѕ",
+			"base": "ш",
+			"shift": "Ш"
+		},
+		"J": {
+			"alt": "₽",
+			"base": "р",
+			"shift": "Р"
+		},
+		"K": {
+			"base": "о",
+			"shift": "О"
+		},
+		"L": {
+			"alt": "љ",
+			"altShift": "Љ",
+			"base": "л",
+			"shift": "Л"
+		},
+		"LeftBracket": {
+			"alt": "“",
+			"altShift": "”",
+			"base": "к",
+			"shift": "К"
+		},
+		"M": {
+			"alt": "ї",
+			"altShift": "Ї",
+			"base": "т",
+			"shift": "Т"
+		},
+		"Minus": {
+			"alt": "[",
+			"altShift": "—",
+			"base": "е",
+			"shift": "Е"
+		},
+		"N": {
+			"alt": "і",
+			"altShift": "І",
+			"base": "и",
+			"shift": "И"
+		},
+		"O": {
+			"alt": "'",
+			"altShift": "„",
+			"base": "ү",
+			"shift": "Ү"
+		},
+		"P": {
+			"alt": "‘",
+			"altShift": "’",
+			"base": "з",
+			"shift": "З"
+		},
+		"Period": {
+			"alt": ">",
+			"altShift": "≥",
+			"base": "в",
+			"shift": "В"
+		},
+		"Q": {
+			"alt": "ј",
+			"altShift": "Ј",
+			"base": "ф",
+			"shift": "Ф"
+		},
+		"Quote": {
+			"base": "п",
+			"shift": "П"
+		},
+		"R": {
+			"alt": "є",
+			"altShift": "Є",
+			"base": "ж",
+			"shift": "Ж"
+		},
+		"RightBracket": {
+			"alt": "«",
+			"altShift": "»",
+			"base": "ъ",
+			"shift": "Ъ"
+		},
+		"S": {
+			"base": "ы",
+			"shift": "Ы"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "[",
+			"shift": "]"
+		},
+		"Semicolon": {
+			"base": "д",
+			"shift": "Д"
+		},
+		"Slash": {
+			"alt": "\/",
+			"base": "ю",
+			"shift": "Ю"
+		},
+		"T": {
+			"base": "э",
+			"shift": "Э"
+		},
+		"U": {
+			"alt": "ѓ",
+			"altShift": "Ѓ",
+			"base": "г",
+			"shift": "Г"
+		},
+		"V": {
+			"base": "с",
+			"shift": "С"
+		},
+		"W": {
+			"alt": "џ",
+			"altShift": "Џ",
+			"base": "ц",
+			"shift": "Ц"
+		},
+		"X": {
+			"base": "ч",
+			"shift": "Ч"
+		},
+		"Y": {
+			"alt": "њ",
+			"altShift": "Њ",
+			"base": "н",
+			"shift": "Н"
+		},
+		"Z": {
+			"alt": "ђ",
+			"altShift": "Ђ",
+			"base": "я",
+			"shift": "Я"
+		}
+	},
+	"name": "Mongolian",
+	"physicalLayout": "iso"
+}

@@ -1,0 +1,213 @@
+{
+	"id": "mandaic-qwerty",
+	"keymap": {
+		"0": {
+			"alt": "٠",
+			"base": "0",
+			"shift": "("
+		},
+		"1": {
+			"alt": "١",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "٢",
+			"altShift": "❊",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "٣",
+			"altShift": "£",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "٤",
+			"altShift": "€",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "٥",
+			"base": "5",
+			"shift": "٪"
+		},
+		"6": {
+			"alt": "٦",
+			"base": "6",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "٧",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "٨",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "٩",
+			"base": "9",
+			"shift": ")"
+		},
+		"A": {
+			"base": "ࡀ",
+			"shift": "»"
+		},
+		"B": {
+			"base": "ࡁ"
+		},
+		"Backslash": {
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"base": "ࡑ"
+		},
+		"Comma": {
+			"alt": ",",
+			"altShift": ",",
+			"base": "،",
+			"shift": ">"
+		},
+		"D": {
+			"base": "ࡃ"
+		},
+		"E": {
+			"alt": "“",
+			"base": "ࡖ",
+			"shift": "࡛"
+		},
+		"Equal": {
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"base": "ࡗ"
+		},
+		"G": {
+			"base": "ࡂ"
+		},
+		"Grave": {
+			"base": "ـ",
+			"shift": "~"
+		},
+		"H": {
+			"base": "ࡄ"
+		},
+		"I": {
+			"base": "ࡏ",
+			"shift": "﴾"
+		},
+		"J": {
+			"base": "ࡉ",
+			"shift": "×"
+		},
+		"K": {
+			"base": "ࡊ",
+			"shift": "٫"
+		},
+		"L": {
+			"base": "ࡋ",
+			"shift": "٬"
+		},
+		"LeftBracket": {
+			"base": "]",
+			"shift": "}"
+		},
+		"M": {
+			"base": "ࡌ"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "_",
+			"base": "-",
+			"shift": "ـ"
+		},
+		"N": {
+			"base": "ࡍ"
+		},
+		"O": {
+			"base": "ࡇ",
+			"shift": "]"
+		},
+		"P": {
+			"base": "ࡐ",
+			"shift": "["
+		},
+		"Period": {
+			"base": ".",
+			"shift": "<"
+		},
+		"Q": {
+			"alt": "‘",
+			"base": "ࡒ",
+			"shift": "࡙"
+		},
+		"Quote": {
+			"alt": "…",
+			"altShift": "…",
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "”",
+			"altShift": "؉",
+			"base": "ࡓ"
+		},
+		"RightBracket": {
+			"base": "[",
+			"shift": "{"
+		},
+		"S": {
+			"base": "ࡎ",
+			"shift": "«"
+		},
+		"Section": {
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"base": "؛",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "÷",
+			"altShift": "÷",
+			"base": "\/",
+			"shift": "؟"
+		},
+		"T": {
+			"base": "ࡕ"
+		},
+		"U": {
+			"base": "ࡅ",
+			"shift": "﴿"
+		},
+		"V": {
+			"base": "ࡘ"
+		},
+		"W": {
+			"alt": "’",
+			"base": "ࡔ",
+			"shift": "࡚"
+		},
+		"X": {
+			"base": "࡞",
+			"shift": "࡞"
+		},
+		"Y": {
+			"base": "ࡈ"
+		},
+		"Z": {
+			"base": "ࡆ",
+			"shift": "'"
+		}
+	},
+	"name": "Mandaic – QWERTY",
+	"physicalLayout": "iso"
+}

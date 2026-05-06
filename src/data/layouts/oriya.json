@@ -1,0 +1,243 @@
+{
+	"id": "oriya",
+	"keymap": {
+		"0": {
+			"alt": "}",
+			"base": "୦",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "‍",
+			"base": "୧",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "‌",
+			"base": "୨",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "$",
+			"base": "୩",
+			"shift": "୍ର"
+		},
+		"4": {
+			"alt": "₹",
+			"altShift": "୲",
+			"base": "୪",
+			"shift": "ର୍"
+		},
+		"5": {
+			"altShift": "୳",
+			"base": "୫",
+			"shift": "ଜ୍ଞ"
+		},
+		"6": {
+			"altShift": "୴",
+			"base": "୬",
+			"shift": "ତ୍ର"
+		},
+		"7": {
+			"altShift": "୵",
+			"base": "୭",
+			"shift": "କ୍ଷ"
+		},
+		"8": {
+			"altShift": "୶",
+			"base": "୮",
+			"shift": "ଶ୍ର"
+		},
+		"9": {
+			"alt": "{",
+			"altShift": "୷",
+			"base": "୯",
+			"shift": "("
+		},
+		"A": {
+			"base": "ୋ",
+			"shift": "ଓ"
+		},
+		"B": {
+			"alt": "ଵ",
+			"base": "ୱ"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "\/",
+			"shift": "?"
+		},
+		"C": {
+			"base": "ମ",
+			"shift": "ଣ"
+		},
+		"Comma": {
+			"alt": "<",
+			"altShift": ">",
+			"base": ",",
+			"shift": "ଷ"
+		},
+		"D": {
+			"base": "୍",
+			"shift": "ଅ"
+		},
+		"E": {
+			"altShift": "#",
+			"base": "ା",
+			"shift": "ଆ"
+		},
+		"Equal": {
+			"alt": "ୄ",
+			"altShift": "ୠ",
+			"base": "ୃ",
+			"shift": "ଋ"
+		},
+		"F": {
+			"alt": "ୢ",
+			"altShift": "ଌ",
+			"base": "ି",
+			"shift": "ଇ"
+		},
+		"G": {
+			"base": "ୁ",
+			"shift": "ଉ"
+		},
+		"Grave": {
+			"altShift": "~",
+			"base": "₹",
+			"shift": "~"
+		},
+		"H": {
+			"base": "ପ",
+			"shift": "ଫ"
+		},
+		"I": {
+			"altShift": "*",
+			"base": "ଗ",
+			"shift": "ଘ"
+		},
+		"J": {
+			"base": "ର"
+		},
+		"K": {
+			"base": "କ",
+			"shift": "ଖ"
+		},
+		"L": {
+			"base": "ତ",
+			"shift": "ଥ"
+		},
+		"LeftBracket": {
+			"alt": "ଡ଼",
+			"altShift": "ଢ଼",
+			"base": "ଡ",
+			"shift": "ଢ"
+		},
+		"M": {
+			"base": "ସ",
+			"shift": "ଶ"
+		},
+		"Minus": {
+			"alt": "-",
+			"altShift": "_",
+			"base": "-",
+			"shift": "ଃ"
+		},
+		"N": {
+			"base": "ଲ",
+			"shift": "ଳ"
+		},
+		"O": {
+			"altShift": "[",
+			"base": "ଦ",
+			"shift": "ଧ"
+		},
+		"P": {
+			"altShift": "]",
+			"base": "ଜ",
+			"shift": "ଝ"
+		},
+		"Period": {
+			"alt": "॥",
+			"altShift": "ଽ",
+			"base": ".",
+			"shift": "।"
+		},
+		"Q": {
+			"altShift": "!",
+			"base": "ୌ",
+			"shift": "ଔ"
+		},
+		"Quote": {
+			"alt": "'",
+			"altShift": "\"",
+			"base": "ଟ",
+			"shift": "ଠ"
+		},
+		"R": {
+			"alt": "ୣ",
+			"altShift": "ୡ",
+			"base": "ୀ",
+			"shift": "ଈ"
+		},
+		"RightBracket": {
+			"alt": "=",
+			"altShift": "+",
+			"base": "଼",
+			"shift": "ଞ"
+		},
+		"S": {
+			"base": "େ",
+			"shift": "ଏ"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": "ଚ",
+			"shift": "ଛ"
+		},
+		"Slash": {
+			"alt": "\/",
+			"altShift": "?",
+			"base": "ୟ",
+			"shift": "ଯ"
+		},
+		"T": {
+			"altShift": "%",
+			"base": "ୂ",
+			"shift": "ଊ"
+		},
+		"U": {
+			"altShift": "&",
+			"base": "ହ",
+			"shift": "ଙ"
+		},
+		"V": {
+			"base": "ନ"
+		},
+		"W": {
+			"altShift": "@",
+			"base": "ୈ",
+			"shift": "ଐ"
+		},
+		"X": {
+			"alt": "୰",
+			"altShift": "ଓ‍ଁ",
+			"base": "ଂ",
+			"shift": "ଁ"
+		},
+		"Y": {
+			"altShift": "^",
+			"base": "ବ",
+			"shift": "ଭ"
+		}
+	},
+	"name": "Odia – InScript",
+	"physicalLayout": "iso"
+}

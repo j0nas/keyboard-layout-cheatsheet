@@ -1,0 +1,263 @@
+{
+	"id": "german-din-2137",
+	"keymap": {
+		"0": {
+			"alt": "}",
+			"base": "0",
+			"shift": "="
+		},
+		"1": {
+			"alt": "’",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "²",
+			"base": "2",
+			"shift": "\""
+		},
+		"3": {
+			"alt": "³",
+			"base": "3",
+			"shift": "§"
+		},
+		"4": {
+			"alt": "—",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "¡",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "¿",
+			"base": "6",
+			"shift": "&"
+		},
+		"7": {
+			"alt": "{",
+			"base": "7",
+			"shift": "\/"
+		},
+		"8": {
+			"alt": "[",
+			"base": "8",
+			"shift": "("
+		},
+		"9": {
+			"alt": "]",
+			"base": "9",
+			"shift": ")"
+		},
+		"A": {
+			"alt": "☺",
+			"base": "a",
+			"shift": "A"
+		},
+		"B": {
+			"alt": "‹",
+			"base": "b",
+			"shift": "B"
+		},
+		"Backslash": {
+			"alt": "−",
+			"base": "#",
+			"shift": "'"
+		},
+		"C": {
+			"alt": " ",
+			"base": "c",
+			"shift": "C"
+		},
+		"Comma": {
+			"alt": "‑",
+			"base": ",",
+			"shift": ";"
+		},
+		"D": {
+			"alt": "′",
+			"base": "d",
+			"shift": "D"
+		},
+		"E": {
+			"alt": "€",
+			"base": "e",
+			"shift": "E"
+		},
+		"Equal": {
+			"alt": "˙",
+			"altShift": "͘",
+			"base": "´",
+			"shift": "`"
+		},
+		"F": {
+			"base": "f",
+			"shift": "F"
+		},
+		"G": {
+			"alt": "ẞ",
+			"base": "g",
+			"shift": "G"
+		},
+		"Grave": {
+			"alt": "|",
+			"base": "<",
+			"shift": ">"
+		},
+		"H": {
+			"alt": "ˍ",
+			"altShift": "̱",
+			"base": "h",
+			"shift": "H"
+		},
+		"I": {
+			"alt": "¯",
+			"altShift": "̄",
+			"base": "i",
+			"shift": "I"
+		},
+		"J": {
+			"alt": "¸",
+			"altShift": "̧",
+			"base": "j",
+			"shift": "J"
+		},
+		"K": {
+			"alt": ",",
+			"altShift": "̦",
+			"base": "k",
+			"shift": "K"
+		},
+		"L": {
+			"alt": "˛",
+			"altShift": "̨",
+			"base": "l",
+			"shift": "L"
+		},
+		"LeftBracket": {
+			"alt": "ʼ",
+			"altShift": "̛",
+			"base": "ü",
+			"shift": "Ü"
+		},
+		"M": {
+			"alt": "µ",
+			"base": "m",
+			"shift": "M"
+		},
+		"Minus": {
+			"alt": "\\",
+			"base": "ß",
+			"shift": "?"
+		},
+		"N": {
+			"alt": "–",
+			"base": "n",
+			"shift": "N"
+		},
+		"O": {
+			"alt": "˚",
+			"altShift": "̊",
+			"base": "o",
+			"shift": "O"
+		},
+		"P": {
+			"alt": "ˀ",
+			"altShift": "̉",
+			"base": "p",
+			"shift": "P"
+		},
+		"Period": {
+			"alt": "·",
+			"base": ".",
+			"shift": ":"
+		},
+		"Q": {
+			"alt": "@",
+			"base": "q",
+			"shift": "Q"
+		},
+		"Quote": {
+			"alt": "-",
+			"altShift": "̵",
+			"base": "ä",
+			"shift": "Ä"
+		},
+		"R": {
+			"alt": "˝",
+			"altShift": "̋",
+			"base": "r",
+			"shift": "R"
+		},
+		"RightBracket": {
+			"alt": "~",
+			"altShift": "",
+			"base": "+",
+			"shift": "*"
+		},
+		"S": {
+			"alt": "″",
+			"base": "s",
+			"shift": "S"
+		},
+		"Section": {
+			"alt": "×",
+			"base": "^",
+			"shift": "°"
+		},
+		"Semicolon": {
+			"alt": ".",
+			"altShift": "̣",
+			"base": "ö",
+			"shift": "Ö"
+		},
+		"Slash": {
+			"alt": "­",
+			"base": "-",
+			"shift": "_"
+		},
+		"T": {
+			"alt": "~",
+			"altShift": "̃",
+			"base": "t",
+			"shift": "T"
+		},
+		"U": {
+			"alt": "˘",
+			"altShift": "̆",
+			"base": "u",
+			"shift": "U"
+		},
+		"V": {
+			"alt": "«",
+			"base": "v",
+			"shift": "V"
+		},
+		"W": {
+			"alt": "ˇ",
+			"altShift": "̌",
+			"base": "w",
+			"shift": "W"
+		},
+		"X": {
+			"alt": "»",
+			"base": "x",
+			"shift": "X"
+		},
+		"Y": {
+			"alt": "¨",
+			"altShift": "̈",
+			"base": "z",
+			"shift": "Z"
+		},
+		"Z": {
+			"alt": "›",
+			"base": "y",
+			"shift": "Y"
+		}
+	},
+	"name": "German – Standard",
+	"physicalLayout": "iso"
+}

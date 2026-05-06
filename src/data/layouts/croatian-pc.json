@@ -1,0 +1,295 @@
+{
+	"id": "croatian-pc",
+	"keymap": {
+		"0": {
+			"alt": "̋",
+			"altShift": "˝",
+			"base": "0",
+			"shift": "="
+		},
+		"1": {
+			"alt": "~",
+			"altShift": "~",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "̌",
+			"altShift": "ˇ",
+			"base": "2",
+			"shift": "\""
+		},
+		"3": {
+			"alt": "^",
+			"altShift": "^",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "̆",
+			"altShift": "˘",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "°",
+			"altShift": "̊",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "̨",
+			"altShift": "˛",
+			"base": "6",
+			"shift": "&"
+		},
+		"7": {
+			"alt": "`",
+			"altShift": "`",
+			"base": "7",
+			"shift": "\/"
+		},
+		"8": {
+			"alt": "•",
+			"altShift": "̇",
+			"base": "8",
+			"shift": "("
+		},
+		"9": {
+			"alt": "´",
+			"altShift": "´",
+			"base": "9",
+			"shift": ")"
+		},
+		"A": {
+			"alt": "æ",
+			"altShift": "Æ",
+			"base": "a",
+			"shift": "A"
+		},
+		"B": {
+			"alt": "{",
+			"altShift": "∫",
+			"base": "b",
+			"shift": "B"
+		},
+		"Backslash": {
+			"alt": "¤",
+			"altShift": "̆",
+			"base": "ž",
+			"shift": "Ž"
+		},
+		"C": {
+			"alt": "¢",
+			"altShift": "©",
+			"base": "c",
+			"shift": "C"
+		},
+		"Comma": {
+			"alt": "<",
+			"altShift": "≤",
+			"base": ",",
+			"shift": ";"
+		},
+		"D": {
+			"alt": "“",
+			"altShift": "»",
+			"base": "d",
+			"shift": "D"
+		},
+		"E": {
+			"alt": "€",
+			"altShift": "€",
+			"base": "e",
+			"shift": "E"
+		},
+		"Equal": {
+			"alt": "̧",
+			"altShift": "¸",
+			"base": "+",
+			"shift": "*"
+		},
+		"F": {
+			"alt": "[",
+			"altShift": "ƒ",
+			"base": "f",
+			"shift": "F"
+		},
+		"G": {
+			"alt": "]",
+			"altShift": "∂",
+			"base": "g",
+			"shift": "G"
+		},
+		"Grave": {
+			"alt": "‹",
+			"altShift": "›",
+			"base": "<",
+			"shift": ">"
+		},
+		"H": {
+			"alt": "ħ",
+			"altShift": "Ħ",
+			"base": "h",
+			"shift": "H"
+		},
+		"I": {
+			"alt": "→",
+			"altShift": "ı",
+			"base": "i",
+			"shift": "I"
+		},
+		"J": {
+			"alt": "ŋ",
+			"altShift": "Ŋ",
+			"base": "j",
+			"shift": "J"
+		},
+		"K": {
+			"alt": " ̑",
+			"altShift": "",
+			"base": "k",
+			"shift": "K"
+		},
+		"L": {
+			"alt": "ł",
+			"altShift": "Ł",
+			"base": "l",
+			"shift": "L"
+		},
+		"LeftBracket": {
+			"alt": "÷",
+			"altShift": "̊",
+			"base": "š",
+			"shift": "Š"
+		},
+		"M": {
+			"alt": "§",
+			"altShift": "…",
+			"base": "m",
+			"shift": "M"
+		},
+		"Minus": {
+			"alt": "¨",
+			"altShift": "¨",
+			"base": "'",
+			"shift": "?"
+		},
+		"N": {
+			"alt": "}",
+			"altShift": "Δ",
+			"base": "n",
+			"shift": "N"
+		},
+		"O": {
+			"alt": "ø",
+			"altShift": "Ø",
+			"base": "o",
+			"shift": "O"
+		},
+		"P": {
+			"alt": "þ",
+			"altShift": "Þ",
+			"base": "p",
+			"shift": "P"
+		},
+		"Period": {
+			"alt": ">",
+			"altShift": "≥",
+			"base": ".",
+			"shift": ":"
+		},
+		"Q": {
+			"alt": "\\",
+			"altShift": "Ω",
+			"base": "q",
+			"shift": "Q"
+		},
+		"Quote": {
+			"alt": "ß",
+			"altShift": "̌",
+			"base": "ć",
+			"shift": "Ć"
+		},
+		"R": {
+			"alt": "¶",
+			"altShift": "®",
+			"base": "r",
+			"shift": "R"
+		},
+		"RightBracket": {
+			"alt": "×",
+			"altShift": "̄",
+			"base": "đ",
+			"shift": "Đ"
+		},
+		"S": {
+			"alt": "„",
+			"altShift": "«",
+			"base": "s",
+			"shift": "S"
+		},
+		"Section": {
+			"alt": "«",
+			"altShift": "»",
+			"base": "“",
+			"shift": "”"
+		},
+		"Semicolon": {
+			"alt": "´",
+			"altShift": "̋",
+			"base": "č",
+			"shift": "Č"
+		},
+		"Slash": {
+			"alt": "̣",
+			"altShift": "̇",
+			"base": "-",
+			"shift": "_"
+		},
+		"T": {
+			"alt": "ŧ",
+			"altShift": "Ŧ",
+			"base": "t",
+			"shift": "T"
+		},
+		"U": {
+			"alt": "↓",
+			"altShift": "↑",
+			"base": "u",
+			"shift": "U"
+		},
+		"V": {
+			"alt": "@",
+			"altShift": "√",
+			"base": "v",
+			"shift": "V"
+		},
+		"W": {
+			"alt": "|",
+			"altShift": "∑",
+			"base": "w",
+			"shift": "W"
+		},
+		"X": {
+			"alt": "‘",
+			"altShift": "›",
+			"base": "x",
+			"shift": "X"
+		},
+		"Y": {
+			"alt": "←",
+			"altShift": "¥",
+			"base": "z",
+			"shift": "Z"
+		},
+		"Z": {
+			"alt": "‚",
+			"altShift": "‹",
+			"base": "y",
+			"shift": "Y"
+		}
+	},
+	"name": "Croatian – QWERTZ",
+	"physicalLayout": "iso"
+}

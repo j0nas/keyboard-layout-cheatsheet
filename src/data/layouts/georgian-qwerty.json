@@ -1,0 +1,221 @@
+{
+	"id": "georgian-qwerty",
+	"keymap": {
+		"0": {
+			"altShift": "‚",
+			"base": "0",
+			"shift": ")"
+		},
+		"1": {
+			"altShift": "⁄",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"altShift": "€",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"altShift": "‹",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"altShift": "›",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"altShift": "†",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "€",
+			"altShift": "̂",
+			"base": "6",
+			"shift": "^"
+		},
+		"7": {
+			"altShift": "‡",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"altShift": "°",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "º",
+			"altShift": "·",
+			"base": "9",
+			"shift": "("
+		},
+		"A": {
+			"alt": "ჺ",
+			"base": "ა"
+		},
+		"B": {
+			"base": "ბ"
+		},
+		"Backslash": {
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"alt": "©",
+			"base": "ც",
+			"shift": "ჩ"
+		},
+		"Comma": {
+			"alt": "«",
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"base": "დ"
+		},
+		"E": {
+			"alt": "ჱ",
+			"base": "ე"
+		},
+		"Equal": {
+			"alt": "–",
+			"altShift": "±",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "ჶ",
+			"base": "ფ"
+		},
+		"G": {
+			"alt": "ჹ",
+			"base": "გ"
+		},
+		"Grave": {
+			"altShift": "̀",
+			"base": "„",
+			"shift": "“"
+		},
+		"H": {
+			"alt": "ჵ",
+			"base": "ჰ"
+		},
+		"I": {
+			"alt": "ჲ",
+			"base": "ი"
+		},
+		"J": {
+			"alt": "ჷ",
+			"base": "ჯ",
+			"shift": "ჟ"
+		},
+		"K": {
+			"base": "კ"
+		},
+		"L": {
+			"base": "ლ"
+		},
+		"LeftBracket": {
+			"alt": "“",
+			"altShift": "”",
+			"base": "[",
+			"shift": "{"
+		},
+		"M": {
+			"base": "მ"
+		},
+		"Minus": {
+			"alt": "—",
+			"altShift": "—",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "ჼ",
+			"base": "ნ"
+		},
+		"O": {
+			"base": "ო",
+			"shift": "`"
+		},
+		"P": {
+			"base": "პ",
+			"shift": "~"
+		},
+		"Period": {
+			"alt": "»",
+			"base": ".",
+			"shift": ">"
+		},
+		"Q": {
+			"base": "ქ"
+		},
+		"Quote": {
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "®",
+			"base": "რ",
+			"shift": "ღ"
+		},
+		"RightBracket": {
+			"alt": "‘",
+			"altShift": "’",
+			"base": "]",
+			"shift": "}"
+		},
+		"S": {
+			"base": "ს",
+			"shift": "შ"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"base": ";",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "჻",
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"base": "ტ",
+			"shift": "თ"
+		},
+		"U": {
+			"base": "უ"
+		},
+		"V": {
+			"alt": "ჳ",
+			"base": "ვ"
+		},
+		"W": {
+			"base": "წ",
+			"shift": "ჭ"
+		},
+		"X": {
+			"alt": "ჴ",
+			"base": "ხ"
+		},
+		"Y": {
+			"alt": "ჸ",
+			"base": "ყ"
+		},
+		"Z": {
+			"base": "ზ",
+			"shift": "ძ"
+		}
+	},
+	"name": "Georgian – QWERTY",
+	"physicalLayout": "iso"
+}

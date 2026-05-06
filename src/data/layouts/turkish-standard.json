@@ -1,0 +1,221 @@
+{
+	"id": "turkish-standard",
+	"keymap": {
+		"0": {
+			"alt": "}",
+			"base": "0",
+			"shift": "="
+		},
+		"1": {
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"base": "2",
+			"shift": "\""
+		},
+		"3": {
+			"alt": "#",
+			"base": "3",
+			"shift": "^"
+		},
+		"4": {
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"base": "6",
+			"shift": "&"
+		},
+		"7": {
+			"alt": "{",
+			"base": "7",
+			"shift": "'"
+		},
+		"8": {
+			"alt": "[",
+			"base": "8",
+			"shift": "("
+		},
+		"9": {
+			"alt": "]",
+			"base": "9",
+			"shift": ")"
+		},
+		"A": {
+			"alt": "û",
+			"altShift": "Û",
+			"base": "u",
+			"shift": "U"
+		},
+		"B": {
+			"base": "ç",
+			"shift": "Ç"
+		},
+		"Backslash": {
+			"alt": "`",
+			"base": "x",
+			"shift": "X"
+		},
+		"C": {
+			"base": "v",
+			"shift": "V"
+		},
+		"Comma": {
+			"base": "b",
+			"shift": "B"
+		},
+		"D": {
+			"alt": "€",
+			"base": "e",
+			"shift": "E"
+		},
+		"E": {
+			"base": "ğ",
+			"shift": "Ğ"
+		},
+		"Equal": {
+			"alt": "|",
+			"base": "-",
+			"shift": "_"
+		},
+		"F": {
+			"alt": "â",
+			"altShift": "Â",
+			"base": "a",
+			"shift": "A"
+		},
+		"G": {
+			"base": "ü",
+			"shift": "Ü"
+		},
+		"Grave": {
+			"alt": "«",
+			"altShift": "»",
+			"base": "<",
+			"shift": ">"
+		},
+		"H": {
+			"alt": "₺",
+			"base": "t",
+			"shift": "T"
+		},
+		"I": {
+			"base": "n",
+			"shift": "N"
+		},
+		"J": {
+			"base": "k",
+			"shift": "K"
+		},
+		"K": {
+			"base": "m",
+			"shift": "M"
+		},
+		"L": {
+			"alt": "£",
+			"base": "l",
+			"shift": "L"
+		},
+		"LeftBracket": {
+			"base": "q",
+			"shift": "Q"
+		},
+		"M": {
+			"base": "s",
+			"shift": "S"
+		},
+		"Minus": {
+			"alt": "\\",
+			"base": "\/",
+			"shift": "?"
+		},
+		"N": {
+			"base": "z",
+			"shift": "Z"
+		},
+		"O": {
+			"base": "h",
+			"shift": "H"
+		},
+		"P": {
+			"base": "p",
+			"shift": "P"
+		},
+		"Period": {
+			"base": ".",
+			"shift": ":"
+		},
+		"Q": {
+			"alt": "@",
+			"base": "f",
+			"shift": "F"
+		},
+		"Quote": {
+			"base": "ş",
+			"shift": "Ş"
+		},
+		"R": {
+			"base": "ı",
+			"shift": "I"
+		},
+		"RightBracket": {
+			"alt": "~",
+			"base": "w",
+			"shift": "W"
+		},
+		"S": {
+			"alt": "î",
+			"altShift": "Î",
+			"base": "i",
+			"shift": "İ"
+		},
+		"Section": {
+			"base": "+",
+			"shift": "*"
+		},
+		"Semicolon": {
+			"alt": "¥",
+			"base": "y",
+			"shift": "Y"
+		},
+		"Slash": {
+			"base": ",",
+			"shift": ";"
+		},
+		"T": {
+			"base": "o",
+			"shift": "O"
+		},
+		"U": {
+			"base": "r",
+			"shift": "R"
+		},
+		"V": {
+			"base": "c",
+			"shift": "C"
+		},
+		"W": {
+			"base": "g",
+			"shift": "G"
+		},
+		"X": {
+			"base": "ö",
+			"shift": "Ö"
+		},
+		"Y": {
+			"base": "d",
+			"shift": "D"
+		},
+		"Z": {
+			"base": "j",
+			"shift": "J"
+		}
+	},
+	"name": "Turkish F",
+	"physicalLayout": "iso"
+}

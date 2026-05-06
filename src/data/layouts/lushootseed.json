@@ -1,0 +1,295 @@
+{
+	"id": "lushootseed",
+	"keymap": {
+		"0": {
+			"alt": "º",
+			"altShift": "‚",
+			"base": "0",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "¡",
+			"altShift": "⁄",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "™",
+			"altShift": "€",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "£",
+			"altShift": "‹",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "¢",
+			"altShift": "›",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "∞",
+			"altShift": "ﬁ",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "§",
+			"altShift": "ﬂ",
+			"base": "6",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "¶",
+			"altShift": "‡",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "•",
+			"altShift": "°",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "ª",
+			"altShift": "·",
+			"base": "9",
+			"shift": "("
+		},
+		"A": {
+			"alt": "å",
+			"altShift": "Å",
+			"base": "a",
+			"shift": "a"
+		},
+		"B": {
+			"alt": "∫",
+			"altShift": "ı",
+			"base": "b",
+			"shift": "b"
+		},
+		"Backslash": {
+			"alt": "«",
+			"altShift": "»",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"alt": "ç",
+			"altShift": "Ç",
+			"base": "c",
+			"shift": "c̓"
+		},
+		"Comma": {
+			"alt": "≤",
+			"altShift": "¯",
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"alt": "∂",
+			"altShift": "Î",
+			"base": "d",
+			"shift": "dᶻ"
+		},
+		"E": {
+			"alt": "e",
+			"altShift": "E",
+			"base": "ə",
+			"shift": "ə"
+		},
+		"Equal": {
+			"alt": "≠",
+			"altShift": "±",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "f",
+			"altShift": "F",
+			"base": "ʔ",
+			"shift": "ʔ"
+		},
+		"G": {
+			"alt": "©",
+			"altShift": "˝",
+			"base": "g",
+			"shift": "g"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "`",
+			"base": "`",
+			"shift": "~"
+		},
+		"H": {
+			"alt": "˙",
+			"altShift": "Ó",
+			"base": "h",
+			"shift": "h"
+		},
+		"I": {
+			"alt": "̂",
+			"altShift": "ˆ",
+			"base": "i",
+			"shift": "i"
+		},
+		"J": {
+			"alt": "j",
+			"altShift": "J",
+			"base": "ǰ",
+			"shift": "ǰ"
+		},
+		"K": {
+			"alt": "˚",
+			"altShift": "",
+			"base": "k",
+			"shift": "k̓"
+		},
+		"L": {
+			"alt": "¬",
+			"altShift": "Ò",
+			"base": "l",
+			"shift": "l̓"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "[",
+			"shift": "{"
+		},
+		"M": {
+			"alt": "µ",
+			"altShift": "Â",
+			"base": "m",
+			"shift": "m"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "̃",
+			"altShift": "˜",
+			"base": "n",
+			"shift": "n"
+		},
+		"O": {
+			"alt": "o",
+			"altShift": "O",
+			"base": "ʷ",
+			"shift": "ʷ"
+		},
+		"P": {
+			"alt": "π",
+			"altShift": "∏",
+			"base": "p",
+			"shift": "p̓"
+		},
+		"Period": {
+			"alt": "≥",
+			"altShift": "˘",
+			"base": ".",
+			"shift": ">"
+		},
+		"Q": {
+			"alt": "œ",
+			"altShift": "Œ",
+			"base": "q",
+			"shift": "q̓"
+		},
+		"Quote": {
+			"alt": "æ",
+			"altShift": "Æ",
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "r",
+			"altShift": "R",
+			"base": "š",
+			"shift": "š"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "]",
+			"shift": "}"
+		},
+		"S": {
+			"alt": "ß",
+			"altShift": "Í",
+			"base": "s",
+			"shift": "s"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": "ɬ",
+			"shift": "ƛ̓"
+		},
+		"Slash": {
+			"alt": "÷",
+			"altShift": "¿",
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"alt": "†",
+			"altShift": "ˇ",
+			"base": "t",
+			"shift": "t̓"
+		},
+		"U": {
+			"alt": "̈",
+			"altShift": "¨",
+			"base": "u",
+			"shift": "u"
+		},
+		"V": {
+			"alt": "v",
+			"altShift": "V",
+			"base": "č",
+			"shift": "č̓"
+		},
+		"W": {
+			"alt": "∑",
+			"altShift": "„",
+			"base": "w",
+			"shift": "w̓"
+		},
+		"X": {
+			"alt": "≈",
+			"altShift": "˛",
+			"base": "x",
+			"shift": "x"
+		},
+		"Y": {
+			"alt": "¥",
+			"altShift": "Á",
+			"base": "y",
+			"shift": "y̓"
+		},
+		"Z": {
+			"alt": "z",
+			"altShift": "Z",
+			"base": "x̌",
+			"shift": "x̌"
+		}
+	},
+	"name": "Lushootseed",
+	"physicalLayout": "iso"
+}

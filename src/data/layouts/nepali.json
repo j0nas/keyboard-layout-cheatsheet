@@ -1,0 +1,287 @@
+{
+	"id": "nepali",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": ")",
+			"base": "ण",
+			"shift": "०"
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "!",
+			"base": "ज्ञ",
+			"shift": "१"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "@",
+			"base": "द्द",
+			"shift": "२"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "#",
+			"base": "घ",
+			"shift": "३"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "$",
+			"base": "द्ध",
+			"shift": "४"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "%",
+			"base": "छ",
+			"shift": "५"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "^",
+			"base": "ट",
+			"shift": "६"
+		},
+		"7": {
+			"alt": "7",
+			"altShift": "&",
+			"base": "ठ",
+			"shift": "७"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "*",
+			"base": "ड",
+			"shift": "८"
+		},
+		"9": {
+			"alt": "9",
+			"altShift": "(",
+			"base": "ढ",
+			"shift": "९"
+		},
+		"A": {
+			"alt": "a",
+			"altShift": "A",
+			"base": "ब",
+			"shift": "द्व"
+		},
+		"B": {
+			"alt": "b",
+			"altShift": "B",
+			"base": "ल",
+			"shift": "ल्"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "्",
+			"shift": "झ"
+		},
+		"C": {
+			"alt": "c",
+			"altShift": "C",
+			"base": "ख",
+			"shift": "ख्"
+		},
+		"Comma": {
+			"alt": "<",
+			"altShift": "<",
+			"base": "।",
+			"shift": "श्र"
+		},
+		"D": {
+			"alt": "d",
+			"altShift": "D",
+			"base": "म",
+			"shift": "ँ"
+		},
+		"E": {
+			"alt": "e",
+			"altShift": "E",
+			"base": "भ",
+			"shift": "भ्"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "+",
+			"base": "ङ",
+			"shift": "ं"
+		},
+		"F": {
+			"alt": "f",
+			"altShift": "F",
+			"base": "ा",
+			"shift": "आ"
+		},
+		"G": {
+			"alt": "g",
+			"altShift": "G",
+			"base": "न",
+			"shift": "न्"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "श"
+		},
+		"H": {
+			"alt": "h",
+			"altShift": "H",
+			"base": "ज",
+			"shift": "ज्"
+		},
+		"I": {
+			"alt": "i",
+			"altShift": "I",
+			"base": "ष",
+			"shift": "क्ष"
+		},
+		"J": {
+			"alt": "j",
+			"altShift": "J",
+			"base": "व",
+			"shift": "व्"
+		},
+		"K": {
+			"alt": "k",
+			"altShift": "K",
+			"base": "प",
+			"shift": "ई"
+		},
+		"L": {
+			"alt": "l",
+			"altShift": "L",
+			"base": "ि",
+			"shift": "ी"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "ृ"
+		},
+		"M": {
+			"alt": "m",
+			"altShift": "M",
+			"base": "ो",
+			"shift": "ौ"
+		},
+		"Minus": {
+			"alt": "-",
+			"altShift": "_",
+			"base": "(",
+			"shift": ")"
+		},
+		"N": {
+			"alt": "n",
+			"altShift": "N",
+			"base": "फ",
+			"shift": "ः"
+		},
+		"O": {
+			"alt": "o",
+			"altShift": "O",
+			"base": "य",
+			"shift": "इ"
+		},
+		"P": {
+			"alt": "p",
+			"altShift": "P",
+			"base": "उ",
+			"shift": "ए"
+		},
+		"Period": {
+			"alt": ">",
+			"altShift": ">",
+			"base": "र",
+			"shift": "ओ"
+		},
+		"Q": {
+			"alt": "q",
+			"altShift": "Q",
+			"base": "ऊ",
+			"shift": "ऐ"
+		},
+		"Quote": {
+			"alt": "'",
+			"altShift": "\"",
+			"base": "ु",
+			"shift": "ू"
+		},
+		"R": {
+			"alt": "r",
+			"altShift": "R",
+			"base": "च",
+			"shift": "च्"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "े",
+			"shift": "ै"
+		},
+		"S": {
+			"alt": "s",
+			"altShift": "S",
+			"base": "क",
+			"shift": "क्"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": "स",
+			"shift": "स्"
+		},
+		"Slash": {
+			"alt": "\/",
+			"altShift": "?",
+			"base": "\/",
+			"shift": "औ"
+		},
+		"T": {
+			"alt": "t",
+			"altShift": "T",
+			"base": "त",
+			"shift": "त्"
+		},
+		"U": {
+			"alt": "u",
+			"altShift": "U",
+			"base": "ग",
+			"shift": "ग्"
+		},
+		"V": {
+			"alt": "v",
+			"altShift": "V",
+			"base": "द",
+			"shift": "द्य"
+		},
+		"W": {
+			"alt": "w",
+			"altShift": "W",
+			"base": "ध",
+			"shift": "ध्"
+		},
+		"X": {
+			"alt": "x",
+			"altShift": "X",
+			"base": "अ",
+			"shift": "ऋ"
+		},
+		"Y": {
+			"alt": "y",
+			"altShift": "Y",
+			"base": "थ",
+			"shift": "ञ"
+		},
+		"Z": {
+			"alt": "z",
+			"altShift": "Z",
+			"base": "ह",
+			"shift": "ह्म"
+		}
+	},
+	"name": "Nepali – Remington",
+	"physicalLayout": "iso"
+}

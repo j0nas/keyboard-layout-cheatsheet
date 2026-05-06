@@ -1,0 +1,244 @@
+{
+	"id": "malayalam-qwerty",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": "×",
+			"base": "൦",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "…",
+			"base": "൧",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "©",
+			"base": "൨",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "®",
+			"base": "൩",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "™",
+			"base": "൪",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "’",
+			"base": "൫",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "‘",
+			"base": "൬",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "7",
+			"altShift": "–",
+			"base": "൭",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "•",
+			"base": "൮",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "9",
+			"altShift": "—",
+			"base": "൯",
+			"shift": "("
+		},
+		"A": {
+			"alt": "അ",
+			"altShift": "ആ",
+			"base": "ാ",
+			"shift": "ാ"
+		},
+		"B": {
+			"base": "ബ",
+			"shift": "ഭ"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "ൊ",
+			"shift": "ഒ"
+		},
+		"C": {
+			"base": "ച",
+			"shift": "ഛ"
+		},
+		"Comma": {
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"alt": "ഡ",
+			"altShift": "ഢ",
+			"base": "ദ",
+			"shift": "ധ"
+		},
+		"E": {
+			"alt": "ഏ",
+			"altShift": "ഐ",
+			"base": "േ",
+			"shift": "ൈ"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "+",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"base": "്"
+		},
+		"G": {
+			"base": "ഗ",
+			"shift": "ഘ"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "െ",
+			"shift": "എ"
+		},
+		"H": {
+			"base": "ഹ",
+			"shift": "ഃ"
+		},
+		"I": {
+			"alt": "ഇ",
+			"altShift": "ഈ",
+			"base": "ി",
+			"shift": "ീ"
+		},
+		"J": {
+			"alt": "ജ്ഞ",
+			"base": "ജ",
+			"shift": "ഝ"
+		},
+		"K": {
+			"base": "ക",
+			"shift": "ഖ"
+		},
+		"L": {
+			"alt": "ഴ",
+			"base": "ല",
+			"shift": "ള"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"shift": "["
+		},
+		"M": {
+			"base": "മ",
+			"shift": "ം"
+		},
+		"Minus": {
+			"alt": "_",
+			"altShift": "−",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "ഞ",
+			"base": "ന",
+			"shift": "ണ"
+		},
+		"O": {
+			"alt": "ഓ",
+			"altShift": "ഔ",
+			"base": "ോ",
+			"shift": "ൗ"
+		},
+		"P": {
+			"base": "പ",
+			"shift": "ഫ"
+		},
+		"Period": {
+			"alt": ".",
+			"base": ".",
+			"shift": ">"
+		},
+		"Quote": {
+			"altShift": "\"",
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "ഋ",
+			"altShift": "റ",
+			"base": "ര",
+			"shift": "ൃ"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "ര",
+			"shift": "]"
+		},
+		"S": {
+			"alt": "ശ്ര",
+			"altShift": "ഷ",
+			"base": "സ",
+			"shift": "ശ"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": ";",
+			"shift": ":"
+		},
+		"Slash": {
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"alt": "ട",
+			"altShift": "ഠ",
+			"base": "ത",
+			"shift": "ഥ"
+		},
+		"U": {
+			"alt": "ഉ",
+			"altShift": "ഊ",
+			"base": "ു",
+			"shift": "ൂ"
+		},
+		"V": {
+			"base": "വ"
+		},
+		"W": {
+			"base": "അ",
+			"shift": "ആ"
+		},
+		"X": {
+			"base": "ഷ",
+			"shift": "ക്ഷ"
+		},
+		"Y": {
+			"base": "യ"
+		},
+		"Z": {
+			"altShift": "ഒ",
+			"base": "ങ"
+		}
+	},
+	"name": "Malayalam – QWERTY",
+	"physicalLayout": "iso"
+}

@@ -1,0 +1,255 @@
+{
+	"id": "transliteration-gu",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": "°",
+			"base": "૦",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "1",
+			"base": "૧",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "2",
+			"base": "૨",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "3",
+			"base": "૩",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "₹",
+			"base": "૪",
+			"shift": "રૂ૰"
+		},
+		"5": {
+			"alt": "5",
+			"base": "૫",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "6",
+			"base": "૬",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "7",
+			"base": "૭",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "•",
+			"base": "૮",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "9",
+			"base": "૯",
+			"shift": "("
+		},
+		"A": {
+			"alt": "¯",
+			"base": "a",
+			"shift": "A"
+		},
+		"B": {
+			"base": "b",
+			"shift": "B"
+		},
+		"Backslash": {
+			"alt": "«",
+			"altShift": "»",
+			"base": "ઽ",
+			"shift": "૰"
+		},
+		"C": {
+			"alt": "ć",
+			"altShift": "Ć",
+			"base": "c",
+			"shift": "C"
+		},
+		"Comma": {
+			"alt": "≤",
+			"altShift": "≥",
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"alt": "ḍ",
+			"altShift": "Ḍ",
+			"base": "d",
+			"shift": "D"
+		},
+		"E": {
+			"alt": "´",
+			"base": "e",
+			"shift": "E"
+		},
+		"Equal": {
+			"alt": "≠",
+			"altShift": "±",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"base": "f",
+			"shift": "F"
+		},
+		"G": {
+			"alt": "ġ",
+			"altShift": "Ġ",
+			"base": "g",
+			"shift": "G"
+		},
+		"Grave": {
+			"alt": "˜",
+			"altShift": "`",
+			"base": "₹",
+			"shift": "~"
+		},
+		"H": {
+			"base": "h",
+			"shift": "H"
+		},
+		"I": {
+			"base": "i",
+			"shift": "I"
+		},
+		"J": {
+			"base": "j",
+			"shift": "J"
+		},
+		"K": {
+			"altShift": "",
+			"base": "k",
+			"shift": "K"
+		},
+		"L": {
+			"alt": "ḷ",
+			"altShift": "Ḷ",
+			"base": "l",
+			"shift": "L"
+		},
+		"LeftBracket": {
+			"alt": "“",
+			"altShift": "”",
+			"base": "[",
+			"shift": "{"
+		},
+		"M": {
+			"alt": "m̐",
+			"altShift": "M̐",
+			"base": "m",
+			"shift": "M"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "ṇ",
+			"altShift": "Ṇ",
+			"base": "n",
+			"shift": "N"
+		},
+		"O": {
+			"alt": "ૐ",
+			"base": "o",
+			"shift": "O"
+		},
+		"P": {
+			"base": "p",
+			"shift": "P"
+		},
+		"Period": {
+			"alt": "।",
+			"altShift": "॥",
+			"base": ".",
+			"shift": ">"
+		},
+		"Q": {
+			"base": "q",
+			"shift": "Q"
+		},
+		"Quote": {
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "r̥",
+			"altShift": "R̥",
+			"base": "r",
+			"shift": "R"
+		},
+		"RightBracket": {
+			"alt": "‘",
+			"altShift": "’",
+			"base": "]",
+			"shift": "}"
+		},
+		"S": {
+			"alt": "ś",
+			"altShift": "Ś",
+			"base": "s",
+			"shift": "S"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": "…",
+			"base": ";",
+			"shift": ":"
+		},
+		"Slash": {
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"alt": "ṭ",
+			"altShift": "Ṭ",
+			"base": "t",
+			"shift": "T"
+		},
+		"U": {
+			"base": "u",
+			"shift": "U"
+		},
+		"V": {
+			"base": "v",
+			"shift": "V"
+		},
+		"W": {
+			"base": "w",
+			"shift": "W"
+		},
+		"X": {
+			"alt": "ṣ",
+			"altShift": "Ṣ",
+			"base": "x",
+			"shift": "X"
+		},
+		"Y": {
+			"base": "y",
+			"shift": "Y"
+		},
+		"Z": {
+			"base": "z",
+			"shift": "Z"
+		}
+	},
+	"name": "Gujarati – Transliteration",
+	"physicalLayout": "iso"
+}

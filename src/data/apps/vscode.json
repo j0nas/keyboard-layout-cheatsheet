@@ -1,0 +1,112 @@
+{
+	"id": "vscode",
+	"name": "VS Code (macOS)",
+	"interpretationModel": "symbolic",
+	"bindings": [
+		{
+			"keys": ["cmd", "p"],
+			"action": "Quick open file",
+			"category": "Navigation"
+		},
+		{
+			"keys": ["cmd", "shift", "p"],
+			"action": "Command palette",
+			"category": "Navigation"
+		},
+		{
+			"keys": ["cmd", "b"],
+			"action": "Toggle sidebar",
+			"category": "View"
+		},
+		{
+			"keys": ["cmd", "j"],
+			"action": "Toggle panel",
+			"category": "View"
+		},
+		{
+			"keys": ["cmd", "shift", "e"],
+			"action": "Focus explorer",
+			"category": "View"
+		},
+		{
+			"keys": ["cmd", "shift", "f"],
+			"action": "Find in files",
+			"category": "Search"
+		},
+		{
+			"keys": ["cmd", "f"],
+			"action": "Find in current file",
+			"category": "Search"
+		},
+		{
+			"keys": ["cmd", "g"],
+			"action": "Find next",
+			"category": "Search"
+		},
+		{
+			"keys": ["cmd", "shift", "h"],
+			"action": "Replace in files",
+			"category": "Search"
+		},
+		{
+			"keys": ["cmd", "/"],
+			"action": "Toggle line comment",
+			"category": "Editing"
+		},
+		{
+			"keys": ["cmd", "shift", "/"],
+			"action": "Toggle block comment",
+			"category": "Editing"
+		},
+		{
+			"keys": ["cmd", "d"],
+			"action": "Add selection to next find match",
+			"category": "Editing"
+		},
+		{
+			"keys": ["cmd", "shift", "k"],
+			"action": "Delete line",
+			"category": "Editing"
+		},
+		{
+			"keys": ["alt", "shift", "f"],
+			"action": "Format document",
+			"category": "Editing"
+		},
+		{
+			"keys": ["cmd", "."],
+			"action": "Quick fix",
+			"category": "Editing"
+		},
+		{
+			"keys": ["cmd", "shift", "o"],
+			"action": "Go to symbol in file",
+			"category": "Navigation"
+		},
+		{
+			"keys": ["cmd", "t"],
+			"action": "Go to symbol in workspace",
+			"category": "Navigation"
+		},
+		{
+			"keys": ["ctrl", "g"],
+			"action": "Go to line",
+			"category": "Navigation"
+		},
+		{
+			"keys": ["cmd", "w"],
+			"action": "Close editor",
+			"category": "Editor"
+		},
+		{
+			"keys": ["cmd", "shift", "t"],
+			"action": "Reopen closed editor",
+			"category": "Editor"
+		},
+		{
+			"keys": ["ctrl", "`"],
+			"action": "Toggle terminal",
+			"category": "Terminal"
+		}
+	]
+}

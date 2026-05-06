@@ -1,0 +1,247 @@
+{
+	"id": "sinhala-qwerty",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": "×",
+			"base": "0",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "…",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "©",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "®",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "™",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "’",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "‘",
+			"base": "6",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "7",
+			"altShift": "–",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "•",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "9",
+			"altShift": "—",
+			"base": "9",
+			"shift": "("
+		},
+		"A": {
+			"base": "ා",
+			"shift": "අ"
+		},
+		"B": {
+			"alt": "ඹ",
+			"base": "බ",
+			"shift": "භ"
+		},
+		"Backslash": {
+			"alt": "ඏ",
+			"altShift": "ඐ",
+			"base": "ෟ",
+			"shift": "ෳ"
+		},
+		"C": {
+			"base": "ච",
+			"shift": "ඡ"
+		},
+		"Comma": {
+			"alt": ",",
+			"altShift": "<",
+			"base": "ඞ"
+		},
+		"D": {
+			"alt": "ඳ",
+			"base": "ද",
+			"shift": "ධ"
+		},
+		"E": {
+			"alt": "ෛ",
+			"altShift": "ඓ",
+			"base": "ෙ",
+			"shift": "එ"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "+",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"base": "ෆ"
+		},
+		"G": {
+			"alt": "ඟ",
+			"base": "ග",
+			"shift": "ඝ"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "ෑ",
+			"shift": "ඈ"
+		},
+		"H": {
+			"base": "හ",
+			"shift": "ඃ"
+		},
+		"I": {
+			"alt": "ඉ",
+			"altShift": "ඊ",
+			"base": "ි",
+			"shift": "ී"
+		},
+		"J": {
+			"alt": "ඦ",
+			"base": "ජ",
+			"shift": "ඣ"
+		},
+		"K": {
+			"base": "ක",
+			"shift": "ඛ"
+		},
+		"L": {
+			"base": "ල",
+			"shift": "ළ"
+		},
+		"LeftBracket": {
+			"base": "ෝ",
+			"shift": "ඕ"
+		},
+		"M": {
+			"base": "ම",
+			"shift": "ං"
+		},
+		"Minus": {
+			"alt": "_",
+			"altShift": "−",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "ඤ",
+			"base": "න",
+			"shift": "ණ"
+		},
+		"O": {
+			"alt": "ෞ",
+			"altShift": "ඖ",
+			"base": "ො",
+			"shift": "ඔ"
+		},
+		"P": {
+			"base": "ප",
+			"shift": "ඵ"
+		},
+		"Period": {
+			"alt": "෴",
+			"altShift": ">",
+			"base": "ඤ",
+			"shift": "ඥ"
+		},
+		"Q": {
+			"base": "ැ",
+			"shift": "ඇ"
+		},
+		"Quote": {
+			"base": "ට",
+			"shift": "ඨ"
+		},
+		"R": {
+			"alt": "ර්‍",
+			"base": "ර",
+			"shift": "්‍ර"
+		},
+		"RightBracket": {
+			"alt": "ෲ",
+			"altShift": "ඎ",
+			"base": "ෘ",
+			"shift": "ඍ"
+		},
+		"S": {
+			"alt": "ෂ",
+			"base": "ස",
+			"shift": "ශ"
+		},
+		"Semicolon": {
+			"alt": "ඬ",
+			"base": "ඩ",
+			"shift": "ඪ"
+		},
+		"Slash": {
+			"alt": "\/",
+			"altShift": "?",
+			"base": ".",
+			"shift": ","
+		},
+		"T": {
+			"alt": "ට",
+			"altShift": "ඨ",
+			"base": "ත",
+			"shift": "ථ"
+		},
+		"U": {
+			"alt": "උ",
+			"altShift": "ඌ",
+			"base": "ු",
+			"shift": "ූ"
+		},
+		"V": {
+			"base": "ව"
+		},
+		"W": {
+			"base": "අ",
+			"shift": "ආ"
+		},
+		"X": {
+			"base": "ේ",
+			"shift": "ඒ"
+		},
+		"Y": {
+			"base": "ය",
+			"shift": "්‍ය"
+		},
+		"Z": {
+			"alt": "‍්",
+			"base": "්",
+			"shift": "්‍"
+		}
+	},
+	"name": "Sinhala – QWERTY",
+	"physicalLayout": "iso"
+}

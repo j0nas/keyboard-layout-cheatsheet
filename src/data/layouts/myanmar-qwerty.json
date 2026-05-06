@@ -1,0 +1,250 @@
+{
+	"id": "myanmar-qwerty",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": "×",
+			"base": "၀",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "…",
+			"base": "၁",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "©",
+			"base": "၂",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "®",
+			"base": "၃",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "™",
+			"base": "၄",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "’",
+			"base": "၅",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "‘",
+			"base": "၆",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "7",
+			"altShift": "–",
+			"base": "၇",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "•",
+			"base": "၈",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "9",
+			"altShift": "—",
+			"base": "၉",
+			"shift": "("
+		},
+		"A": {
+			"alt": "အ",
+			"base": "ာ",
+			"shift": "ါ"
+		},
+		"B": {
+			"base": "ဗ",
+			"shift": "ဘ"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "၎",
+			"shift": "\\"
+		},
+		"C": {
+			"base": "စ",
+			"shift": "ဆ"
+		},
+		"Comma": {
+			"base": "့",
+			"shift": ","
+		},
+		"D": {
+			"alt": "ဍ",
+			"altShift": "ဎ",
+			"base": "ဒ",
+			"shift": "ဓ"
+		},
+		"E": {
+			"alt": "ဧ",
+			"base": "ေ",
+			"shift": "ဲ"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "+",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"base": "္",
+			"shift": "်"
+		},
+		"G": {
+			"base": "ဂ",
+			"shift": "ဃ"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "၌",
+			"shift": "၍"
+		},
+		"H": {
+			"base": "ဟ",
+			"shift": "ှ"
+		},
+		"I": {
+			"alt": "ဣ",
+			"altShift": "ဤ",
+			"base": "ိ",
+			"shift": "ီ"
+		},
+		"J": {
+			"base": "ဇ",
+			"shift": "ဈ"
+		},
+		"K": {
+			"base": "က",
+			"shift": "ခ"
+		},
+		"L": {
+			"alt": "ၔ",
+			"altShift": "ၕ",
+			"base": "လ",
+			"shift": "ဠ"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "ံ"
+		},
+		"M": {
+			"base": "မ",
+			"shift": "ံ"
+		},
+		"Minus": {
+			"alt": "_",
+			"altShift": "−",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "ဉ",
+			"base": "န",
+			"shift": "ဏ"
+		},
+		"O": {
+			"base": "ော",
+			"shift": "ဩ"
+		},
+		"P": {
+			"base": "ပ",
+			"shift": "ဖ"
+		},
+		"Period": {
+			"alt": ".",
+			"altShift": "။",
+			"base": "၊",
+			"shift": "."
+		},
+		"Q": {
+			"alt": "ၖ",
+			"altShift": "ၗ",
+			"base": "်",
+			"shift": "၏"
+		},
+		"Quote": {
+			"alt": "'",
+			"altShift": "\"",
+			"base": "း",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "ၒ",
+			"altShift": "ၓ",
+			"base": "ရ",
+			"shift": "ြ"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "ော်",
+			"shift": "ဪ"
+		},
+		"S": {
+			"altShift": "ၑ",
+			"base": "သ",
+			"shift": "ဿ"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": "ဉ",
+			"shift": "ည"
+		},
+		"Slash": {
+			"base": "။",
+			"shift": "?"
+		},
+		"T": {
+			"alt": "ဋ",
+			"altShift": "ဌ",
+			"base": "တ",
+			"shift": "ထ"
+		},
+		"U": {
+			"alt": "ဥ",
+			"altShift": "ဦ",
+			"base": "ု",
+			"shift": "ူ"
+		},
+		"V": {
+			"base": "ဝ",
+			"shift": "ွ"
+		},
+		"W": {
+			"alt": "ၘ",
+			"altShift": "ၙ",
+			"base": "ို"
+		},
+		"X": {
+			"base": "အ"
+		},
+		"Y": {
+			"base": "ယ",
+			"shift": "ျ"
+		},
+		"Z": {
+			"base": "င",
+			"shift": "င်္"
+		}
+	},
+	"name": "Myanmar – QWERTY",
+	"physicalLayout": "iso"
+}

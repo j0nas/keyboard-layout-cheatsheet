@@ -1,0 +1,194 @@
+{
+	"id": "rejang-qwerty",
+	"keymap": {
+		"0": {
+			"alt": "°",
+			"base": "0",
+			"shift": ")"
+		},
+		"1": {
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"base": "6",
+			"shift": "^"
+		},
+		"7": {
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "•",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"base": "9",
+			"shift": "("
+		},
+		"A": {
+			"base": "ꥆ"
+		},
+		"B": {
+			"base": "ꤷ",
+			"shift": "ꥂ"
+		},
+		"Backslash": {
+			"base": "꥟",
+			"shift": "|"
+		},
+		"C": {
+			"base": "ꤹ"
+		},
+		"Comma": {
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"base": "ꤴ",
+			"shift": "ꥄ"
+		},
+		"E": {
+			"base": "ꥉ",
+			"shift": "ꥊ"
+		},
+		"Equal": {
+			"alt": "≠",
+			"altShift": "±",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"base": "ꤲ",
+			"shift": "ꥏ"
+		},
+		"G": {
+			"base": "ꤱ",
+			"shift": "ꥃ"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "`",
+			"shift": "~"
+		},
+		"H": {
+			"base": "ꥁ",
+			"shift": "ꥒ"
+		},
+		"I": {
+			"base": "ꥇ",
+			"shift": "ꥎ"
+		},
+		"J": {
+			"base": "ꤺ",
+			"shift": "ꥅ"
+		},
+		"K": {
+			"alt": "",
+			"base": "ꤰ"
+		},
+		"L": {
+			"base": "ꤾ"
+		},
+		"LeftBracket": {
+			"base": "[",
+			"shift": "{"
+		},
+		"M": {
+			"base": "ꤸ"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"base": "ꤵ",
+			"shift": "ꥐ"
+		},
+		"O": {
+			"base": "ꥋ",
+			"shift": "ꥌ"
+		},
+		"P": {
+			"base": "ꤶ"
+		},
+		"Period": {
+			"base": ".",
+			"shift": ">"
+		},
+		"Quote": {
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"base": "ꤽ",
+			"shift": "ꥑ"
+		},
+		"RightBracket": {
+			"base": "]",
+			"shift": "}"
+		},
+		"S": {
+			"base": "ꤼ"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": "…",
+			"base": ";",
+			"shift": ":"
+		},
+		"Slash": {
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"base": "ꤳ"
+		},
+		"U": {
+			"base": "ꥈ",
+			"shift": "ꥍ"
+		},
+		"V": {
+			"base": "ꥂ"
+		},
+		"W": {
+			"base": "ꥀ"
+		},
+		"X": {
+			"base": "ꥌ"
+		},
+		"Y": {
+			"base": "ꤿ"
+		},
+		"Z": {
+			"base": "ꥍ"
+		}
+	},
+	"name": "Rejang – QWERTY",
+	"physicalLayout": "iso"
+}

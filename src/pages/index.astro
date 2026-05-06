@@ -1,0 +1,22 @@
+---
+import Cheatsheet from "../components/Cheatsheet";
+import Layout from "../layouts/Layout.astro";
+import { allApps, allLayouts } from "../lib/loadData";
+
+const defaultAppId = allApps[0]?.id ?? "aerospace";
+const defaultLayoutId =
+	allLayouts.find((l) => l.id === "norwegian")?.id ??
+	allLayouts.find((l) => l.id === "us")?.id ??
+	allLayouts[0]?.id ??
+	"us";
+---
+
+<Layout>
+	<Cheatsheet
+		client:load
+		apps={allApps}
+		layouts={allLayouts}
+		defaultAppId={defaultAppId}
+		defaultLayoutId={defaultLayoutId}
+	/>
+</Layout>

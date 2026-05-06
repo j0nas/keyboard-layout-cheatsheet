@@ -1,0 +1,219 @@
+{
+	"id": "hanifi-rohingya-qwerty",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": "°",
+			"base": "𐴰",
+			"shift": "("
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "¡",
+			"base": "𐴱",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "™",
+			"base": "𐴲",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "£",
+			"base": "𐴳",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "৳",
+			"base": "𐴴",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "∞",
+			"base": "𐴵",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "§",
+			"base": "𐴶",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "7",
+			"altShift": "¶",
+			"base": "𐴷",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "•",
+			"base": "𐴸",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "9",
+			"base": "𐴹",
+			"shift": ")"
+		},
+		"A": {
+			"base": "𐴀"
+		},
+		"B": {
+			"base": "𐴁"
+		},
+		"Backslash": {
+			"alt": "|",
+			"altShift": "«",
+			"base": "𐴣",
+			"shift": "\\"
+		},
+		"C": {
+			"base": "𐴐"
+		},
+		"Comma": {
+			"alt": ">",
+			"altShift": "≥",
+			"base": "𐴃",
+			"shift": "،"
+		},
+		"D": {
+			"base": "𐴋"
+		},
+		"E": {
+			"base": "𐴞"
+		},
+		"Equal": {
+			"alt": "≠",
+			"altShift": "±",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"base": "𐴉"
+		},
+		"G": {
+			"base": "𐴒"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "𐴢",
+			"shift": "𐴦"
+		},
+		"H": {
+			"base": "𐴇"
+		},
+		"I": {
+			"base": "𐴠"
+		},
+		"J": {
+			"base": "𐴅"
+		},
+		"K": {
+			"altShift": "",
+			"base": "𐴑"
+		},
+		"L": {
+			"base": "𐴓"
+		},
+		"LeftBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "𐴗",
+			"shift": "»"
+		},
+		"M": {
+			"base": "𐴔"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"base": "𐴕"
+		},
+		"O": {
+			"base": "𐴡"
+		},
+		"P": {
+			"base": "𐴂",
+			"shift": "𐴜"
+		},
+		"Period": {
+			"alt": "<",
+			"altShift": "≤",
+			"base": "𐴊",
+			"shift": "."
+		},
+		"Q": {
+			"base": "𐴈"
+		},
+		"Quote": {
+			"alt": "\"",
+			"base": "𐴛",
+			"shift": "'"
+		},
+		"R": {
+			"base": "𐴌"
+		},
+		"RightBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "𐴙",
+			"shift": "«"
+		},
+		"S": {
+			"base": "𐴏",
+			"shift": "𐴥"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": ":",
+			"base": "𐴆",
+			"shift": "؛"
+		},
+		"Slash": {
+			"alt": "\/",
+			"altShift": "÷",
+			"base": "𐴍",
+			"shift": "؟"
+		},
+		"T": {
+			"base": "𐴄"
+		},
+		"U": {
+			"base": "𐴟"
+		},
+		"V": {
+			"base": "𐴝"
+		},
+		"W": {
+			"base": "𐴖",
+			"shift": "𐴧"
+		},
+		"X": {
+			"base": "𐴚"
+		},
+		"Y": {
+			"base": "𐴘",
+			"shift": "𐴤"
+		},
+		"Z": {
+			"base": "𐴎"
+		}
+	},
+	"name": "Hanifi Rohingya",
+	"physicalLayout": "iso"
+}

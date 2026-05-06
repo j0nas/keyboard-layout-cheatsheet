@@ -1,0 +1,247 @@
+{
+	"id": "vietnamese",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": ")",
+			"base": "đ",
+			"shift": "Đ"
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "!",
+			"base": "ă",
+			"shift": "Ă"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "@",
+			"base": "â",
+			"shift": "Â"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "#",
+			"base": "ê",
+			"shift": "Ê"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "$",
+			"base": "ô",
+			"shift": "Ô"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "%",
+			"base": "`",
+			"shift": "`"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "^",
+			"base": " ̉",
+			"shift": " ̉"
+		},
+		"7": {
+			"alt": "7",
+			"altShift": "&",
+			"base": "~",
+			"shift": "~"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "*",
+			"base": "´",
+			"shift": "´"
+		},
+		"9": {
+			"alt": "9",
+			"altShift": "(",
+			"base": " ̣",
+			"shift": " ̣"
+		},
+		"A": {
+			"alt": "å",
+			"altShift": "Å",
+			"base": "a",
+			"shift": "A"
+		},
+		"B": {
+			"alt": "̆",
+			"base": "b",
+			"shift": "B"
+		},
+		"Backslash": {
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"base": "c",
+			"shift": "C"
+		},
+		"Comma": {
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"base": "d",
+			"shift": "D"
+		},
+		"E": {
+			"base": "e",
+			"shift": "E"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "+",
+			"base": "₫",
+			"shift": "+"
+		},
+		"F": {
+			"base": "f",
+			"shift": "F"
+		},
+		"G": {
+			"alt": "©",
+			"base": "g",
+			"shift": "G"
+		},
+		"Grave": {
+			"base": "`",
+			"shift": "~"
+		},
+		"H": {
+			"base": "h",
+			"shift": "H"
+		},
+		"I": {
+			"alt": "^",
+			"base": "i",
+			"shift": "I"
+		},
+		"J": {
+			"base": "j",
+			"shift": "J"
+		},
+		"K": {
+			"base": "k",
+			"shift": "K"
+		},
+		"L": {
+			"alt": "£",
+			"base": "l",
+			"shift": "L"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "ư",
+			"shift": "Ư"
+		},
+		"M": {
+			"alt": "µ",
+			"base": "m",
+			"shift": "M"
+		},
+		"Minus": {
+			"alt": "-",
+			"altShift": "_",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "ñ",
+			"altShift": "Ñ",
+			"base": "n",
+			"shift": "N"
+		},
+		"O": {
+			"alt": "ø",
+			"altShift": "Ø",
+			"base": "o",
+			"shift": "O"
+		},
+		"P": {
+			"base": "p",
+			"shift": "P"
+		},
+		"Period": {
+			"base": ".",
+			"shift": ">"
+		},
+		"Q": {
+			"base": "q",
+			"shift": "Q"
+		},
+		"Quote": {
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "®",
+			"base": "r",
+			"shift": "R"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "ơ",
+			"shift": "Ơ"
+		},
+		"S": {
+			"alt": "ß",
+			"base": "s",
+			"shift": "S"
+		},
+		"Section": {
+			"alt": "¤",
+			"altShift": "±",
+			"base": "¤",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"base": ";",
+			"shift": ":"
+		},
+		"Slash": {
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"alt": "™",
+			"base": "t",
+			"shift": "T"
+		},
+		"U": {
+			"alt": "¨",
+			"base": "u",
+			"shift": "U"
+		},
+		"V": {
+			"alt": "ç",
+			"altShift": "Ç",
+			"base": "v",
+			"shift": "V"
+		},
+		"W": {
+			"base": "w",
+			"shift": "W"
+		},
+		"X": {
+			"base": "x",
+			"shift": "X"
+		},
+		"Y": {
+			"alt": "¥",
+			"base": "y",
+			"shift": "Y"
+		},
+		"Z": {
+			"base": "z",
+			"shift": "Z"
+		}
+	},
+	"name": "Vietnamese",
+	"physicalLayout": "iso"
+}

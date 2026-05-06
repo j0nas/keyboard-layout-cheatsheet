@@ -1,0 +1,278 @@
+{
+	"id": "ingush",
+	"keymap": {
+		"0": {
+			"alt": "}",
+			"altShift": "`",
+			"base": "0",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "!",
+			"altShift": "|",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "@",
+			"altShift": "\"",
+			"base": "2",
+			"shift": "\""
+		},
+		"3": {
+			"alt": "#",
+			"altShift": "£",
+			"base": "3",
+			"shift": "№"
+		},
+		"4": {
+			"alt": "$",
+			"altShift": "€",
+			"base": "4",
+			"shift": "%"
+		},
+		"5": {
+			"alt": "%",
+			"altShift": "∞",
+			"base": "5",
+			"shift": ":"
+		},
+		"6": {
+			"alt": "^",
+			"altShift": "¬",
+			"base": "6",
+			"shift": ","
+		},
+		"7": {
+			"alt": "&",
+			"altShift": "¶",
+			"base": "7",
+			"shift": "."
+		},
+		"8": {
+			"alt": "*",
+			"altShift": "√",
+			"base": "8",
+			"shift": ";"
+		},
+		"9": {
+			"alt": "{",
+			"altShift": "'",
+			"base": "9",
+			"shift": "("
+		},
+		"A": {
+			"alt": "ƒ",
+			"altShift": "ƒ",
+			"base": "ф",
+			"shift": "Ф"
+		},
+		"B": {
+			"alt": "и",
+			"altShift": "И",
+			"base": "и",
+			"shift": "И"
+		},
+		"Backslash": {
+			"alt": "ё",
+			"altShift": "Ё",
+			"base": "ё",
+			"shift": "Ё"
+		},
+		"C": {
+			"alt": "≠",
+			"altShift": "≠",
+			"base": "с",
+			"shift": "С"
+		},
+		"Comma": {
+			"alt": "≤",
+			"altShift": "<",
+			"base": "б",
+			"shift": "Б"
+		},
+		"D": {
+			"base": "в",
+			"shift": "В"
+		},
+		"E": {
+			"base": "у",
+			"shift": "У"
+		},
+		"Equal": {
+			"alt": "»",
+			"altShift": "«",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "÷",
+			"altShift": "÷",
+			"base": "а",
+			"shift": "А"
+		},
+		"G": {
+			"alt": "©",
+			"altShift": "©",
+			"base": "п",
+			"shift": "П"
+		},
+		"Grave": {
+			"alt": "]",
+			"altShift": "[",
+			"base": "]",
+			"shift": "["
+		},
+		"H": {
+			"alt": "₽",
+			"altShift": "₽",
+			"base": "р",
+			"shift": "Р"
+		},
+		"I": {
+			"alt": "щ",
+			"altShift": "Щ",
+			"base": "ш",
+			"shift": "Ш"
+		},
+		"J": {
+			"alt": "°",
+			"altShift": "•",
+			"base": "о",
+			"shift": "О"
+		},
+		"K": {
+			"base": "л",
+			"shift": "Л"
+		},
+		"L": {
+			"alt": "∆",
+			"altShift": "∆",
+			"base": "д",
+			"shift": "Д"
+		},
+		"LeftBracket": {
+			"alt": "“",
+			"altShift": "”",
+			"base": "х",
+			"shift": "Х"
+		},
+		"M": {
+			"alt": "~",
+			"altShift": "~",
+			"base": "ь",
+			"shift": "Ь"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "™",
+			"altShift": "™",
+			"base": "т",
+			"shift": "Т"
+		},
+		"O": {
+			"alt": "ӏ",
+			"base": "Ӏ",
+			"shift": "Ӏ"
+		},
+		"P": {
+			"alt": "‘",
+			"altShift": "’",
+			"base": "з",
+			"shift": "З"
+		},
+		"Period": {
+			"alt": "≥",
+			"altShift": ">",
+			"base": "ю",
+			"shift": "Ю"
+		},
+		"Q": {
+			"base": "й",
+			"shift": "Й"
+		},
+		"Quote": {
+			"alt": "э",
+			"altShift": "Э",
+			"base": "э",
+			"shift": "Э"
+		},
+		"R": {
+			"alt": "®",
+			"altShift": "®",
+			"base": "к",
+			"shift": "К"
+		},
+		"RightBracket": {
+			"alt": "ъ",
+			"altShift": "Ъ",
+			"base": "ъ",
+			"shift": "Ъ"
+		},
+		"S": {
+			"alt": "ы",
+			"altShift": "Ы",
+			"base": "ы",
+			"shift": "Ы"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": ">",
+			"shift": "<"
+		},
+		"Semicolon": {
+			"alt": "…",
+			"altShift": "…",
+			"base": "ж",
+			"shift": "Ж"
+		},
+		"Slash": {
+			"alt": "“",
+			"altShift": "„",
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"alt": "†",
+			"altShift": "†",
+			"base": "е",
+			"shift": "Е"
+		},
+		"U": {
+			"base": "г",
+			"shift": "Г"
+		},
+		"V": {
+			"alt": "µ",
+			"altShift": "µ",
+			"base": "м",
+			"shift": "М"
+		},
+		"W": {
+			"base": "ц",
+			"shift": "Ц"
+		},
+		"X": {
+			"alt": "≈",
+			"altShift": "≈",
+			"base": "ч",
+			"shift": "Ч"
+		},
+		"Y": {
+			"base": "н",
+			"shift": "Н"
+		},
+		"Z": {
+			"base": "я",
+			"shift": "Я"
+		}
+	},
+	"name": "Ingush",
+	"physicalLayout": "iso"
+}

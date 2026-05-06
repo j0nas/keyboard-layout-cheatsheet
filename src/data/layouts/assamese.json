@@ -1,0 +1,242 @@
+{
+	"id": "assamese",
+	"keymap": {
+		"0": {
+			"alt": "}",
+			"altShift": "]",
+			"base": "০",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "‍",
+			"altShift": "৴",
+			"base": "১",
+			"shift": "অ্যা"
+		},
+		"2": {
+			"alt": "‌",
+			"altShift": "৵",
+			"base": "২",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "$",
+			"altShift": "৶",
+			"base": "৩",
+			"shift": "্ৰ"
+		},
+		"4": {
+			"alt": "₹",
+			"altShift": "৷",
+			"base": "৪",
+			"shift": "ৰ্"
+		},
+		"5": {
+			"altShift": "৸",
+			"base": "৫",
+			"shift": "জ্ঞ"
+		},
+		"6": {
+			"altShift": "৹",
+			"base": "৬",
+			"shift": "ত্র"
+		},
+		"7": {
+			"base": "৭",
+			"shift": "ক্ষ"
+		},
+		"8": {
+			"base": "৮",
+			"shift": "শ্র"
+		},
+		"9": {
+			"alt": "{",
+			"altShift": "[",
+			"base": "৯",
+			"shift": "("
+		},
+		"A": {
+			"base": "ো",
+			"shift": "ও"
+		},
+		"B": {
+			"base": "ৱ"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "\/",
+			"shift": "?"
+		},
+		"C": {
+			"base": "ম",
+			"shift": "ণ"
+		},
+		"Comma": {
+			"alt": "৳",
+			"altShift": "৲",
+			"base": ",",
+			"shift": "ষ"
+		},
+		"D": {
+			"base": "্",
+			"shift": "অ"
+		},
+		"E": {
+			"altShift": "#",
+			"base": "া",
+			"shift": "আ"
+		},
+		"Equal": {
+			"alt": "ৄ",
+			"altShift": "ৠ",
+			"base": "ৃ",
+			"shift": "ঋ"
+		},
+		"F": {
+			"alt": "ৢ",
+			"altShift": "ঌ",
+			"base": "ি",
+			"shift": "ই"
+		},
+		"G": {
+			"base": "ু",
+			"shift": "উ"
+		},
+		"Grave": {
+			"base": "₹",
+			"shift": "~"
+		},
+		"H": {
+			"base": "প",
+			"shift": "ফ"
+		},
+		"I": {
+			"altShift": "*",
+			"base": "গ",
+			"shift": "ঘ"
+		},
+		"J": {
+			"base": "ৰ"
+		},
+		"K": {
+			"base": "ক",
+			"shift": "খ"
+		},
+		"L": {
+			"alt": "ৎ",
+			"base": "ত",
+			"shift": "থ"
+		},
+		"LeftBracket": {
+			"alt": "ড়",
+			"altShift": "ঢ়",
+			"base": "ড",
+			"shift": "ঢ"
+		},
+		"M": {
+			"base": "স",
+			"shift": "শ"
+		},
+		"Minus": {
+			"alt": "-",
+			"altShift": "_",
+			"base": "-",
+			"shift": "ঃ"
+		},
+		"N": {
+			"base": "ল"
+		},
+		"O": {
+			"base": "দ",
+			"shift": "ধ"
+		},
+		"P": {
+			"base": "জ",
+			"shift": "ঝ"
+		},
+		"Period": {
+			"alt": "॥",
+			"altShift": "ঽ",
+			"base": ".",
+			"shift": "।"
+		},
+		"Q": {
+			"altShift": "!",
+			"base": "ৌ",
+			"shift": "ঔ"
+		},
+		"Quote": {
+			"alt": "'",
+			"altShift": "\"",
+			"base": "ট",
+			"shift": "ঠ"
+		},
+		"R": {
+			"alt": "ৣ",
+			"altShift": "ৡ",
+			"base": "ী",
+			"shift": "ঈ"
+		},
+		"RightBracket": {
+			"alt": "=",
+			"altShift": "+",
+			"base": "়",
+			"shift": "ঞ"
+		},
+		"S": {
+			"base": "ে",
+			"shift": "এ"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": "চ",
+			"shift": "ছ"
+		},
+		"Slash": {
+			"alt": "‍্য",
+			"base": "য",
+			"shift": "য়"
+		},
+		"T": {
+			"altShift": "%",
+			"base": "ূ",
+			"shift": "ঊ"
+		},
+		"U": {
+			"altShift": "&",
+			"base": "হ",
+			"shift": "ঙ"
+		},
+		"V": {
+			"base": "ন"
+		},
+		"W": {
+			"altShift": "@",
+			"base": "ৈ",
+			"shift": "ঐ"
+		},
+		"X": {
+			"alt": "৺",
+			"base": "ং",
+			"shift": "ঁ"
+		},
+		"Y": {
+			"altShift": "^",
+			"base": "ব",
+			"shift": "ভ"
+		},
+		"Z": {
+			"base": "ʼ"
+		}
+	},
+	"name": "Assamese – InScript",
+	"physicalLayout": "iso"
+}

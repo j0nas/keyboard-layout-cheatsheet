@@ -1,0 +1,232 @@
+{
+	"id": "geez-qwerty",
+	"keymap": {
+		"0": {
+			"altShift": "‚",
+			"base": "0",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "¡",
+			"altShift": "⁄",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "™",
+			"altShift": "€",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "£",
+			"altShift": "£",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "€",
+			"altShift": "¥",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "§",
+			"altShift": "†",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "∞",
+			"altShift": "̂",
+			"base": "6",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "¶",
+			"altShift": "‡",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "•",
+			"altShift": "°",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"altShift": "·",
+			"base": "9",
+			"shift": "("
+		},
+		"A": {
+			"base": "አ"
+		},
+		"B": {
+			"base": "ብ",
+			"shift": "ብ"
+		},
+		"Backslash": {
+			"alt": "«",
+			"altShift": "»",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"base": "ች",
+			"shift": "ጭ"
+		},
+		"Comma": {
+			"alt": "<",
+			"altShift": "≤",
+			"base": "፣",
+			"shift": "‹"
+		},
+		"D": {
+			"base": "ድ",
+			"shift": "ዽ"
+		},
+		"E": {
+			"base": "እ"
+		},
+		"Equal": {
+			"alt": "≠",
+			"altShift": "±",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"base": "ፍ",
+			"shift": "ፍ"
+		},
+		"G": {
+			"base": "ግ",
+			"shift": "ⶓ"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "`",
+			"shift": "~"
+		},
+		"H": {
+			"base": "ህ",
+			"shift": "ሕ"
+		},
+		"I": {
+			"base": "ኢ"
+		},
+		"J": {
+			"base": "ጅ",
+			"shift": "ጅ"
+		},
+		"K": {
+			"altShift": "",
+			"base": "ክ",
+			"shift": "ኽ"
+		},
+		"L": {
+			"base": "ል",
+			"shift": "ል"
+		},
+		"LeftBracket": {
+			"alt": "«",
+			"base": "[",
+			"shift": "{"
+		},
+		"M": {
+			"base": "ም",
+			"shift": "ም"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"base": "ን",
+			"shift": "ኝ"
+		},
+		"O": {
+			"base": "ኦ"
+		},
+		"P": {
+			"base": "ፕ",
+			"shift": "ጵ"
+		},
+		"Period": {
+			"alt": ">",
+			"altShift": "≥",
+			"base": ".",
+			"shift": "›"
+		},
+		"Q": {
+			"base": "ቅ",
+			"shift": "ቕ"
+		},
+		"Quote": {
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"base": "ር",
+			"shift": "ር"
+		},
+		"RightBracket": {
+			"alt": "»",
+			"base": "]",
+			"shift": "}"
+		},
+		"S": {
+			"base": "ስ",
+			"shift": "ጽ"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": "…",
+			"base": "፤",
+			"shift": "፡"
+		},
+		"Slash": {
+			"alt": "÷",
+			"altShift": "¿",
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"base": "ት",
+			"shift": "ጥ"
+		},
+		"U": {
+			"base": "ኡ"
+		},
+		"V": {
+			"base": "ቭ",
+			"shift": "ቭ"
+		},
+		"W": {
+			"base": "ው",
+			"shift": "ው"
+		},
+		"X": {
+			"base": "ሽ",
+			"shift": "ሽ"
+		},
+		"Y": {
+			"base": "ይ",
+			"shift": "ይ"
+		},
+		"Z": {
+			"base": "ዝ",
+			"shift": "ዥ"
+		}
+	},
+	"name": "Geʽez",
+	"physicalLayout": "iso"
+}

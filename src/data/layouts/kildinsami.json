@@ -1,0 +1,295 @@
+{
+	"id": "kildinsami",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": ")",
+			"base": "ӓ",
+			"shift": "Ӓ"
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "!",
+			"base": "а̄",
+			"shift": "А̄"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "\"",
+			"base": "я̄",
+			"shift": "Я̄"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "№",
+			"base": "ӯ",
+			"shift": "Ӯ"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "%",
+			"base": "ю̄",
+			"shift": "Ю̄"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": ":",
+			"base": "е̄",
+			"shift": "Е̄"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": ",",
+			"base": "о̄",
+			"shift": "О̄"
+		},
+		"7": {
+			"alt": "7",
+			"altShift": ".",
+			"base": "ӣ",
+			"shift": "Ӣ"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": ";",
+			"base": "э̄",
+			"shift": "Э̄"
+		},
+		"9": {
+			"alt": "9",
+			"altShift": "(",
+			"base": "ӭ",
+			"shift": "Ӭ"
+		},
+		"A": {
+			"alt": "¯",
+			"altShift": "̄",
+			"base": "ф",
+			"shift": "Ф"
+		},
+		"B": {
+			"alt": "∑",
+			"altShift": "µ",
+			"base": "и",
+			"shift": "И"
+		},
+		"Backslash": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "ё",
+			"shift": "Ё"
+		},
+		"C": {
+			"alt": "≠",
+			"altShift": "≈",
+			"base": "с",
+			"shift": "С"
+		},
+		"Comma": {
+			"alt": "…",
+			"altShift": "~",
+			"base": "б",
+			"shift": "Б"
+		},
+		"D": {
+			"alt": "°",
+			"altShift": "Ћ",
+			"base": "в",
+			"shift": "В"
+		},
+		"E": {
+			"alt": "π",
+			"altShift": "£",
+			"base": "у",
+			"shift": "У"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "+",
+			"base": "ӈ",
+			"shift": "Ӈ"
+		},
+		"F": {
+			"alt": "@",
+			"altShift": "€",
+			"base": "а",
+			"shift": "А"
+		},
+		"G": {
+			"alt": "^",
+			"altShift": "¬",
+			"base": "п",
+			"shift": "П"
+		},
+		"Grave": {
+			"alt": "\\",
+			"altShift": "÷",
+			"base": "]",
+			"shift": "["
+		},
+		"H": {
+			"alt": "ҏ",
+			"altShift": "Ҏ",
+			"base": "р",
+			"shift": "Р"
+		},
+		"I": {
+			"alt": "<",
+			"altShift": "≤",
+			"base": "ш",
+			"shift": "Ш"
+		},
+		"J": {
+			"alt": "´",
+			"altShift": "́",
+			"base": "о",
+			"shift": "О"
+		},
+		"K": {
+			"alt": "ӆ",
+			"altShift": "Ӆ",
+			"base": "л",
+			"shift": "Л"
+		},
+		"L": {
+			"alt": "δ",
+			"altShift": "Δ",
+			"base": "д",
+			"shift": "Д"
+		},
+		"LeftBracket": {
+			"alt": "“",
+			"altShift": "”",
+			"base": "х",
+			"shift": "Х"
+		},
+		"M": {
+			"alt": "*",
+			"altShift": "√",
+			"base": "ь",
+			"shift": "Ь"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "_",
+			"base": "ҍ",
+			"shift": "Ҍ"
+		},
+		"N": {
+			"alt": "¨",
+			"altShift": "̈",
+			"base": "т",
+			"shift": "Т"
+		},
+		"O": {
+			"alt": ">",
+			"altShift": "≥",
+			"base": "щ",
+			"shift": "Щ"
+		},
+		"P": {
+			"alt": "‘",
+			"altShift": "’",
+			"base": "з",
+			"shift": "З"
+		},
+		"Period": {
+			"alt": "»",
+			"altShift": "«",
+			"base": "ю",
+			"shift": "Ю"
+		},
+		"Q": {
+			"alt": "ҋ",
+			"altShift": "Ҋ",
+			"base": "й",
+			"shift": "Й"
+		},
+		"Quote": {
+			"alt": "}",
+			"altShift": "`",
+			"base": "э",
+			"shift": "Э"
+		},
+		"R": {
+			"alt": "$",
+			"altShift": "Ќ",
+			"base": "к",
+			"shift": "К"
+		},
+		"RightBracket": {
+			"alt": "₽",
+			"altShift": "₽",
+			"base": "ъ",
+			"shift": "Ъ"
+		},
+		"S": {
+			"alt": "•",
+			"altShift": "|",
+			"base": "ы",
+			"shift": "Ы"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": ">",
+			"shift": "<"
+		},
+		"Semicolon": {
+			"alt": "{",
+			"altShift": "'",
+			"base": "ж",
+			"shift": "Ж"
+		},
+		"Slash": {
+			"alt": "“",
+			"altShift": "„",
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"alt": "%",
+			"altShift": "∞",
+			"base": "е",
+			"shift": "Е"
+		},
+		"U": {
+			"alt": "&",
+			"altShift": "¶",
+			"base": "г",
+			"shift": "Г"
+		},
+		"V": {
+			"alt": "ӎ",
+			"altShift": "Ӎ",
+			"base": "м",
+			"shift": "М"
+		},
+		"W": {
+			"alt": "ј",
+			"altShift": "Ј",
+			"base": "ц",
+			"shift": "Ц"
+		},
+		"X": {
+			"alt": "һ",
+			"altShift": "Һ",
+			"base": "ч",
+			"shift": "Ч"
+		},
+		"Y": {
+			"alt": "ӊ",
+			"altShift": "Ӊ",
+			"base": "н",
+			"shift": "Н"
+		},
+		"Z": {
+			"alt": "Ω",
+			"altShift": "±",
+			"base": "я",
+			"shift": "Я"
+		}
+	},
+	"name": "Kildin Sámi",
+	"physicalLayout": "iso"
+}

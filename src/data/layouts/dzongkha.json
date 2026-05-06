@@ -1,0 +1,287 @@
+{
+	"id": "dzongkha",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": "]",
+			"base": "༠",
+			"shift": "༽"
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "࿓",
+			"base": "༡",
+			"shift": "༄"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "࿔",
+			"base": "༢",
+			"shift": "༅"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "༺",
+			"base": "༣",
+			"shift": "༆"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "༻",
+			"base": "༤"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "྅",
+			"base": "༥",
+			"shift": "༎"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "༁",
+			"base": "༦",
+			"shift": "༈"
+		},
+		"7": {
+			"alt": "7",
+			"altShift": "ྊ",
+			"base": "༧",
+			"shift": "༸"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "*",
+			"base": "༨",
+			"shift": "༴"
+		},
+		"9": {
+			"alt": "9",
+			"altShift": "[",
+			"base": "༩",
+			"shift": "༼"
+		},
+		"A": {
+			"alt": "ཊ",
+			"altShift": "ྚ",
+			"base": "ཏ",
+			"shift": "ྟ"
+		},
+		"B": {
+			"alt": "ཪ",
+			"altShift": "ྼ",
+			"base": "ར",
+			"shift": "ྲ"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "ྺ",
+			"base": "ཝ",
+			"shift": "ྭ"
+		},
+		"C": {
+			"alt": "༃",
+			"altShift": "ྰ",
+			"base": "འ",
+			"shift": "ཱ"
+		},
+		"Comma": {
+			"alt": ",",
+			"altShift": "࿙",
+			"base": "ས",
+			"shift": "ྶ"
+		},
+		"D": {
+			"alt": "ཌ",
+			"altShift": "ྜ",
+			"base": "ད",
+			"shift": "ྡ"
+		},
+		"E": {
+			"alt": "ྌ",
+			"altShift": "ྏ",
+			"base": "ག",
+			"shift": "ྒ"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "+",
+			"base": "།",
+			"shift": "༑"
+		},
+		"F": {
+			"alt": "ཎ",
+			"altShift": "ྞ",
+			"base": "ན",
+			"shift": "ྣ"
+		},
+		"G": {
+			"base": "པ",
+			"shift": "ྤ"
+		},
+		"Grave": {
+			"alt": "࿑",
+			"altShift": "࿐",
+			"base": "༉",
+			"shift": "༊"
+		},
+		"H": {
+			"base": "ཕ",
+			"shift": "ྥ"
+		},
+		"I": {
+			"alt": "༝",
+			"altShift": "༗",
+			"base": "ོ",
+			"shift": "ཽ"
+		},
+		"J": {
+			"alt": "༷",
+			"altShift": "༵",
+			"base": "བ",
+			"shift": "ྦ"
+		},
+		"K": {
+			"alt": "ཾ",
+			"altShift": "྇",
+			"base": "མ",
+			"shift": "ྨ"
+		},
+		"L": {
+			"alt": "༹",
+			"altShift": "྆",
+			"base": "ཙ",
+			"shift": "ྩ"
+		},
+		"LeftBracket": {
+			"alt": "(",
+			"altShift": "༿",
+			"base": "ཇ",
+			"shift": "ྗ"
+		},
+		"M": {
+			"alt": "ཥ",
+			"altShift": "ྵ",
+			"base": "ཤ",
+			"shift": "ྴ"
+		},
+		"Minus": {
+			"alt": "-",
+			"altShift": "࿒",
+			"base": "༔",
+			"shift": "ཿ"
+		},
+		"N": {
+			"alt": "༒",
+			"base": "ལ",
+			"shift": "ླ"
+		},
+		"O": {
+			"alt": "༞",
+			"altShift": "༘",
+			"base": "ཅ",
+			"shift": "ྕ"
+		},
+		"P": {
+			"alt": "༟",
+			"altShift": "༙",
+			"base": "ཆ",
+			"shift": "ྖ"
+		},
+		"Period": {
+			"alt": ".",
+			"altShift": "࿚",
+			"base": "ཧ",
+			"shift": "ྷ"
+		},
+		"Q": {
+			"alt": "ྈ",
+			"altShift": "ྍ",
+			"base": "ཀ",
+			"shift": "ྐ"
+		},
+		"Quote": {
+			"alt": "'",
+			"altShift": "\"",
+			"base": "ཛ",
+			"shift": "ྫ"
+		},
+		"R": {
+			"alt": "ྃ",
+			"altShift": "ྂ",
+			"base": "ང",
+			"shift": "ྔ"
+		},
+		"RightBracket": {
+			"alt": ")",
+			"altShift": "༾",
+			"base": "ཉ",
+			"shift": "ྙ"
+		},
+		"S": {
+			"alt": "ཋ",
+			"altShift": "ྛ",
+			"base": "ཐ",
+			"shift": "ྠ"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "§",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": "ཚ",
+			"shift": "ྪ"
+		},
+		"Slash": {
+			"alt": "\/",
+			"altShift": "?",
+			"base": "ཨ",
+			"shift": "ྸ"
+		},
+		"T": {
+			"alt": "༚",
+			"altShift": "ྋྙ",
+			"base": "ི",
+			"shift": "ྀ"
+		},
+		"U": {
+			"alt": "༜",
+			"base": "ེ",
+			"shift": "ཻ"
+		},
+		"V": {
+			"alt": "༏",
+			"altShift": "ྻ",
+			"base": "ཡ",
+			"shift": "ྱ"
+		},
+		"W": {
+			"alt": "ྉ",
+			"altShift": "ྎ",
+			"base": "ཁ",
+			"shift": "ྑ"
+		},
+		"X": {
+			"alt": "྾",
+			"altShift": "྿",
+			"base": "ཟ",
+			"shift": "ྯ"
+		},
+		"Y": {
+			"alt": "༛",
+			"base": "ུ",
+			"shift": "྄"
+		},
+		"Z": {
+			"alt": "༓",
+			"altShift": "༶",
+			"base": "ཞ",
+			"shift": "ྮ"
+		}
+	},
+	"name": "Dzongkha",
+	"physicalLayout": "iso"
+}

@@ -1,0 +1,274 @@
+{
+	"id": "yoruba",
+	"keymap": {
+		"0": {
+			"alt": "º",
+			"altShift": "‚",
+			"base": "0",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "¡",
+			"altShift": "⁄",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "™",
+			"altShift": "€",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "£",
+			"altShift": "‹",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "¢",
+			"altShift": "›",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "∞",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "ˆ",
+			"altShift": "ˆ",
+			"base": "6",
+			"shift": "&"
+		},
+		"7": {
+			"alt": "¶",
+			"altShift": "‡",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "•",
+			"altShift": "°",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "ª",
+			"altShift": "·",
+			"base": "9",
+			"shift": "("
+		},
+		"A": {
+			"alt": "¯",
+			"base": "a",
+			"shift": "A"
+		},
+		"B": {
+			"alt": "∫",
+			"base": "b",
+			"shift": "B"
+		},
+		"Backslash": {
+			"alt": "«",
+			"altShift": "»",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"alt": "ç",
+			"altShift": "Ç",
+			"base": "c",
+			"shift": "C"
+		},
+		"Comma": {
+			"alt": "≤",
+			"altShift": "¯",
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"alt": "∂",
+			"base": "d",
+			"shift": "D"
+		},
+		"E": {
+			"alt": "ẹ",
+			"altShift": "Ẹ",
+			"base": "e",
+			"shift": "E"
+		},
+		"Equal": {
+			"alt": "≠",
+			"altShift": "±",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "ƒ",
+			"base": "f",
+			"shift": "F"
+		},
+		"G": {
+			"alt": "©",
+			"altShift": "˝",
+			"base": "g",
+			"shift": "G"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "̃",
+			"base": "`",
+			"shift": "~"
+		},
+		"H": {
+			"alt": "˙",
+			"base": "h",
+			"shift": "H"
+		},
+		"I": {
+			"alt": "ɔ",
+			"altShift": "Ɔ",
+			"base": "i",
+			"shift": "I"
+		},
+		"J": {
+			"alt": "∆",
+			"base": "j",
+			"shift": "J"
+		},
+		"K": {
+			"alt": "˚",
+			"altShift": "",
+			"base": "k",
+			"shift": "K"
+		},
+		"L": {
+			"base": "l",
+			"shift": "L"
+		},
+		"LeftBracket": {
+			"alt": "“",
+			"altShift": "”",
+			"base": "´",
+			"shift": ".́"
+		},
+		"M": {
+			"base": "m",
+			"shift": "M"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "ŋ",
+			"altShift": "Ŋ",
+			"base": "n",
+			"shift": "N"
+		},
+		"O": {
+			"alt": "ọ",
+			"altShift": "Ọ",
+			"base": "o",
+			"shift": "O"
+		},
+		"P": {
+			"base": "p",
+			"shift": "P"
+		},
+		"Period": {
+			"alt": "≥",
+			"altShift": "˘",
+			"base": ".",
+			"shift": ">"
+		},
+		"Q": {
+			"base": "q",
+			"shift": "Q"
+		},
+		"Quote": {
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "®",
+			"altShift": "‰",
+			"base": "r",
+			"shift": "R"
+		},
+		"RightBracket": {
+			"alt": "‘",
+			"altShift": "’",
+			"base": "`",
+			"shift": ".̀"
+		},
+		"S": {
+			"alt": "ṣ",
+			"altShift": "Ṣ",
+			"base": "s",
+			"shift": "S"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": "…",
+			"base": ";",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "÷",
+			"altShift": "¿",
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"alt": "†",
+			"altShift": "ˇ",
+			"base": "t",
+			"shift": "T"
+		},
+		"U": {
+			"base": "u",
+			"shift": "U"
+		},
+		"V": {
+			"alt": "ˇ",
+			"altShift": "◊",
+			"base": "v",
+			"shift": "V"
+		},
+		"W": {
+			"alt": "ɛ",
+			"altShift": "Ɛ",
+			"base": "w",
+			"shift": "W"
+		},
+		"X": {
+			"alt": "≈",
+			"altShift": "˛",
+			"base": "x",
+			"shift": "X"
+		},
+		"Y": {
+			"alt": "¥",
+			"base": "y",
+			"shift": "Y"
+		},
+		"Z": {
+			"alt": "Ω",
+			"altShift": "¸",
+			"base": "z",
+			"shift": "Z"
+		}
+	},
+	"name": "Yoruba",
+	"physicalLayout": "iso"
+}

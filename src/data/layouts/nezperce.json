@@ -1,0 +1,269 @@
+{
+	"id": "nezperce",
+	"keymap": {
+		"0": {
+			"alt": "°",
+			"altShift": "‚",
+			"base": "0",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "¡",
+			"altShift": "⁄",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "™",
+			"altShift": "€",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "£",
+			"altShift": "‹",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "¢",
+			"altShift": "›",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "∞",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "§",
+			"base": "6",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "¶",
+			"altShift": "‡",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "•",
+			"altShift": "°",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"altShift": "·",
+			"base": "9",
+			"shift": "("
+		},
+		"A": {
+			"altShift": "A",
+			"base": "a",
+			"shift": "á"
+		},
+		"B": {
+			"altShift": "B",
+			"base": "b",
+			"shift": "b"
+		},
+		"Backslash": {
+			"alt": "«",
+			"altShift": "»",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"altShift": "C",
+			"base": "c",
+			"shift": "c"
+		},
+		"Comma": {
+			"alt": "≤",
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"altShift": "D",
+			"base": "d",
+			"shift": "d"
+		},
+		"E": {
+			"altShift": "E",
+			"base": "e",
+			"shift": "é"
+		},
+		"Equal": {
+			"alt": "≠",
+			"altShift": "±",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"altShift": "F",
+			"base": "f",
+			"shift": "f"
+		},
+		"G": {
+			"altShift": "G",
+			"base": "g",
+			"shift": "g"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "`",
+			"base": "·",
+			"shift": "~"
+		},
+		"H": {
+			"altShift": "H",
+			"base": "h",
+			"shift": "h"
+		},
+		"I": {
+			"altShift": "I",
+			"base": "i",
+			"shift": "í"
+		},
+		"J": {
+			"altShift": "J",
+			"base": "j",
+			"shift": "j"
+		},
+		"K": {
+			"alt": "",
+			"altShift": "K",
+			"base": "k",
+			"shift": "k"
+		},
+		"L": {
+			"alt": "ƛ",
+			"altShift": "L",
+			"base": "l",
+			"shift": "ł"
+		},
+		"LeftBracket": {
+			"alt": "“",
+			"altShift": "”",
+			"base": "[",
+			"shift": "{"
+		},
+		"M": {
+			"altShift": "M",
+			"base": "m",
+			"shift": "m"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "̃",
+			"altShift": "N",
+			"base": "n",
+			"shift": "n"
+		},
+		"O": {
+			"altShift": "O",
+			"base": "o",
+			"shift": "ó"
+		},
+		"P": {
+			"altShift": "P",
+			"base": "p",
+			"shift": "p"
+		},
+		"Period": {
+			"alt": "≥",
+			"base": ".",
+			"shift": ">"
+		},
+		"Q": {
+			"altShift": "Q",
+			"base": "q",
+			"shift": "q"
+		},
+		"Quote": {
+			"alt": "'",
+			"base": "ʼ",
+			"shift": "\""
+		},
+		"R": {
+			"altShift": "R",
+			"base": "r",
+			"shift": "r"
+		},
+		"RightBracket": {
+			"alt": "‘",
+			"altShift": "’",
+			"base": "]",
+			"shift": "}"
+		},
+		"S": {
+			"alt": "š",
+			"altShift": "S",
+			"base": "s",
+			"shift": "s"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": "…",
+			"base": ";",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "÷",
+			"altShift": "¿",
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"altShift": "T",
+			"base": "t",
+			"shift": "t"
+		},
+		"U": {
+			"alt": "̈",
+			"altShift": "U",
+			"base": "u",
+			"shift": "ú"
+		},
+		"V": {
+			"altShift": "V",
+			"base": "v",
+			"shift": "v"
+		},
+		"W": {
+			"alt": "ʷ",
+			"altShift": "W",
+			"base": "w",
+			"shift": "w"
+		},
+		"X": {
+			"alt": "x̂",
+			"altShift": "X",
+			"base": "x",
+			"shift": "x̣"
+		},
+		"Y": {
+			"altShift": "Y",
+			"base": "y",
+			"shift": "y"
+		},
+		"Z": {
+			"altShift": "Z",
+			"base": "z",
+			"shift": "z"
+		}
+	},
+	"name": "Nez Perce",
+	"physicalLayout": "iso"
+}

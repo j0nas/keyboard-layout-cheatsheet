@@ -1,0 +1,227 @@
+{
+	"id": "kurdish-sorani",
+	"keymap": {
+		"0": {
+			"alt": ")",
+			"altShift": "(",
+			"base": "٠",
+			"shift": "("
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "!",
+			"base": "١",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "❊",
+			"base": "٢",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "#",
+			"base": "٣",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "€",
+			"base": "٤",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "٪",
+			"base": "٥",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "&",
+			"base": "٦",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "7",
+			"altShift": "^",
+			"base": "٧",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "9",
+			"altShift": "*",
+			"base": "٨",
+			"shift": "ى"
+		},
+		"9": {
+			"alt": "(",
+			"altShift": ")",
+			"base": "٩",
+			"shift": ")"
+		},
+		"A": {
+			"alt": "آ",
+			"base": "ا",
+			"shift": "ئ"
+		},
+		"B": {
+			"base": "ب"
+		},
+		"Backslash": {
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"base": "ج",
+			"shift": "چ"
+		},
+		"Comma": {
+			"alt": "»",
+			"base": "،",
+			"shift": ">"
+		},
+		"D": {
+			"alt": "ض",
+			"base": "د",
+			"shift": "ذ"
+		},
+		"E": {
+			"alt": "ه",
+			"base": "ە",
+			"shift": "ێ"
+		},
+		"Equal": {
+			"alt": "+",
+			"altShift": "+",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"base": "ف"
+		},
+		"G": {
+			"alt": "غ",
+			"base": "گ"
+		},
+		"Grave": {
+			"alt": ">",
+			"altShift": "<",
+			"base": "`",
+			"shift": "~"
+		},
+		"H": {
+			"base": "ه",
+			"shift": "ح"
+		},
+		"I": {
+			"alt": "ِ",
+			"base": "ی",
+			"shift": "ى"
+		},
+		"J": {
+			"base": "ژ"
+		},
+		"K": {
+			"alt": "ك",
+			"base": "ک"
+		},
+		"L": {
+			"base": "ل",
+			"shift": "ڵ"
+		},
+		"LeftBracket": {
+			"alt": "]",
+			"base": "]",
+			"shift": "}"
+		},
+		"M": {
+			"base": "م"
+		},
+		"Minus": {
+			"alt": "_",
+			"altShift": "_",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"base": "ن"
+		},
+		"O": {
+			"base": "ۆ"
+		},
+		"P": {
+			"base": "پ"
+		},
+		"Period": {
+			"alt": "«",
+			"base": ".",
+			"shift": "<"
+		},
+		"Q": {
+			"base": "ق"
+		},
+		"Quote": {
+			"alt": "'",
+			"altShift": "\"",
+			"base": "ع",
+			"shift": "غ"
+		},
+		"R": {
+			"base": "ر",
+			"shift": "ڕ"
+		},
+		"RightBracket": {
+			"alt": "[",
+			"base": "[",
+			"shift": "{"
+		},
+		"S": {
+			"alt": "ص",
+			"base": "س",
+			"shift": "ش"
+		},
+		"Semicolon": {
+			"base": "؛",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "\/",
+			"altShift": "\\",
+			"base": "\\",
+			"shift": "؟"
+		},
+		"T": {
+			"alt": "ط",
+			"base": "ت",
+			"shift": "ث"
+		},
+		"U": {
+			"base": "و",
+			"shift": "وو"
+		},
+		"V": {
+			"base": "ڤ"
+		},
+		"W": {
+			"base": "و",
+			"shift": "ّ"
+		},
+		"X": {
+			"base": "خ",
+			"shift": "غ"
+		},
+		"Y": {
+			"alt": "ي",
+			"base": "ی"
+		},
+		"Z": {
+			"alt": "ظ",
+			"base": "ز",
+			"shift": "ض"
+		}
+	},
+	"name": "Sorani Kurdish",
+	"physicalLayout": "iso"
+}

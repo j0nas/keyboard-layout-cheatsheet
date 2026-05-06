@@ -1,0 +1,295 @@
+{
+	"id": "bulgarian",
+	"keymap": {
+		"0": {
+			"alt": "•",
+			"altShift": ")",
+			"base": "0",
+			"shift": "№"
+		},
+		"1": {
+			"alt": "€",
+			"altShift": "†",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "°",
+			"altShift": "@",
+			"base": "2",
+			"shift": "?"
+		},
+		"3": {
+			"alt": "$",
+			"altShift": "#",
+			"base": "3",
+			"shift": "+"
+		},
+		"4": {
+			"alt": "„",
+			"altShift": "“",
+			"base": "4",
+			"shift": "\""
+		},
+		"5": {
+			"alt": "™",
+			"altShift": "%",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "∞",
+			"altShift": "^",
+			"base": "6",
+			"shift": "="
+		},
+		"7": {
+			"alt": "£",
+			"altShift": "&",
+			"base": "7",
+			"shift": ":"
+		},
+		"8": {
+			"alt": "Ґ",
+			"altShift": "*",
+			"base": "8",
+			"shift": "\/"
+		},
+		"9": {
+			"alt": "¶",
+			"altShift": "(",
+			"base": "9",
+			"shift": "_"
+		},
+		"A": {
+			"alt": "a",
+			"altShift": "A",
+			"base": "ь",
+			"shift": "ѝ"
+		},
+		"B": {
+			"alt": "b",
+			"altShift": "B",
+			"base": "ф",
+			"shift": "Ф"
+		},
+		"Backslash": {
+			"alt": "‘",
+			"altShift": "’",
+			"base": "(",
+			"shift": ")"
+		},
+		"C": {
+			"alt": "c",
+			"altShift": "C",
+			"base": "ъ",
+			"shift": "Ъ"
+		},
+		"Comma": {
+			"alt": ",",
+			"altShift": "<",
+			"base": "р",
+			"shift": "Р"
+		},
+		"D": {
+			"alt": "d",
+			"altShift": "D",
+			"base": "а",
+			"shift": "А"
+		},
+		"E": {
+			"alt": "e",
+			"altShift": "E",
+			"base": "е",
+			"shift": "Е"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "+",
+			"base": ".",
+			"shift": "V"
+		},
+		"F": {
+			"alt": "f",
+			"altShift": "F",
+			"base": "о",
+			"shift": "О"
+		},
+		"G": {
+			"alt": "g",
+			"altShift": "G",
+			"base": "ж",
+			"shift": "Ж"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "`",
+			"shift": "~"
+		},
+		"H": {
+			"alt": "h",
+			"altShift": "H",
+			"base": "г",
+			"shift": "Г"
+		},
+		"I": {
+			"alt": "i",
+			"altShift": "I",
+			"base": "с",
+			"shift": "С"
+		},
+		"J": {
+			"alt": "j",
+			"altShift": "J",
+			"base": "т",
+			"shift": "Т"
+		},
+		"K": {
+			"alt": "k",
+			"altShift": "K",
+			"base": "н",
+			"shift": "Н"
+		},
+		"L": {
+			"alt": "l",
+			"altShift": "L",
+			"base": "в",
+			"shift": "В"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "ц",
+			"shift": "Ц"
+		},
+		"M": {
+			"alt": "m",
+			"altShift": "M",
+			"base": "п",
+			"shift": "П"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "-",
+			"shift": "I"
+		},
+		"N": {
+			"alt": "n",
+			"altShift": "N",
+			"base": "х",
+			"shift": "Х"
+		},
+		"O": {
+			"alt": "o",
+			"altShift": "O",
+			"base": "д",
+			"shift": "Д"
+		},
+		"P": {
+			"alt": "p",
+			"altShift": "P",
+			"base": "з",
+			"shift": "З"
+		},
+		"Period": {
+			"alt": ".",
+			"altShift": ">",
+			"base": "л",
+			"shift": "Л"
+		},
+		"Q": {
+			"alt": "q",
+			"altShift": "Q",
+			"base": ",",
+			"shift": "ы"
+		},
+		"Quote": {
+			"alt": "“",
+			"altShift": "”",
+			"base": "ч",
+			"shift": "Ч"
+		},
+		"R": {
+			"alt": "r",
+			"altShift": "R",
+			"base": "и",
+			"shift": "И"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": ";",
+			"shift": "§"
+		},
+		"S": {
+			"alt": "s",
+			"altShift": "S",
+			"base": "я",
+			"shift": "Я"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": "м",
+			"shift": "М"
+		},
+		"Slash": {
+			"alt": "\/",
+			"altShift": "?",
+			"base": "б",
+			"shift": "Б"
+		},
+		"T": {
+			"alt": "t",
+			"altShift": "T",
+			"base": "ш",
+			"shift": "Ш"
+		},
+		"U": {
+			"alt": "u",
+			"altShift": "U",
+			"base": "к",
+			"shift": "К"
+		},
+		"V": {
+			"alt": "v",
+			"altShift": "V",
+			"base": "э",
+			"shift": "Э"
+		},
+		"W": {
+			"alt": "w",
+			"altShift": "W",
+			"base": "у",
+			"shift": "У"
+		},
+		"X": {
+			"alt": "x",
+			"altShift": "X",
+			"base": "й",
+			"shift": "Й"
+		},
+		"Y": {
+			"alt": "y",
+			"altShift": "Y",
+			"base": "щ",
+			"shift": "Щ"
+		},
+		"Z": {
+			"alt": "z",
+			"altShift": "Z",
+			"base": "ю",
+			"shift": "Ю"
+		}
+	},
+	"name": "Bulgarian – Standard",
+	"physicalLayout": "iso"
+}

@@ -1,0 +1,196 @@
+{
+	"id": "santali-olchiki",
+	"keymap": {
+		"0": {
+			"altShift": "0",
+			"base": "᱐",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "‍",
+			"altShift": "1",
+			"base": "᱑",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "‌",
+			"altShift": "2",
+			"base": "᱒",
+			"shift": "@"
+		},
+		"3": {
+			"altShift": "3",
+			"base": "᱓",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "₹",
+			"altShift": "4",
+			"base": "᱔",
+			"shift": "$"
+		},
+		"5": {
+			"altShift": "5",
+			"base": "᱕",
+			"shift": "%"
+		},
+		"6": {
+			"altShift": "6",
+			"base": "᱖",
+			"shift": "^"
+		},
+		"7": {
+			"altShift": "7",
+			"base": "᱗",
+			"shift": "&"
+		},
+		"8": {
+			"altShift": "8",
+			"base": "᱘",
+			"shift": "*"
+		},
+		"9": {
+			"altShift": "9",
+			"base": "᱙",
+			"shift": "("
+		},
+		"A": {
+			"base": "ᱳ"
+		},
+		"B": {
+			"base": "ᱣ",
+			"shift": "ᱶ"
+		},
+		"Backslash": {
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"base": "ᱢ",
+			"shift": "ᱬ"
+		},
+		"Comma": {
+			"altShift": "<",
+			"base": ",",
+			"shift": "᱿"
+		},
+		"D": {
+			"base": "ᱚ"
+		},
+		"E": {
+			"base": "ᱟ"
+		},
+		"Equal": {
+			"alt": "≠",
+			"altShift": "±",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"base": "ᱤ"
+		},
+		"G": {
+			"base": "ᱩ"
+		},
+		"Grave": {
+			"alt": "₹",
+			"altShift": "~",
+			"base": "ᱴ",
+			"shift": "ᱻ"
+		},
+		"H": {
+			"base": "ᱯ"
+		},
+		"I": {
+			"base": "ᱜ"
+		},
+		"J": {
+			"base": "ᱨ"
+		},
+		"K": {
+			"base": "ᱠ"
+		},
+		"L": {
+			"base": "ᱛ"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "ᱰ",
+			"shift": "ᱲ"
+		},
+		"M": {
+			"base": "ᱥ"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "ᱼ",
+			"shift": "_"
+		},
+		"N": {
+			"base": "ᱞ"
+		},
+		"O": {
+			"base": "ᱫ"
+		},
+		"P": {
+			"base": "ᱡ"
+		},
+		"Period": {
+			"altShift": ">",
+			"base": ".",
+			"shift": "᱾"
+		},
+		"Quote": {
+			"alt": "…",
+			"base": "'",
+			"shift": "\""
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "ᱹ",
+			"shift": "ᱧ"
+		},
+		"S": {
+			"base": "ᱮ"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": "ᱪ",
+			"shift": "ᱺ"
+		},
+		"Slash": {
+			"alt": "\/",
+			"base": "ᱭ",
+			"shift": "?"
+		},
+		"U": {
+			"base": "ᱦ",
+			"shift": "ᱝ"
+		},
+		"V": {
+			"base": "ᱱ"
+		},
+		"X": {
+			"base": "ᱸ"
+		},
+		"Y": {
+			"base": "ᱵ"
+		},
+		"Z": {
+			"base": "ᱷ",
+			"shift": "ᱽ"
+		}
+	},
+	"name": "Santali (Ol Chiki)",
+	"physicalLayout": "iso"
+}

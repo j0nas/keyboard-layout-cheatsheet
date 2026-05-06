@@ -1,0 +1,247 @@
+{
+	"id": "gujarati-qwerty",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": "×",
+			"base": "૦",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "…",
+			"base": "૧",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "©",
+			"base": "૨",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "®",
+			"base": "૩",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "™",
+			"base": "૪",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "’",
+			"base": "૫",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "‘",
+			"base": "૬",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "7",
+			"altShift": "–",
+			"base": "૭",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "•",
+			"base": "૮",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "9",
+			"altShift": "—",
+			"base": "૯",
+			"shift": "("
+		},
+		"A": {
+			"alt": "અ",
+			"altShift": "આ",
+			"base": "ા",
+			"shift": "ા"
+		},
+		"B": {
+			"base": "બ",
+			"shift": "ભ"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|"
+		},
+		"C": {
+			"base": "ચ",
+			"shift": "છ"
+		},
+		"Comma": {
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"alt": "ડ",
+			"altShift": "ઢ",
+			"base": "દ",
+			"shift": "ધ"
+		},
+		"E": {
+			"alt": "એ",
+			"altShift": "ઐ",
+			"base": "ે",
+			"shift": "ૈ"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "+",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"base": "્",
+			"shift": "઼"
+		},
+		"G": {
+			"base": "ગ",
+			"shift": "ઘ"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~"
+		},
+		"H": {
+			"base": "હ",
+			"shift": "ઃ"
+		},
+		"I": {
+			"alt": "ઇ",
+			"altShift": "ઈ",
+			"base": "િ",
+			"shift": "ી"
+		},
+		"J": {
+			"alt": "જ્ઞ",
+			"base": "જ",
+			"shift": "ઝ"
+		},
+		"K": {
+			"base": "ક",
+			"shift": "ખ"
+		},
+		"L": {
+			"base": "લ",
+			"shift": "ળ"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"shift": "["
+		},
+		"M": {
+			"alt": "ઁ",
+			"base": "મ",
+			"shift": "ં"
+		},
+		"Minus": {
+			"alt": "-",
+			"altShift": "−",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "ઞ",
+			"base": "ન",
+			"shift": "ણ"
+		},
+		"O": {
+			"alt": "ઓ",
+			"altShift": "ઔ",
+			"base": "ો",
+			"shift": "ૌ"
+		},
+		"P": {
+			"base": "પ",
+			"shift": "ફ"
+		},
+		"Period": {
+			"alt": "।",
+			"altShift": "॥",
+			"base": ".",
+			"shift": ">"
+		},
+		"Q": {
+			"alt": "ઍ",
+			"altShift": "ઑ",
+			"base": "ૅ",
+			"shift": "ૉ"
+		},
+		"Quote": {
+			"alt": "'",
+			"altShift": "\"",
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "ઋ",
+			"base": "ર",
+			"shift": "ૃ"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"shift": "]"
+		},
+		"S": {
+			"alt": "શ્ર",
+			"altShift": "ષ",
+			"base": "સ",
+			"shift": "શ"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": ";",
+			"shift": ":"
+		},
+		"Slash": {
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"alt": "ટ",
+			"altShift": "ઠ",
+			"base": "ત",
+			"shift": "થ"
+		},
+		"U": {
+			"alt": "ઉ",
+			"altShift": "ઊ",
+			"base": "ુ",
+			"shift": "ૂ"
+		},
+		"V": {
+			"base": "વ"
+		},
+		"W": {
+			"base": "અ",
+			"shift": "આ"
+		},
+		"X": {
+			"base": "ષ",
+			"shift": "ક્ષ"
+		},
+		"Y": {
+			"base": "ય"
+		},
+		"Z": {
+			"base": "ઙ",
+			"shift": "ઁ"
+		}
+	},
+	"name": "Gujarati – QWERTY",
+	"physicalLayout": "iso"
+}

@@ -1,0 +1,91 @@
+{
+	"id": "aerospace",
+	"name": "AeroSpace",
+	"interpretationModel": "positional",
+	"bindings": [
+		{
+			"keys": ["alt", "1"],
+			"action": "Switch to workspace 1",
+			"category": "Workspaces"
+		},
+		{
+			"keys": ["alt", "2"],
+			"action": "Switch to workspace 2",
+			"category": "Workspaces"
+		},
+		{
+			"keys": ["alt", "3"],
+			"action": "Switch to workspace 3",
+			"category": "Workspaces"
+		},
+		{
+			"keys": ["alt", "4"],
+			"action": "Switch to workspace 4",
+			"category": "Workspaces"
+		},
+		{
+			"keys": ["alt", "shift", "1"],
+			"action": "Move window to workspace 1",
+			"category": "Workspaces"
+		},
+		{
+			"keys": ["alt", "shift", "2"],
+			"action": "Move window to workspace 2",
+			"category": "Workspaces"
+		},
+		{
+			"keys": ["alt", "shift", "3"],
+			"action": "Move window to workspace 3",
+			"category": "Workspaces"
+		},
+		{
+			"keys": ["alt", "shift", "4"],
+			"action": "Move window to workspace 4",
+			"category": "Workspaces"
+		},
+		{ "keys": ["alt", "h"], "action": "Focus left", "category": "Focus" },
+		{ "keys": ["alt", "j"], "action": "Focus down", "category": "Focus" },
+		{ "keys": ["alt", "k"], "action": "Focus up", "category": "Focus" },
+		{ "keys": ["alt", "l"], "action": "Focus right", "category": "Focus" },
+		{
+			"keys": ["alt", "shift", "h"],
+			"action": "Move window left",
+			"category": "Move"
+		},
+		{
+			"keys": ["alt", "shift", "j"],
+			"action": "Move window down",
+			"category": "Move"
+		},
+		{
+			"keys": ["alt", "shift", "k"],
+			"action": "Move window up",
+			"category": "Move"
+		},
+		{
+			"keys": ["alt", "shift", "l"],
+			"action": "Move window right",
+			"category": "Move"
+		},
+		{
+			"keys": ["alt", "slash"],
+			"action": "Toggle horizontal/vertical split",
+			"category": "Layout"
+		},
+		{
+			"keys": ["alt", "comma"],
+			"action": "Toggle accordion layout",
+			"category": "Layout"
+		},
+		{
+			"keys": ["alt", "f"],
+			"action": "Toggle fullscreen",
+			"category": "Layout"
+		},
+		{
+			"keys": ["alt", "shift", "semicolon"],
+			"action": "Enter resize mode",
+			"category": "Modes"
+		}
+	]
+}

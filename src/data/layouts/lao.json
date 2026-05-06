@@ -1,0 +1,218 @@
+{
+	"id": "lao",
+	"keymap": {
+		"0": {
+			"alt": "໐",
+			"base": "ຂ",
+			"shift": "8"
+		},
+		"1": {
+			"alt": "໑",
+			"base": "ຢ",
+			"shift": "1"
+		},
+		"2": {
+			"alt": "໒",
+			"altShift": "™",
+			"base": "ຟ",
+			"shift": "2"
+		},
+		"3": {
+			"alt": "໓",
+			"base": "ໂ",
+			"shift": "3"
+		},
+		"4": {
+			"alt": "໔",
+			"base": "ຖ",
+			"shift": "4"
+		},
+		"5": {
+			"alt": "໕",
+			"base": "ຸ",
+			"shift": "໌"
+		},
+		"6": {
+			"alt": "໖",
+			"base": "ູ",
+			"shift": "ຼ"
+		},
+		"7": {
+			"alt": "໗",
+			"base": "ຄ",
+			"shift": "5"
+		},
+		"8": {
+			"alt": "໘",
+			"altShift": "•",
+			"base": "ຕ",
+			"shift": "6"
+		},
+		"9": {
+			"alt": "໙",
+			"base": "ຈ",
+			"shift": "7"
+		},
+		"A": {
+			"base": "ັ",
+			"shift": "ັ້"
+		},
+		"B": {
+			"base": "ຶ",
+			"shift": "ຶ້"
+		},
+		"Backslash": {
+			"alt": "«",
+			"altShift": "»",
+			"base": "\/",
+			"shift": "\\"
+		},
+		"C": {
+			"base": "ແ",
+			"shift": "ຯ"
+		},
+		"Comma": {
+			"base": "ມ",
+			"shift": "ໝ"
+		},
+		"D": {
+			"base": "ກ",
+			"shift": "."
+		},
+		"E": {
+			"base": "ຳ",
+			"shift": "*"
+		},
+		"Equal": {
+			"base": "ໍ",
+			"shift": "ໍ່"
+		},
+		"F": {
+			"base": "ດ",
+			"shift": ","
+		},
+		"G": {
+			"alt": "©",
+			"base": "ເ",
+			"shift": ":"
+		},
+		"Grave": {
+			"base": "\"",
+			"shift": "'"
+		},
+		"H": {
+			"base": "້",
+			"shift": "໊"
+		},
+		"I": {
+			"base": "ຮ",
+			"shift": "ຣ"
+		},
+		"J": {
+			"base": "່",
+			"shift": "໋"
+		},
+		"K": {
+			"base": "າ",
+			"shift": "!"
+		},
+		"L": {
+			"base": "ສ",
+			"shift": "?"
+		},
+		"LeftBracket": {
+			"alt": "“",
+			"altShift": "”",
+			"base": "ບ",
+			"shift": "-"
+		},
+		"M": {
+			"base": "ທ",
+			"shift": "ໆ"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "ຊ",
+			"shift": "9"
+		},
+		"N": {
+			"base": "ື",
+			"shift": "ື້"
+		},
+		"O": {
+			"base": "ນ",
+			"shift": "ໜ"
+		},
+		"P": {
+			"base": "ຍ",
+			"shift": "ຽ"
+		},
+		"Period": {
+			"base": "ໃ",
+			"shift": "$"
+		},
+		"Q": {
+			"base": "ົ",
+			"shift": "ົ້"
+		},
+		"Quote": {
+			"base": "ງ",
+			"shift": "="
+		},
+		"R": {
+			"alt": "®",
+			"base": "ພ",
+			"shift": "_"
+		},
+		"RightBracket": {
+			"alt": "‘",
+			"altShift": "’",
+			"base": "ລ",
+			"shift": "ຫຼ"
+		},
+		"S": {
+			"base": "ຫ",
+			"shift": ";"
+		},
+		"Semicolon": {
+			"alt": "…",
+			"base": "ວ",
+			"shift": "%"
+		},
+		"Slash": {
+			"base": "ຝ",
+			"shift": ")"
+		},
+		"T": {
+			"base": "ະ",
+			"shift": "+"
+		},
+		"U": {
+			"base": "ີ",
+			"shift": "ີ້"
+		},
+		"V": {
+			"base": "ອ",
+			"shift": "x"
+		},
+		"W": {
+			"base": "ໄ",
+			"shift": "0"
+		},
+		"X": {
+			"base": "ປ",
+			"shift": "("
+		},
+		"Y": {
+			"base": "ິ",
+			"shift": "ິ້"
+		},
+		"Z": {
+			"base": "ຜ",
+			"shift": "₭"
+		}
+	},
+	"name": "Lao",
+	"physicalLayout": "iso"
+}

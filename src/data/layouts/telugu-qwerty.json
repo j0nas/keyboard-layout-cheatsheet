@@ -1,0 +1,244 @@
+{
+	"id": "telugu-qwerty",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": "×",
+			"base": "౦",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "…",
+			"base": "౧",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "©",
+			"base": "౨",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "®",
+			"base": "౩",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "™",
+			"base": "౪",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "’",
+			"base": "౫",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "‘",
+			"base": "౬",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "7",
+			"altShift": "–",
+			"base": "౭",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "•",
+			"base": "౮",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "9",
+			"altShift": "—",
+			"base": "౯",
+			"shift": "("
+		},
+		"A": {
+			"alt": "అ",
+			"altShift": "ఆ",
+			"base": "ా",
+			"shift": "ా"
+		},
+		"B": {
+			"base": "బ",
+			"shift": "భ"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "ొ",
+			"shift": "ఒ"
+		},
+		"C": {
+			"base": "చ",
+			"shift": "ఛ"
+		},
+		"Comma": {
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"alt": "డ",
+			"altShift": "ఢ",
+			"base": "ద",
+			"shift": "ధ"
+		},
+		"E": {
+			"alt": "ఏ",
+			"altShift": "ఐ",
+			"base": "ే",
+			"shift": "ై"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "+",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"base": "్"
+		},
+		"G": {
+			"base": "గ",
+			"shift": "ఘ"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "ె",
+			"shift": "ఎ"
+		},
+		"H": {
+			"base": "హ",
+			"shift": "ః"
+		},
+		"I": {
+			"alt": "ఇ",
+			"altShift": "ఈ",
+			"base": "ి",
+			"shift": "ీ"
+		},
+		"J": {
+			"alt": "జ్ఞ",
+			"base": "జ",
+			"shift": "ఝ"
+		},
+		"K": {
+			"base": "క",
+			"shift": "ఖ"
+		},
+		"L": {
+			"base": "ల",
+			"shift": "ళ"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"shift": "["
+		},
+		"M": {
+			"alt": "ఁ",
+			"base": "మ",
+			"shift": "ం"
+		},
+		"Minus": {
+			"alt": "_",
+			"altShift": "−",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "ఞ",
+			"base": "న",
+			"shift": "ణ"
+		},
+		"O": {
+			"alt": "ఓ",
+			"altShift": "ఔ",
+			"base": "ో",
+			"shift": "ౌ"
+		},
+		"P": {
+			"base": "ప",
+			"shift": "ఫ"
+		},
+		"Period": {
+			"alt": ".",
+			"shift": ">"
+		},
+		"Quote": {
+			"altShift": "\"",
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "ఋ",
+			"altShift": "ఱ",
+			"base": "ర",
+			"shift": "ృ"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "ర",
+			"shift": "]"
+		},
+		"S": {
+			"alt": "శ్ర",
+			"altShift": "ష",
+			"base": "స",
+			"shift": "శ"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": ";",
+			"shift": ":"
+		},
+		"Slash": {
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"alt": "ట",
+			"altShift": "ఠ",
+			"base": "త",
+			"shift": "థ"
+		},
+		"U": {
+			"alt": "ఉ",
+			"altShift": "ఊ",
+			"base": "ు",
+			"shift": "ూ"
+		},
+		"V": {
+			"base": "వ"
+		},
+		"W": {
+			"base": "అ",
+			"shift": "ఆ"
+		},
+		"X": {
+			"base": "ష",
+			"shift": "క్ష"
+		},
+		"Y": {
+			"base": "య"
+		},
+		"Z": {
+			"altShift": "ఒ",
+			"base": "ఙ",
+			"shift": "ఁ"
+		}
+	},
+	"name": "Telugu – QWERTY",
+	"physicalLayout": "iso"
+}

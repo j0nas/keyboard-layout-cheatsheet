@@ -1,0 +1,282 @@
+{
+	"id": "pahawh-hmong",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": "°",
+			"base": "𖭐",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "!",
+			"base": "𖭑",
+			"shift": "𖬸"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "𖭛",
+			"base": "𖭒",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "𖭜",
+			"base": "𖭓",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "𖭝",
+			"base": "𖭔",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "%",
+			"base": "𖭕",
+			"shift": "𖬻"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "𖭞",
+			"base": "𖭖",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "7",
+			"altShift": "𖭟",
+			"base": "𖭗",
+			"shift": "𖬺"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "𖭠",
+			"base": "𖭘",
+			"shift": "𖬾"
+		},
+		"9": {
+			"alt": "9",
+			"altShift": "𖭡",
+			"base": "𖭙",
+			"shift": "("
+		},
+		"A": {
+			"alt": "𖭫",
+			"altShift": "𖮇",
+			"base": "𖬜",
+			"shift": "𖬦"
+		},
+		"B": {
+			"alt": "𖭷",
+			"base": "𖬴",
+			"shift": "𖬴"
+		},
+		"Backslash": {
+			"base": "𖬘",
+			"shift": "𖬙"
+		},
+		"C": {
+			"alt": "𖭵",
+			"base": "𖬲",
+			"shift": "𖬲"
+		},
+		"Comma": {
+			"alt": ",",
+			"base": "𖬹",
+			"shift": "<"
+		},
+		"D": {
+			"alt": "𖭭",
+			"altShift": "𖮉",
+			"base": "𖬞",
+			"shift": "𖬨"
+		},
+		"E": {
+			"alt": "𖭣",
+			"altShift": "𖭿",
+			"base": "𖬄",
+			"shift": "𖬅"
+		},
+		"Equal": {
+			"alt": "≠",
+			"altShift": "+",
+			"base": "=",
+			"shift": "𖬼"
+		},
+		"F": {
+			"alt": "𖭮",
+			"altShift": "𖮊",
+			"base": "𖬟",
+			"shift": "𖬩"
+		},
+		"G": {
+			"alt": "𖭯",
+			"altShift": "𖮋",
+			"base": "𖬠",
+			"shift": "𖬪"
+		},
+		"Grave": {
+			"alt": "𖭃",
+			"altShift": "~",
+			"base": "𖭂",
+			"shift": "𖭀"
+		},
+		"H": {
+			"alt": "𖭰",
+			"altShift": "𖮌",
+			"base": "𖬡",
+			"shift": "𖬫"
+		},
+		"I": {
+			"alt": "𖭨",
+			"altShift": "𖮄",
+			"base": "𖬎",
+			"shift": "𖬏"
+		},
+		"J": {
+			"alt": "𖭱",
+			"altShift": "𖮍",
+			"base": "𖬢",
+			"shift": "𖬬"
+		},
+		"K": {
+			"alt": "",
+			"altShift": "𖮎",
+			"base": "𖬣",
+			"shift": "𖬭"
+		},
+		"L": {
+			"alt": "𖭲",
+			"altShift": "𖮏",
+			"base": "𖬤",
+			"shift": "𖬮"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "]",
+			"base": "𖬔",
+			"shift": "𖬕"
+		},
+		"M": {
+			"base": "𖬶",
+			"shift": "𖬶"
+		},
+		"Minus": {
+			"alt": "-",
+			"altShift": "—",
+			"base": "𖬽",
+			"shift": "_"
+		},
+		"N": {
+			"base": "𖬵",
+			"shift": "𖬵"
+		},
+		"O": {
+			"alt": "𖭩",
+			"altShift": "𖮅",
+			"base": "𖬐",
+			"shift": "𖬑"
+		},
+		"P": {
+			"alt": "𖭪",
+			"altShift": "𖮆",
+			"base": "𖬒",
+			"shift": "𖬓"
+		},
+		"Period": {
+			"alt": "…",
+			"base": ".",
+			"shift": ">"
+		},
+		"Q": {
+			"alt": "𖭄",
+			"altShift": "𖭽",
+			"base": "𖬀",
+			"shift": "𖬁"
+		},
+		"Quote": {
+			"alt": "{",
+			"altShift": "}",
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "𖭤",
+			"altShift": "𖮀",
+			"base": "𖬆",
+			"shift": "𖬇"
+		},
+		"RightBracket": {
+			"alt": "𖬚",
+			"altShift": "𖬛",
+			"base": "𖬖",
+			"shift": "𖬗"
+		},
+		"S": {
+			"alt": "𖭬",
+			"altShift": "𖮈",
+			"base": "𖬝",
+			"shift": "𖬧"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": "𖬥",
+			"shift": "𖬯"
+		},
+		"Slash": {
+			"alt": "𖬿",
+			"altShift": "?",
+			"base": "\/",
+			"shift": "𖬷"
+		},
+		"T": {
+			"alt": "𖭥",
+			"altShift": "𖮁",
+			"base": "𖬈",
+			"shift": "𖬉"
+		},
+		"U": {
+			"alt": "𖭧",
+			"altShift": "𖮃",
+			"base": "𖬌",
+			"shift": "𖬍"
+		},
+		"V": {
+			"alt": "𖭶",
+			"base": "𖬳",
+			"shift": "𖬳"
+		},
+		"W": {
+			"alt": "𖭅",
+			"altShift": "𖭾",
+			"base": "𖬂",
+			"shift": "𖬃"
+		},
+		"X": {
+			"alt": "𖭴",
+			"base": "𖬱",
+			"shift": "𖬱"
+		},
+		"Y": {
+			"alt": "𖭦",
+			"altShift": "𖮂",
+			"base": "𖬊",
+			"shift": "𖬋"
+		},
+		"Z": {
+			"alt": "𖭳",
+			"base": "𖬰",
+			"shift": "𖬰"
+		}
+	},
+	"name": "Hmong (Pahawh)",
+	"physicalLayout": "iso"
+}

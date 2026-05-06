@@ -1,0 +1,295 @@
+{
+	"id": "pitesami",
+	"keymap": {
+		"0": {
+			"alt": "≈",
+			"altShift": "≠",
+			"base": "0",
+			"shift": "="
+		},
+		"1": {
+			"alt": "©",
+			"altShift": "¡",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "@",
+			"altShift": "”",
+			"base": "2",
+			"shift": "\""
+		},
+		"3": {
+			"alt": "£",
+			"altShift": "¥",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "$",
+			"altShift": "¢",
+			"base": "4",
+			"shift": "€"
+		},
+		"5": {
+			"alt": "∞",
+			"altShift": "‰",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "§",
+			"altShift": "¶",
+			"base": "6",
+			"shift": "&"
+		},
+		"7": {
+			"alt": "|",
+			"altShift": "\\",
+			"base": "7",
+			"shift": "\/"
+		},
+		"8": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "8",
+			"shift": "("
+		},
+		"9": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "9",
+			"shift": ")"
+		},
+		"A": {
+			"alt": "â",
+			"altShift": "Â",
+			"base": "a",
+			"shift": "A"
+		},
+		"B": {
+			"alt": "›",
+			"altShift": "»",
+			"base": "b",
+			"shift": "B"
+		},
+		"Backslash": {
+			"alt": "™",
+			"altShift": "’",
+			"base": "'",
+			"shift": "*"
+		},
+		"C": {
+			"alt": "č",
+			"altShift": "Č",
+			"base": "c",
+			"shift": "C"
+		},
+		"Comma": {
+			"alt": "‚",
+			"altShift": "„",
+			"base": ",",
+			"shift": ";"
+		},
+		"D": {
+			"alt": "đ",
+			"altShift": "Đ",
+			"base": "d",
+			"shift": "D"
+		},
+		"E": {
+			"alt": "é",
+			"altShift": "É",
+			"base": "e",
+			"shift": "E"
+		},
+		"Equal": {
+			"alt": "́",
+			"altShift": "̀",
+			"base": "´",
+			"shift": "`"
+		},
+		"F": {
+			"alt": "ƒ",
+			"altShift": "∫",
+			"base": "f",
+			"shift": "F"
+		},
+		"G": {
+			"alt": "ǧ",
+			"altShift": "Ǧ",
+			"base": "g",
+			"shift": "G"
+		},
+		"Grave": {
+			"alt": "ǯ",
+			"altShift": "Ǯ",
+			"base": "<",
+			"shift": ">"
+		},
+		"H": {
+			"alt": "ǥ",
+			"altShift": "Ǥ",
+			"base": "h",
+			"shift": "H"
+		},
+		"I": {
+			"alt": "ï",
+			"altShift": "Ï",
+			"base": "i",
+			"shift": "I"
+		},
+		"J": {
+			"alt": "˘",
+			"altShift": "¬",
+			"base": "j",
+			"shift": "J"
+		},
+		"K": {
+			"alt": "ǩ",
+			"altShift": "Ǩ",
+			"base": "k",
+			"shift": "K"
+		},
+		"L": {
+			"alt": "ﬁ",
+			"altShift": "ﬂ",
+			"base": "l",
+			"shift": "L"
+		},
+		"LeftBracket": {
+			"alt": "˚",
+			"altShift": "˚",
+			"base": "å",
+			"shift": "Å"
+		},
+		"M": {
+			"alt": "’",
+			"altShift": "”",
+			"base": "m",
+			"shift": "M"
+		},
+		"Minus": {
+			"alt": "±",
+			"altShift": "¿",
+			"base": "+",
+			"shift": "?"
+		},
+		"N": {
+			"alt": "‘",
+			"altShift": "“",
+			"base": "n",
+			"shift": "N"
+		},
+		"O": {
+			"alt": "õ",
+			"altShift": "Õ",
+			"base": "o",
+			"shift": "O"
+		},
+		"P": {
+			"alt": "π",
+			"altShift": "∏",
+			"base": "p",
+			"shift": "P"
+		},
+		"Period": {
+			"alt": "…",
+			"altShift": "·",
+			"base": ".",
+			"shift": ":"
+		},
+		"Q": {
+			"alt": "q",
+			"altShift": "Q",
+			"base": "á",
+			"shift": "Á"
+		},
+		"Quote": {
+			"alt": "æ",
+			"altShift": "Æ",
+			"base": "ä",
+			"shift": "Ä"
+		},
+		"R": {
+			"alt": "®",
+			"altShift": "√",
+			"base": "r",
+			"shift": "R"
+		},
+		"RightBracket": {
+			"alt": "˜",
+			"altShift": "^",
+			"base": "ŋ",
+			"shift": "Ŋ"
+		},
+		"S": {
+			"alt": "š",
+			"altShift": "Š",
+			"base": "s",
+			"shift": "S"
+		},
+		"Section": {
+			"alt": "¶",
+			"altShift": "•",
+			"base": "§",
+			"shift": "°"
+		},
+		"Semicolon": {
+			"alt": "ø",
+			"altShift": "Ø",
+			"base": "ö",
+			"shift": "Ö"
+		},
+		"Slash": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "-",
+			"shift": "_"
+		},
+		"T": {
+			"alt": "ŧ",
+			"altShift": "Ŧ",
+			"base": "t",
+			"shift": "T"
+		},
+		"U": {
+			"alt": "ü",
+			"altShift": "Ü",
+			"base": "u",
+			"shift": "U"
+		},
+		"V": {
+			"alt": "‹",
+			"altShift": "«",
+			"base": "v",
+			"shift": "V"
+		},
+		"W": {
+			"alt": "Ω",
+			"altShift": "˝",
+			"base": "w",
+			"shift": "W"
+		},
+		"X": {
+			"alt": "ʒ",
+			"altShift": "Ʒ",
+			"base": "x",
+			"shift": "X"
+		},
+		"Y": {
+			"alt": "þ",
+			"altShift": "Þ",
+			"base": "y",
+			"shift": "Y"
+		},
+		"Z": {
+			"alt": "ž",
+			"altShift": "Ž",
+			"base": "z",
+			"shift": "Z"
+		}
+	},
+	"name": "Pite Sámi",
+	"physicalLayout": "iso"
+}

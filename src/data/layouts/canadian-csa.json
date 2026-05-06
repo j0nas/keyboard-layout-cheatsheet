@@ -1,0 +1,295 @@
+{
+	"id": "canadian-csa",
+	"keymap": {
+		"0": {
+			"alt": "]",
+			"altShift": "—",
+			"base": "0",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "¡",
+			"altShift": "≈",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "@",
+			"altShift": "ı",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "£",
+			"altShift": "ˆ",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "€",
+			"altShift": "˜",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "∞",
+			"altShift": "",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": " ",
+			"altShift": "†",
+			"base": "6",
+			"shift": "?"
+		},
+		"7": {
+			"alt": "{",
+			"altShift": "‡",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "}",
+			"altShift": "•",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "[",
+			"altShift": "±",
+			"base": "9",
+			"shift": "("
+		},
+		"A": {
+			"alt": "æ",
+			"altShift": "Æ",
+			"base": "a",
+			"shift": "A"
+		},
+		"B": {
+			"alt": "∫",
+			"altShift": "≤",
+			"base": "b",
+			"shift": "B"
+		},
+		"Backslash": {
+			"alt": "`",
+			"altShift": "`",
+			"base": "à",
+			"shift": "À"
+		},
+		"C": {
+			"alt": "¢",
+			"altShift": "†",
+			"base": "c",
+			"shift": "C"
+		},
+		"Comma": {
+			"alt": "<",
+			"altShift": "x",
+			"base": ",",
+			"shift": "'"
+		},
+		"D": {
+			"alt": "ª",
+			"altShift": "ˇ",
+			"base": "d",
+			"shift": "D"
+		},
+		"E": {
+			"alt": "∂",
+			"altShift": "¯",
+			"base": "e",
+			"shift": "E"
+		},
+		"Equal": {
+			"alt": "¬",
+			"altShift": "–",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "ƒ",
+			"altShift": "ﬂ",
+			"base": "f",
+			"shift": "F"
+		},
+		"G": {
+			"alt": "©",
+			"altShift": "ﬁ",
+			"base": "g",
+			"shift": "G"
+		},
+		"Grave": {
+			"alt": "\\",
+			"altShift": "Ω",
+			"base": "ù",
+			"shift": "Ù"
+		},
+		"H": {
+			"alt": "˙",
+			"altShift": "·",
+			"base": "h",
+			"shift": "H"
+		},
+		"I": {
+			"alt": "π",
+			"altShift": "∏",
+			"base": "i",
+			"shift": "I"
+		},
+		"J": {
+			"alt": "∆",
+			"altShift": "‚",
+			"base": "j",
+			"shift": "J"
+		},
+		"K": {
+			"alt": "˚",
+			"altShift": "⁄",
+			"base": "k",
+			"shift": "K"
+		},
+		"L": {
+			"alt": " ",
+			"altShift": "…",
+			"base": "l",
+			"shift": "L"
+		},
+		"LeftBracket": {
+			"alt": "`",
+			"altShift": "„",
+			"base": "^",
+			"shift": "¨"
+		},
+		"M": {
+			"alt": "µ",
+			"altShift": "º",
+			"base": "m",
+			"shift": "M"
+		},
+		"Minus": {
+			"alt": "|",
+			"altShift": "¿",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": " ",
+			"altShift": "≥",
+			"base": "n",
+			"shift": "N"
+		},
+		"O": {
+			"alt": "ø",
+			"altShift": "Ø",
+			"base": "o",
+			"shift": "O"
+		},
+		"P": {
+			"alt": "“",
+			"altShift": "”",
+			"base": "p",
+			"shift": "P"
+		},
+		"Period": {
+			"alt": ">",
+			"altShift": "÷",
+			"base": ".",
+			"shift": "\""
+		},
+		"Q": {
+			"alt": "œ",
+			"altShift": "Œ",
+			"base": "q",
+			"shift": "Q"
+		},
+		"Quote": {
+			"alt": "\\",
+			"altShift": "’",
+			"base": "è",
+			"shift": "È"
+		},
+		"R": {
+			"alt": "¶",
+			"altShift": "®",
+			"base": "r",
+			"shift": "R"
+		},
+		"RightBracket": {
+			"alt": "~",
+			"altShift": "~",
+			"base": "ç",
+			"shift": "Ç"
+		},
+		"S": {
+			"alt": "ß",
+			"altShift": "§",
+			"base": "s",
+			"shift": "S"
+		},
+		"Section": {
+			"alt": "|",
+			"altShift": " ",
+			"base": "\/",
+			"shift": "\\"
+		},
+		"Semicolon": {
+			"alt": "°",
+			"altShift": "´",
+			"base": ";",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "\/",
+			"altShift": "≠",
+			"base": "é",
+			"shift": "É"
+		},
+		"T": {
+			"alt": "™",
+			"altShift": "˘",
+			"base": "t",
+			"shift": "T"
+		},
+		"U": {
+			"alt": " ",
+			"altShift": "˛",
+			"base": "u",
+			"shift": "U"
+		},
+		"V": {
+			"alt": "√",
+			"altShift": "◊",
+			"base": "v",
+			"shift": "V"
+		},
+		"W": {
+			"alt": "∑",
+			"altShift": "‰",
+			"base": "w",
+			"shift": "W"
+		},
+		"X": {
+			"alt": "»",
+			"altShift": "›",
+			"base": "x",
+			"shift": "X"
+		},
+		"Y": {
+			"alt": "¥",
+			"altShift": "˝",
+			"base": "y",
+			"shift": "Y"
+		},
+		"Z": {
+			"alt": "«",
+			"altShift": "‹",
+			"base": "z",
+			"shift": "Z"
+		}
+	},
+	"name": "Canadian – CSA",
+	"physicalLayout": "iso"
+}

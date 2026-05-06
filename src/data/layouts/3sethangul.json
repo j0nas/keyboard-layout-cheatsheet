@@ -1,0 +1,295 @@
+{
+	"id": "3sethangul",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": ")",
+			"base": "ᄏ",
+			"shift": "~"
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "!",
+			"base": "ᇂ",
+			"shift": "ᆩ"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "@",
+			"base": "ᆻ",
+			"shift": "ᆰ"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "#",
+			"base": "ᆸ",
+			"shift": "ᆽ"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "$",
+			"base": "ᅭ",
+			"shift": "ᆵ"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "%",
+			"base": "ᅲ",
+			"shift": "ᆴ"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "^",
+			"base": "ᅣ",
+			"shift": "="
+		},
+		"7": {
+			"alt": "7",
+			"altShift": "&",
+			"base": "ᅨ",
+			"shift": "“"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "*",
+			"base": "ᅴ",
+			"shift": "”"
+		},
+		"9": {
+			"alt": "9",
+			"altShift": "(",
+			"base": "ᅮ",
+			"shift": "'"
+		},
+		"A": {
+			"alt": "a",
+			"altShift": "A",
+			"base": "ᆼ",
+			"shift": "ᆮ"
+		},
+		"B": {
+			"alt": "b",
+			"altShift": "B",
+			"base": "ᅮ",
+			"shift": "?"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": ":",
+			"shift": "￦"
+		},
+		"C": {
+			"alt": "c",
+			"altShift": "C",
+			"base": "ᅦ",
+			"shift": "ᆿ"
+		},
+		"Comma": {
+			"alt": ",",
+			"altShift": "<",
+			"base": ",",
+			"shift": ","
+		},
+		"D": {
+			"alt": "d",
+			"altShift": "D",
+			"base": "ᅵ",
+			"shift": "ᆲ"
+		},
+		"E": {
+			"alt": "e",
+			"altShift": "E",
+			"base": "ᅧ",
+			"shift": "ᆬ"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "+",
+			"base": ">",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "f",
+			"altShift": "F",
+			"base": "ᅡ",
+			"shift": "ᆱ"
+		},
+		"G": {
+			"alt": "g",
+			"altShift": "G",
+			"base": "ᅳ",
+			"shift": "ᅤ"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "*",
+			"shift": "※"
+		},
+		"H": {
+			"alt": "h",
+			"altShift": "H",
+			"base": "ᄂ",
+			"shift": "0"
+		},
+		"I": {
+			"alt": "i",
+			"altShift": "I",
+			"base": "ᄆ",
+			"shift": "7"
+		},
+		"J": {
+			"alt": "j",
+			"altShift": "J",
+			"base": "ᄋ",
+			"shift": "1"
+		},
+		"K": {
+			"alt": "k",
+			"altShift": "K",
+			"base": "ᄀ",
+			"shift": "2"
+		},
+		"L": {
+			"alt": "l",
+			"altShift": "L",
+			"base": "ᄌ",
+			"shift": "3"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "(",
+			"shift": "%"
+		},
+		"M": {
+			"alt": "m",
+			"altShift": "M",
+			"base": "ᄒ",
+			"shift": "\""
+		},
+		"Minus": {
+			"alt": "-",
+			"altShift": "_",
+			"base": ")",
+			"shift": ";"
+		},
+		"N": {
+			"alt": "n",
+			"altShift": "N",
+			"base": "ᄉ",
+			"shift": "-"
+		},
+		"O": {
+			"alt": "o",
+			"altShift": "O",
+			"base": "ᄎ",
+			"shift": "8"
+		},
+		"P": {
+			"alt": "p",
+			"altShift": "P",
+			"base": "ᄑ",
+			"shift": "9"
+		},
+		"Period": {
+			"alt": ".",
+			"altShift": ">",
+			"base": ".",
+			"shift": "."
+		},
+		"Q": {
+			"alt": "q",
+			"altShift": "Q",
+			"base": "ᆺ",
+			"shift": "ᇁ"
+		},
+		"Quote": {
+			"alt": "'",
+			"altShift": "\"",
+			"base": "ᄐ",
+			"shift": "·"
+		},
+		"R": {
+			"alt": "r",
+			"altShift": "R",
+			"base": "ᅢ",
+			"shift": "ᆶ"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "<",
+			"shift": "\/"
+		},
+		"S": {
+			"alt": "s",
+			"altShift": "S",
+			"base": "ᆫ",
+			"shift": "ᆭ"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": "ᄇ",
+			"shift": "4"
+		},
+		"Slash": {
+			"alt": "\/",
+			"altShift": "?",
+			"base": "ᅩ",
+			"shift": "!"
+		},
+		"T": {
+			"alt": "t",
+			"altShift": "T",
+			"base": "ᅥ",
+			"shift": "ᆳ"
+		},
+		"U": {
+			"alt": "u",
+			"altShift": "U",
+			"base": "ᄃ",
+			"shift": "6"
+		},
+		"V": {
+			"alt": "v",
+			"altShift": "V",
+			"base": "ᅩ",
+			"shift": "ᆪ"
+		},
+		"W": {
+			"alt": "w",
+			"altShift": "W",
+			"base": "ᆯ",
+			"shift": "ᇀ"
+		},
+		"X": {
+			"alt": "x",
+			"altShift": "X",
+			"base": "ᆨ",
+			"shift": "ᆹ"
+		},
+		"Y": {
+			"alt": "y",
+			"altShift": "Y",
+			"base": "ᄅ",
+			"shift": "5"
+		},
+		"Z": {
+			"alt": "z",
+			"altShift": "Z",
+			"base": "ᆷ",
+			"shift": "ᆾ"
+		}
+	},
+	"name": "3-Set Korean",
+	"physicalLayout": "iso"
+}

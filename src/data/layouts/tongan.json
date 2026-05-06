@@ -1,0 +1,289 @@
+{
+	"id": "tongan",
+	"keymap": {
+		"0": {
+			"alt": "º",
+			"altShift": "≈",
+			"base": "0",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "¡",
+			"altShift": "⁄",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "™",
+			"altShift": "¤",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "£",
+			"altShift": "½",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "¢",
+			"altShift": "¥",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "∞",
+			"altShift": "‰",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "§",
+			"altShift": "√",
+			"base": "6",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "¶",
+			"altShift": "◊",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "•",
+			"altShift": "°",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "ª",
+			"altShift": "·",
+			"base": "9",
+			"shift": "("
+		},
+		"A": {
+			"alt": "ā",
+			"altShift": "Ā",
+			"base": "a",
+			"shift": "A"
+		},
+		"B": {
+			"alt": "×",
+			"altShift": "∫",
+			"base": "b",
+			"shift": "B"
+		},
+		"Backslash": {
+			"alt": "«",
+			"altShift": "»",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"alt": "ç",
+			"altShift": "Ç",
+			"base": "c",
+			"shift": "C"
+		},
+		"Comma": {
+			"alt": "≤",
+			"altShift": "‹",
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"alt": "é",
+			"altShift": "É",
+			"base": "d",
+			"shift": "D"
+		},
+		"E": {
+			"alt": "ē",
+			"altShift": "Ē",
+			"base": "e",
+			"shift": "E"
+		},
+		"Equal": {
+			"alt": "≠",
+			"altShift": "±",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "©",
+			"altShift": "ı",
+			"base": "f",
+			"shift": "F"
+		},
+		"G": {
+			"alt": "ŋ",
+			"altShift": "Ŋ",
+			"base": "g",
+			"shift": "G"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "`",
+			"base": "ʻ",
+			"shift": "~"
+		},
+		"H": {
+			"alt": "Δ",
+			"altShift": "∇",
+			"base": "h",
+			"shift": "H"
+		},
+		"I": {
+			"alt": "ī",
+			"altShift": "Ī",
+			"base": "i",
+			"shift": "I"
+		},
+		"J": {
+			"alt": "ú",
+			"altShift": "Ú",
+			"base": "j",
+			"shift": "J"
+		},
+		"K": {
+			"alt": "í",
+			"altShift": "Í",
+			"base": "k",
+			"shift": "K"
+		},
+		"L": {
+			"alt": "ó",
+			"altShift": "Ó",
+			"base": "l",
+			"shift": "L"
+		},
+		"LeftBracket": {
+			"alt": "“",
+			"altShift": "”",
+			"base": "[",
+			"shift": "{"
+		},
+		"M": {
+			"alt": "¯",
+			"altShift": "μ",
+			"base": "m",
+			"shift": "M"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "˜",
+			"altShift": "№",
+			"base": "n",
+			"shift": "N"
+		},
+		"O": {
+			"alt": "ō",
+			"altShift": "Ō",
+			"base": "o",
+			"shift": "O"
+		},
+		"P": {
+			"alt": "π",
+			"altShift": "∏",
+			"base": "p",
+			"shift": "P"
+		},
+		"Period": {
+			"alt": "≥",
+			"altShift": "›",
+			"base": ".",
+			"shift": ">"
+		},
+		"Q": {
+			"alt": "ˆ",
+			"altShift": "∠",
+			"base": "q",
+			"shift": "Q"
+		},
+		"Quote": {
+			"alt": "å",
+			"altShift": "Å",
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "®",
+			"altShift": "˝",
+			"base": "r",
+			"shift": "R"
+		},
+		"RightBracket": {
+			"alt": "‘",
+			"altShift": "’",
+			"base": "]",
+			"shift": "}"
+		},
+		"S": {
+			"alt": "ß",
+			"altShift": "Ω",
+			"base": "s",
+			"shift": "S"
+		},
+		"Semicolon": {
+			"alt": "…",
+			"altShift": "¬",
+			"base": ";",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "÷",
+			"altShift": "¿",
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"alt": "†",
+			"altShift": "‡",
+			"base": "t",
+			"shift": "T"
+		},
+		"U": {
+			"alt": "ū",
+			"altShift": "Ū",
+			"base": "u",
+			"shift": "U"
+		},
+		"V": {
+			"alt": "ø",
+			"altShift": "Ø",
+			"base": "v",
+			"shift": "V"
+		},
+		"W": {
+			"alt": "∑",
+			"altShift": "€",
+			"base": "w",
+			"shift": "W"
+		},
+		"X": {
+			"alt": "´",
+			"altShift": "∂",
+			"base": "x",
+			"shift": "X"
+		},
+		"Y": {
+			"alt": "¨",
+			"altShift": "⸫",
+			"base": "y",
+			"shift": "Y"
+		},
+		"Z": {
+			"alt": "á",
+			"altShift": "Á",
+			"base": "z",
+			"shift": "Z"
+		}
+	},
+	"name": "Tongan",
+	"physicalLayout": "iso"
+}

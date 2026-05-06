@@ -1,0 +1,255 @@
+{
+	"id": "adlam-qwerty",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": "°",
+			"base": "𞥐",
+			"shift": "("
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "𞥞",
+			"base": "𞥑",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "™",
+			"base": "𞥒",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "£",
+			"base": "𞥓",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "¢",
+			"base": "𞥔",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "∞",
+			"base": "𞥕",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "§",
+			"base": "𞥖",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "7",
+			"altShift": "¶",
+			"base": "𞥗",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "•",
+			"base": "𞥘",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "9",
+			"base": "𞥙",
+			"shift": ")"
+		},
+		"A": {
+			"alt": "𞥄",
+			"base": "𞤢",
+			"shift": "𞤀"
+		},
+		"B": {
+			"alt": "𞥀",
+			"altShift": "𞤞",
+			"base": "𞤦",
+			"shift": "𞤄"
+		},
+		"Backslash": {
+			"alt": "|",
+			"altShift": "\\",
+			"base": "»",
+			"shift": "«"
+		},
+		"C": {
+			"base": "𞤷",
+			"shift": "𞤕"
+		},
+		"Comma": {
+			"alt": "≥",
+			"base": "⹁",
+			"shift": ">"
+		},
+		"D": {
+			"base": "𞤣",
+			"shift": "𞤁"
+		},
+		"E": {
+			"base": "𞤫",
+			"shift": "𞤉"
+		},
+		"Equal": {
+			"alt": "≠",
+			"altShift": "±",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"base": "𞤬",
+			"shift": "𞤊"
+		},
+		"G": {
+			"base": "𞤺",
+			"shift": "𞤘"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "`",
+			"shift": "~"
+		},
+		"H": {
+			"base": "𞤸",
+			"shift": "𞤖"
+		},
+		"I": {
+			"alt": "𞥅",
+			"base": "𞤭",
+			"shift": "𞤋"
+		},
+		"J": {
+			"base": "𞤶",
+			"shift": "𞤔"
+		},
+		"K": {
+			"alt": "𞤿",
+			"altShift": "𞤝",
+			"base": "𞤳",
+			"shift": "𞤑"
+		},
+		"L": {
+			"altShift": "",
+			"base": "𞤤",
+			"shift": "𞤂"
+		},
+		"LeftBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "𞤽",
+			"shift": "𞤛"
+		},
+		"M": {
+			"base": "𞤥",
+			"shift": "𞤃"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"base": "𞤲",
+			"shift": "𞤐"
+		},
+		"O": {
+			"alt": "߭",
+			"base": "𞤮",
+			"shift": "𞤌"
+		},
+		"P": {
+			"alt": "𞥂",
+			"altShift": "𞤠",
+			"base": "𞤨",
+			"shift": "𞤆"
+		},
+		"Period": {
+			"alt": "≤",
+			"base": ".",
+			"shift": "<"
+		},
+		"Q": {
+			"base": "𞤻",
+			"shift": "𞤙"
+		},
+		"Quote": {
+			"base": "𞥋",
+			"shift": "\""
+		},
+		"R": {
+			"base": "𞤪",
+			"shift": "𞤈"
+		},
+		"RightBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "𞤹",
+			"shift": "𞤗"
+		},
+		"S": {
+			"alt": "𞥃",
+			"altShift": "𞤡",
+			"base": "𞤧",
+			"shift": "𞤅"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"base": "⁏",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "÷",
+			"altShift": "𞥟",
+			"base": "\/",
+			"shift": "؟"
+		},
+		"T": {
+			"alt": "𞥆",
+			"base": "𞤼",
+			"shift": "𞤚"
+		},
+		"U": {
+			"alt": "𞥈",
+			"base": "𞤵",
+			"shift": "𞤓"
+		},
+		"V": {
+			"alt": "𞤾",
+			"altShift": "𞤜",
+			"base": "𞤩",
+			"shift": "𞤇"
+		},
+		"W": {
+			"base": "𞤱",
+			"shift": "𞤏"
+		},
+		"X": {
+			"base": "𞤰",
+			"shift": "𞤎"
+		},
+		"Y": {
+			"alt": "𞥉",
+			"base": "𞤴",
+			"shift": "𞤒"
+		},
+		"Z": {
+			"alt": "𞥁",
+			"altShift": "𞤟",
+			"base": "𞤯",
+			"shift": "𞤍"
+		}
+	},
+	"name": "Adlam",
+	"physicalLayout": "iso"
+}

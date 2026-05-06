@@ -1,0 +1,208 @@
+{
+	"id": "manipuri-meeteimayek",
+	"keymap": {
+		"0": {
+			"alt": "}",
+			"altShift": "0",
+			"base": "꯰",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "‍",
+			"altShift": "1",
+			"base": "꯱",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "‌",
+			"altShift": "2",
+			"base": "꯲",
+			"shift": "@"
+		},
+		"3": {
+			"altShift": "3",
+			"base": "꯳",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "₹",
+			"altShift": "4",
+			"base": "꯴",
+			"shift": "$"
+		},
+		"5": {
+			"altShift": "5",
+			"base": "꯵",
+			"shift": "%"
+		},
+		"6": {
+			"altShift": "6",
+			"base": "꯶",
+			"shift": "^"
+		},
+		"7": {
+			"altShift": "7",
+			"base": "꯷",
+			"shift": "&"
+		},
+		"8": {
+			"altShift": "8",
+			"base": "꯸",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "{",
+			"altShift": "9",
+			"base": "꯹",
+			"shift": "("
+		},
+		"A": {
+			"base": "ꯣ"
+		},
+		"B": {
+			"base": "ꯋ"
+		},
+		"Backslash": {
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"alt": "ꯝ",
+			"base": "ꯃ"
+		},
+		"Comma": {
+			"altShift": "<",
+			"base": ",",
+			"shift": "꯫"
+		},
+		"D": {
+			"shift": "ꯑ"
+		},
+		"E": {
+			"base": "ꯥ"
+		},
+		"Equal": {
+			"alt": "≠",
+			"altShift": "±",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"altShift": "ꯢ",
+			"base": "ꯤ",
+			"shift": "ꯏ"
+		},
+		"G": {
+			"base": "ꯨ",
+			"shift": "ꯎ"
+		},
+		"Grave": {
+			"altShift": "~",
+			"base": "₹",
+			"shift": "~"
+		},
+		"H": {
+			"alt": "ꯞ",
+			"base": "ꯄ",
+			"shift": "ꯐ"
+		},
+		"I": {
+			"base": "ꯒ",
+			"shift": "ꯘ"
+		},
+		"J": {
+			"base": "ꯔ"
+		},
+		"K": {
+			"alt": "ꯛ",
+			"base": "ꯀ",
+			"shift": "ꯈ"
+		},
+		"L": {
+			"alt": "ꯠ",
+			"base": "ꯇ",
+			"shift": "ꯊ"
+		},
+		"LeftBracket": {
+			"altShift": "[",
+			"shift": "{"
+		},
+		"M": {
+			"base": "ꯁ"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "ꯜ",
+			"base": "ꯂ"
+		},
+		"O": {
+			"base": "ꯗ",
+			"shift": "ꯙ"
+		},
+		"P": {
+			"base": "ꯖ",
+			"shift": "ꯓ"
+		},
+		"Period": {
+			"altShift": ">",
+			"base": "."
+		},
+		"Q": {
+			"base": "ꯧ"
+		},
+		"Quote": {
+			"base": "'",
+			"shift": "\""
+		},
+		"RightBracket": {
+			"altShift": "]",
+			"shift": "}"
+		},
+		"S": {
+			"base": "ꯦ"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": "ꯆ"
+		},
+		"Slash": {
+			"alt": "\/",
+			"altShift": "?",
+			"base": "ꯌ",
+			"shift": "?"
+		},
+		"U": {
+			"altShift": "ꯡ",
+			"base": "ꯍ",
+			"shift": "ꯉ"
+		},
+		"V": {
+			"alt": "ꯟ",
+			"base": "ꯅ"
+		},
+		"W": {
+			"base": "ꯩ"
+		},
+		"X": {
+			"base": "ꯪ"
+		},
+		"Y": {
+			"base": "ꯕ",
+			"shift": "ꯚ"
+		}
+	},
+	"name": "Manipuri (Meetei Mayek)",
+	"physicalLayout": "iso"
+}

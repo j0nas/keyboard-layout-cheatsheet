@@ -1,0 +1,36 @@
+---
+import type { GetStaticPaths } from "astro";
+import Cheatsheet from "../../../components/Cheatsheet";
+import Layout from "../../../layouts/Layout.astro";
+import { allApps, allLayouts } from "../../../lib/loadData";
+import type { App, Layout as KeyboardLayout } from "../../../lib/types";
+
+export const getStaticPaths = (() => {
+	const paths: Array<{
+		params: { appId: string; layoutId: string };
+		props: { app: App; layout: KeyboardLayout };
+	}> = [];
+	for (const app of allApps) {
+		for (const layout of allLayouts) {
+			paths.push({
+				params: { appId: app.id, layoutId: layout.id },
+				props: { app, layout },
+			});
+		}
+	}
+	return paths;
+}) satisfies GetStaticPaths;
+
+const { app, layout } = Astro.props;
+const title = `${app.name} on ${layout.name} — Keyboard Layout Cheatsheet`;
+---
+
+<Layout title={title}>
+	<Cheatsheet
+		client:load
+		apps={allApps}
+		layouts={allLayouts}
+		defaultAppId={app.id}
+		defaultLayoutId={layout.id}
+	/>
+</Layout>

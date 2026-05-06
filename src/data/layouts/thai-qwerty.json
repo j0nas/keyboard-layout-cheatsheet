@@ -1,0 +1,253 @@
+{
+	"id": "thai-qwerty",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": "×",
+			"base": "๐",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "…",
+			"base": "๑",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "©",
+			"base": "๒",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "®",
+			"base": "๓",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "$",
+			"base": "๔",
+			"shift": "฿"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "’",
+			"base": "๕",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "‘",
+			"base": "๖",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "7",
+			"altShift": "–",
+			"base": "๗",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "๏",
+			"base": "๘",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "9",
+			"altShift": "—",
+			"base": "๙",
+			"shift": "("
+		},
+		"A": {
+			"alt": "ำ",
+			"altShift": "ๅ",
+			"base": "ะ",
+			"shift": "า"
+		},
+		"B": {
+			"alt": "ฟ",
+			"base": "พ",
+			"shift": "ภ"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "๋"
+		},
+		"C": {
+			"base": "จ",
+			"shift": "ฉ"
+		},
+		"Comma": {
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"alt": "ฑ",
+			"altShift": "ฒ",
+			"base": "ท",
+			"shift": "ธ"
+		},
+		"E": {
+			"alt": "ไ",
+			"altShift": "ใ",
+			"base": "เ",
+			"shift": "แ"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "+",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "๎",
+			"base": "ฺ",
+			"shift": "์"
+		},
+		"G": {
+			"alt": "ฅ",
+			"base": "ค",
+			"shift": "ฆ"
+		},
+		"Grave": {
+			"alt": "๚",
+			"altShift": "๛",
+			"base": "ฯ",
+			"shift": "ๆ"
+		},
+		"H": {
+			"base": "ห",
+			"shift": "ฮ"
+		},
+		"I": {
+			"alt": "ึ",
+			"altShift": "ื",
+			"base": "ิ",
+			"shift": "ี"
+		},
+		"J": {
+			"alt": "ซ",
+			"base": "ช",
+			"shift": "ฌ"
+		},
+		"K": {
+			"alt": "ฃ",
+			"base": "ก",
+			"shift": "ข"
+		},
+		"L": {
+			"alt": "ฦ",
+			"base": "ล",
+			"shift": "ฬ"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "้",
+			"shift": "["
+		},
+		"M": {
+			"base": "ม",
+			"shift": "ํ"
+		},
+		"Minus": {
+			"alt": "_",
+			"altShift": "−",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "ญ",
+			"base": "น",
+			"shift": "ณ"
+		},
+		"O": {
+			"alt": "ใ",
+			"base": "โ",
+			"shift": "ไ"
+		},
+		"P": {
+			"alt": "ป",
+			"altShift": "ฝ",
+			"base": "บ",
+			"shift": "ผ"
+		},
+		"Period": {
+			"base": ".",
+			"shift": ">"
+		},
+		"Q": {
+			"base": "ั",
+			"shift": "็"
+		},
+		"Quote": {
+			"altShift": "\"",
+			"base": "่",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "ต",
+			"altShift": "ฏ",
+			"base": "ร",
+			"shift": "ฤ"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "๊",
+			"shift": "]"
+		},
+		"S": {
+			"base": "ส",
+			"shift": "ศ"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "`",
+			"shift": "~"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": ";",
+			"shift": ":"
+		},
+		"Slash": {
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"alt": "ฎ",
+			"altShift": "ฐ",
+			"base": "ด",
+			"shift": "ถ"
+		},
+		"U": {
+			"base": "ุ",
+			"shift": "ู"
+		},
+		"V": {
+			"base": "ว"
+		},
+		"W": {
+			"base": "อ"
+		},
+		"X": {
+			"base": "ษ"
+		},
+		"Y": {
+			"base": "ย",
+			"shift": "ญ"
+		},
+		"Z": {
+			"base": "ง"
+		}
+	},
+	"name": "Thai – QWERTY",
+	"physicalLayout": "iso"
+}

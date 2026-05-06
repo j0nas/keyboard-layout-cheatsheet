@@ -1,0 +1,295 @@
+{
+	"id": "polish",
+	"keymap": {
+		"0": {
+			"alt": "„",
+			"altShift": "”",
+			"base": "0",
+			"shift": "\""
+		},
+		"1": {
+			"alt": "&",
+			"altShift": "Ā",
+			"base": "1",
+			"shift": "§"
+		},
+		"2": {
+			"alt": "@",
+			"altShift": "ā",
+			"base": "2",
+			"shift": "%"
+		},
+		"3": {
+			"alt": "#",
+			"altShift": "ď",
+			"base": "3",
+			"shift": "!"
+		},
+		"4": {
+			"alt": "€",
+			"altShift": "Ē",
+			"base": "4",
+			"shift": "?"
+		},
+		"5": {
+			"alt": "`",
+			"altShift": "ē",
+			"base": "5",
+			"shift": "+"
+		},
+		"6": {
+			"alt": "™",
+			"altShift": "ķ",
+			"base": "6",
+			"shift": "="
+		},
+		"7": {
+			"alt": "¶",
+			"altShift": "°",
+			"base": "7",
+			"shift": ":"
+		},
+		"8": {
+			"alt": "•",
+			"altShift": "–",
+			"base": "8",
+			"shift": "_"
+		},
+		"9": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "9",
+			"shift": "\/"
+		},
+		"A": {
+			"alt": "ū",
+			"altShift": "Ľ",
+			"base": "a",
+			"shift": "A"
+		},
+		"B": {
+			"alt": "ű",
+			"altShift": "ŗ",
+			"base": "b",
+			"shift": "B"
+		},
+		"Backslash": {
+			"alt": "'",
+			"altShift": "~",
+			"base": ";",
+			"shift": "$"
+		},
+		"C": {
+			"alt": "ˇ",
+			"altShift": "Ŗ",
+			"base": "c",
+			"shift": "C"
+		},
+		"Comma": {
+			"alt": "ų",
+			"altShift": "Ś",
+			"base": ".",
+			"shift": "ś"
+		},
+		"D": {
+			"alt": "∂",
+			"altShift": "Ņ",
+			"base": "d",
+			"shift": "D"
+		},
+		"E": {
+			"alt": "´",
+			"altShift": "Į",
+			"base": "e",
+			"shift": "E"
+		},
+		"Equal": {
+			"alt": "≠",
+			"altShift": "÷",
+			"base": "[",
+			"shift": "]"
+		},
+		"F": {
+			"alt": "Ů",
+			"altShift": "ņ",
+			"base": "f",
+			"shift": "F"
+		},
+		"G": {
+			"alt": "©",
+			"altShift": "Ő",
+			"base": "g",
+			"shift": "G"
+		},
+		"Grave": {
+			"alt": "«",
+			"altShift": "»",
+			"base": "<",
+			"shift": ">"
+		},
+		"H": {
+			"alt": "ů",
+			"altShift": "Ō",
+			"base": "h",
+			"shift": "H"
+		},
+		"I": {
+			"alt": "^",
+			"altShift": "Ļ",
+			"base": "i",
+			"shift": "I"
+		},
+		"J": {
+			"alt": "∆",
+			"altShift": "ō",
+			"base": "j",
+			"shift": "J"
+		},
+		"K": {
+			"alt": "Ű",
+			"altShift": "Ŕ",
+			"base": "k",
+			"shift": "K"
+		},
+		"L": {
+			"alt": "¬",
+			"altShift": "ŕ",
+			"base": "l",
+			"shift": "L"
+		},
+		"LeftBracket": {
+			"alt": "Ó",
+			"altShift": "Ź",
+			"base": "ó",
+			"shift": "ź"
+		},
+		"M": {
+			"alt": "Ų",
+			"altShift": "ý",
+			"base": "m",
+			"shift": "M"
+		},
+		"Minus": {
+			"alt": "‚",
+			"altShift": "’",
+			"base": "ż",
+			"shift": "Ż"
+		},
+		"N": {
+			"alt": "~",
+			"altShift": "Ý",
+			"base": "n",
+			"shift": "N"
+		},
+		"O": {
+			"alt": "£",
+			"altShift": "ļ",
+			"base": "o",
+			"shift": "O"
+		},
+		"P": {
+			"alt": "‘",
+			"altShift": "“",
+			"base": "p",
+			"shift": "P"
+		},
+		"Period": {
+			"alt": "Ģ",
+			"altShift": "Ń",
+			"base": ",",
+			"shift": "ń"
+		},
+		"Q": {
+			"alt": "Ū",
+			"altShift": "Ė",
+			"base": "q",
+			"shift": "Q"
+		},
+		"Quote": {
+			"alt": "Ą",
+			"altShift": "Ę",
+			"base": "ą",
+			"shift": "ę"
+		},
+		"R": {
+			"alt": "®",
+			"altShift": "į",
+			"base": "r",
+			"shift": "R"
+		},
+		"RightBracket": {
+			"alt": "{",
+			"altShift": "}",
+			"base": "(",
+			"shift": ")"
+		},
+		"S": {
+			"alt": "ß",
+			"altShift": "ľ",
+			"base": "s",
+			"shift": "S"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "§",
+			"base": "^",
+			"shift": "*"
+		},
+		"Semicolon": {
+			"alt": "…",
+			"altShift": "ť",
+			"base": "ł",
+			"shift": "Ł"
+		},
+		"Slash": {
+			"alt": "—",
+			"altShift": "Ć",
+			"base": "-",
+			"shift": "ć"
+		},
+		"T": {
+			"alt": "†",
+			"altShift": "Ī",
+			"base": "t",
+			"shift": "T"
+		},
+		"U": {
+			"alt": "¨",
+			"altShift": "Ķ",
+			"base": "u",
+			"shift": "U"
+		},
+		"V": {
+			"alt": "√",
+			"altShift": "◊",
+			"base": "v",
+			"shift": "V"
+		},
+		"W": {
+			"alt": "∑",
+			"altShift": "ė",
+			"base": "w",
+			"shift": "W"
+		},
+		"X": {
+			"alt": "≤",
+			"altShift": "≥",
+			"base": "x",
+			"shift": "X"
+		},
+		"Y": {
+			"alt": "°",
+			"altShift": "ī",
+			"base": "z",
+			"shift": "Z"
+		},
+		"Z": {
+			"alt": "‹",
+			"altShift": "›",
+			"base": "y",
+			"shift": "Y"
+		}
+	},
+	"name": "Polish – QWERTZ",
+	"physicalLayout": "iso"
+}

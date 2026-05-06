@@ -1,0 +1,209 @@
+{
+	"id": "mandaic-arabic",
+	"keymap": {
+		"0": {
+			"alt": "٠",
+			"altShift": "°",
+			"base": "0",
+			"shift": "("
+		},
+		"1": {
+			"alt": "١",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "٢",
+			"altShift": "❊",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "٣",
+			"altShift": "£",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "٤",
+			"altShift": "€",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "٥",
+			"altShift": "∞",
+			"base": "5",
+			"shift": "٪"
+		},
+		"6": {
+			"alt": "٦",
+			"base": "6",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "٧",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "٨",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "٩",
+			"base": "9",
+			"shift": ")"
+		},
+		"A": {
+			"base": "ࡔ",
+			"shift": "»"
+		},
+		"B": {
+			"base": "ࡆ"
+		},
+		"Backslash": {
+			"base": "\\",
+			"shift": "|"
+		},
+		"Comma": {
+			"alt": ",",
+			"altShift": ",",
+			"base": "،",
+			"shift": ">"
+		},
+		"D": {
+			"base": "ࡉ"
+		},
+		"E": {
+			"alt": "“",
+			"base": "ࡗ",
+			"shift": "࡛"
+		},
+		"Equal": {
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"base": "ࡁ"
+		},
+		"G": {
+			"base": "ࡋ"
+		},
+		"Grave": {
+			"base": "ـ",
+			"shift": "~"
+		},
+		"H": {
+			"base": "ࡀ"
+		},
+		"I": {
+			"base": "ࡏ",
+			"shift": "﴾"
+		},
+		"J": {
+			"base": "ࡕ",
+			"shift": "×"
+		},
+		"K": {
+			"base": "ࡍ",
+			"shift": "٫"
+		},
+		"L": {
+			"base": "ࡌ",
+			"shift": "٬"
+		},
+		"LeftBracket": {
+			"shift": "}"
+		},
+		"M": {
+			"base": "ࡅ"
+		},
+		"Minus": {
+			"alt": "_",
+			"altShift": "_",
+			"base": "-",
+			"shift": "ـ"
+		},
+		"N": {
+			"base": "ࡓ"
+		},
+		"O": {
+			"shift": "]"
+		},
+		"P": {
+			"base": "ࡄ",
+			"shift": "["
+		},
+		"Period": {
+			"base": ".",
+			"shift": "<"
+		},
+		"Q": {
+			"alt": "‘",
+			"base": "ࡖ",
+			"shift": "࡙"
+		},
+		"Quote": {
+			"alt": "…",
+			"altShift": "…",
+			"base": "؛",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "”",
+			"altShift": "؉",
+			"base": "ࡒ"
+		},
+		"RightBracket": {
+			"base": "ࡇ",
+			"shift": "{"
+		},
+		"S": {
+			"base": "ࡑ",
+			"shift": "«"
+		},
+		"Section": {
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"base": "ࡊ",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "÷",
+			"altShift": "÷",
+			"base": "\/",
+			"shift": "؟"
+		},
+		"T": {
+			"base": "ࡐ"
+		},
+		"U": {
+			"base": "ࡘ",
+			"shift": "﴿"
+		},
+		"V": {
+			"base": "ࡃ"
+		},
+		"W": {
+			"alt": "’",
+			"base": "ࡎ",
+			"shift": "࡚"
+		},
+		"X": {
+			"base": "ࡈ"
+		},
+		"Y": {
+			"base": "ࡂ"
+		},
+		"Z": {
+			"base": "࡞",
+			"shift": "'"
+		}
+	},
+	"name": "Mandaic – Arabic",
+	"physicalLayout": "iso"
+}

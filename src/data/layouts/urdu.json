@@ -1,0 +1,259 @@
+{
+	"id": "urdu",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"base": "۰",
+			"shift": "("
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "إ",
+			"base": "۱",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "؁",
+			"base": "۲",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "؃",
+			"base": "۳",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "؄",
+			"base": "۴",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "%",
+			"base": "۵",
+			"shift": "٪"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "ْ",
+			"base": "۶",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "7",
+			"altShift": "؎",
+			"base": "۷",
+			"shift": "ٴ"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "❊",
+			"base": "۸",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "9",
+			"altShift": "؏",
+			"base": "۹",
+			"shift": ")"
+		},
+		"A": {
+			"alt": "َ",
+			"altShift": "ً",
+			"base": "ا",
+			"shift": "آ"
+		},
+		"B": {
+			"altShift": "﷽",
+			"base": "ب"
+		},
+		"Backslash": {
+			"alt": "إ",
+			"altShift": "أ",
+			"base": "ِ",
+			"shift": "ٍ"
+		},
+		"C": {
+			"base": "چ",
+			"shift": "ث"
+		},
+		"Comma": {
+			"altShift": ">",
+			"base": "،",
+			"shift": "٬"
+		},
+		"D": {
+			"altShift": "ڐ",
+			"base": "د",
+			"shift": "ڈ"
+		},
+		"E": {
+			"alt": "ؑ",
+			"base": "ع",
+			"shift": "ّ"
+		},
+		"Equal": {
+			"alt": "‏",
+			"altShift": "‎",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"base": "ف"
+		},
+		"G": {
+			"base": "گ",
+			"shift": "غ"
+		},
+		"Grave": {
+			"alt": "₹",
+			"altShift": "~",
+			"base": "؀",
+			"shift": "ؔ"
+		},
+		"H": {
+			"alt": "ه",
+			"base": "ھ",
+			"shift": "ح"
+		},
+		"I": {
+			"alt": "ِ",
+			"altShift": "ٍ",
+			"base": "ی",
+			"shift": "ٰ"
+		},
+		"J": {
+			"altShift": "ﷻ",
+			"base": "ج",
+			"shift": "ض"
+		},
+		"K": {
+			"alt": "ك",
+			"altShift": "ك",
+			"base": "ک",
+			"shift": "خ"
+		},
+		"L": {
+			"base": "ل"
+		},
+		"LeftBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "ُ",
+			"shift": "ٌ"
+		},
+		"M": {
+			"base": "م"
+		},
+		"Minus": {
+			"alt": "ـ",
+			"altShift": "‍",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "٘",
+			"base": "ن",
+			"shift": "ں"
+		},
+		"O": {
+			"alt": "ۃ",
+			"altShift": "ة",
+			"base": "ہ",
+			"shift": "ۂ"
+		},
+		"P": {
+			"base": "پ",
+			"shift": "ٗ"
+		},
+		"Period": {
+			"alt": "٫",
+			"altShift": "<",
+			"base": "۔",
+			"shift": "."
+		},
+		"Q": {
+			"alt": "ْ",
+			"altShift": "ْ",
+			"base": "ق",
+			"shift": "ْ"
+		},
+		"Quote": {
+			"alt": "⁨",
+			"altShift": "⁩",
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "ؓ",
+			"altShift": "ڙ",
+			"base": "ر",
+			"shift": "ڑ"
+		},
+		"RightBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "َ",
+			"shift": "ً"
+		},
+		"S": {
+			"alt": "ؐ",
+			"altShift": "ﷺ",
+			"base": "س",
+			"shift": "ص"
+		},
+		"Semicolon": {
+			"alt": "⁧",
+			"altShift": "⁦",
+			"base": "؛",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "؍",
+			"altShift": "\\",
+			"base": "\/",
+			"shift": "؟"
+		},
+		"T": {
+			"alt": "ؒ",
+			"altShift": "ٿ",
+			"base": "ت",
+			"shift": "ٹ"
+		},
+		"U": {
+			"alt": "ُ",
+			"altShift": "ٌ",
+			"base": "ئ",
+			"shift": "ء"
+		},
+		"V": {
+			"base": "ط",
+			"shift": "ظ"
+		},
+		"W": {
+			"alt": "ّ",
+			"altShift": "ّ",
+			"base": "و",
+			"shift": "ؤ"
+		},
+		"X": {
+			"base": "ش",
+			"shift": "ژ"
+		},
+		"Y": {
+			"alt": "ۓ",
+			"altShift": "ي",
+			"base": "ے",
+			"shift": "ٖ"
+		},
+		"Z": {
+			"base": "ز",
+			"shift": "ذ"
+		}
+	},
+	"name": "Urdu",
+	"physicalLayout": "iso"
+}

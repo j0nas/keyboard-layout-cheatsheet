@@ -1,0 +1,295 @@
+{
+	"id": "cherokee-nation",
+	"keymap": {
+		"0": {
+			"alt": "Ꮔ",
+			"altShift": ")",
+			"base": "Ꮔ",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "ᏣᎳᎩ",
+			"altShift": "Ꮁ",
+			"base": "ᏣᎳᎩ",
+			"shift": "Ꮁ"
+		},
+		"2": {
+			"alt": "ᎣᏏᏲ",
+			"altShift": "Ꮗ",
+			"base": "ᎣᏏᏲ",
+			"shift": "Ꮗ"
+		},
+		"3": {
+			"alt": "ᏩᏙ",
+			"altShift": "Ꮷ",
+			"base": "ᏩᏙ",
+			"shift": "Ꮷ"
+		},
+		"4": {
+			"alt": "Ꮩ",
+			"altShift": "Ꮀ",
+			"base": "Ꮩ",
+			"shift": "Ꮀ"
+		},
+		"5": {
+			"alt": "Ꮶ",
+			"altShift": "Ꮉ",
+			"base": "Ꮶ",
+			"shift": "Ꮉ"
+		},
+		"6": {
+			"alt": "Ꮬ",
+			"altShift": "Ꮭ",
+			"base": "Ꮬ",
+			"shift": "Ꮭ"
+		},
+		"7": {
+			"alt": "Ꮛ",
+			"altShift": "Ꮱ",
+			"base": "Ꮛ",
+			"shift": "Ꮱ"
+		},
+		"8": {
+			"alt": "Ꮦ",
+			"altShift": "Ꮊ",
+			"base": "Ꮦ",
+			"shift": "Ꮊ"
+		},
+		"9": {
+			"alt": "Ꮢ",
+			"altShift": "(",
+			"base": "Ꮢ",
+			"shift": "("
+		},
+		"A": {
+			"alt": "Ꭰ",
+			"altShift": "Ꮜ",
+			"base": "Ꭰ",
+			"shift": "Ꮜ"
+		},
+		"B": {
+			"alt": "Ꭸ",
+			"altShift": "Ᏸ",
+			"base": "Ꭸ",
+			"shift": "Ᏸ"
+		},
+		"Backslash": {
+			"alt": "Ꮹ",
+			"altShift": "Ꮾ",
+			"base": "Ꮹ",
+			"shift": "Ꮾ"
+		},
+		"C": {
+			"alt": "Ꮣ",
+			"altShift": "Ꮯ",
+			"base": "Ꮣ",
+			"shift": "Ꮯ"
+		},
+		"Comma": {
+			"alt": ",",
+			"altShift": "Ꮲ",
+			"base": ",",
+			"shift": "Ꮲ"
+		},
+		"D": {
+			"alt": "Ꮧ",
+			"altShift": "Ꮠ",
+			"base": "Ꮧ",
+			"shift": "Ꮠ"
+		},
+		"E": {
+			"alt": "Ꭱ",
+			"altShift": "Ꮳ",
+			"base": "Ꭱ",
+			"shift": "Ꮳ"
+		},
+		"Equal": {
+			"alt": "Ᏻ",
+			"altShift": "Ꮍ",
+			"base": "Ᏻ",
+			"shift": "Ꮍ"
+		},
+		"F": {
+			"alt": "Ꭹ",
+			"altShift": "Ꮘ",
+			"base": "Ꭹ",
+			"shift": "Ꮘ"
+		},
+		"G": {
+			"alt": "Ꭶ",
+			"altShift": "Ꮵ",
+			"base": "Ꭶ",
+			"shift": "Ꮵ"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "Ꮚ",
+			"base": "`",
+			"shift": "Ꮚ"
+		},
+		"H": {
+			"alt": "Ꭿ",
+			"altShift": "Ꮂ",
+			"base": "Ꭿ",
+			"shift": "Ꮂ"
+		},
+		"I": {
+			"alt": "Ꭲ",
+			"altShift": "Ᏹ",
+			"base": "Ꭲ",
+			"shift": "Ᏹ"
+		},
+		"J": {
+			"alt": "Ꮪ",
+			"altShift": "Ꭻ",
+			"base": "Ꮪ",
+			"shift": "Ꭻ"
+		},
+		"K": {
+			"alt": "Ꮈ",
+			"altShift": "Ꭷ",
+			"base": "Ꮈ",
+			"shift": "Ꭷ"
+		},
+		"L": {
+			"alt": "Ꮅ",
+			"altShift": "Ꭾ",
+			"base": "Ꮅ",
+			"shift": "Ꭾ"
+		},
+		"LeftBracket": {
+			"alt": "Ꮥ",
+			"altShift": "Ꮡ",
+			"base": "Ꮥ",
+			"shift": "Ꮡ"
+		},
+		"M": {
+			"alt": "Ꮕ",
+			"altShift": "Ꮇ",
+			"base": "Ꮕ",
+			"shift": "Ꮇ"
+		},
+		"Minus": {
+			"alt": "Ꮏ",
+			"altShift": "Ꮌ",
+			"base": "Ꮏ",
+			"shift": "Ꮌ"
+		},
+		"N": {
+			"alt": "Ꮎ",
+			"altShift": "Ꮋ",
+			"base": "Ꮎ",
+			"shift": "Ꮋ"
+		},
+		"O": {
+			"alt": "Ꭳ",
+			"altShift": "Ꮼ",
+			"base": "Ꭳ",
+			"shift": "Ꮼ"
+		},
+		"P": {
+			"alt": "Ꮑ",
+			"altShift": "Ꮺ",
+			"base": "Ꮑ",
+			"shift": "Ꮺ"
+		},
+		"Period": {
+			"alt": ".",
+			"altShift": "Ꮄ",
+			"base": ".",
+			"shift": "Ꮄ"
+		},
+		"Q": {
+			"alt": "Ꭺ",
+			"altShift": "Ꮖ",
+			"base": "Ꭺ",
+			"shift": "Ꮖ"
+		},
+		"Quote": {
+			"alt": "'",
+			"altShift": "\"",
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "Ꮫ",
+			"altShift": "Ꮟ",
+			"base": "Ꮫ",
+			"shift": "Ꮟ"
+		},
+		"RightBracket": {
+			"alt": "Ꮆ",
+			"altShift": "Ꮴ",
+			"base": "Ꮆ",
+			"shift": "Ꮴ"
+		},
+		"S": {
+			"alt": "Ꮝ",
+			"altShift": "Ꮞ",
+			"base": "Ꮝ",
+			"shift": "Ꮞ"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "§",
+			"base": "§",
+			"shift": "§"
+		},
+		"Semicolon": {
+			"alt": "Ꮸ",
+			"altShift": "Ꮰ",
+			"base": "Ꮸ",
+			"shift": "Ꮰ"
+		},
+		"Slash": {
+			"alt": "Ꮒ",
+			"altShift": "Ꮙ",
+			"base": "Ꮒ",
+			"shift": "Ꮙ"
+		},
+		"T": {
+			"alt": "Ꮤ",
+			"altShift": "Ꮨ",
+			"base": "Ꮤ",
+			"shift": "Ꮨ"
+		},
+		"U": {
+			"alt": "Ꭴ",
+			"altShift": "Ꭽ",
+			"base": "Ꭴ",
+			"shift": "Ꭽ"
+		},
+		"V": {
+			"alt": "Ꭵ",
+			"altShift": "Ꮮ",
+			"base": "Ꭵ",
+			"shift": "Ꮮ"
+		},
+		"W": {
+			"alt": "Ꮃ",
+			"altShift": "Ꮻ",
+			"base": "Ꮃ",
+			"shift": "Ꮻ"
+		},
+		"X": {
+			"alt": "Ᏼ",
+			"altShift": "Ꮽ",
+			"base": "Ᏼ",
+			"shift": "Ꮽ"
+		},
+		"Y": {
+			"alt": "Ꮿ",
+			"altShift": "Ᏺ",
+			"base": "Ꮿ",
+			"shift": "Ᏺ"
+		},
+		"Z": {
+			"alt": "Ꭼ",
+			"altShift": "Ꮓ",
+			"base": "Ꭼ",
+			"shift": "Ꮓ"
+		}
+	},
+	"name": "Cherokee – Nation",
+	"physicalLayout": "iso"
+}

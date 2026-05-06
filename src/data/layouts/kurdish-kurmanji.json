@@ -1,0 +1,267 @@
+{
+	"id": "kurdish-kurmanji",
+	"keymap": {
+		"0": {
+			"alt": "}",
+			"altShift": "°",
+			"base": "0",
+			"shift": "="
+		},
+		"1": {
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "€",
+			"altShift": "£",
+			"base": "2",
+			"shift": "'"
+		},
+		"3": {
+			"alt": "#",
+			"altShift": "№",
+			"base": "3",
+			"shift": "^"
+		},
+		"4": {
+			"alt": "$",
+			"altShift": "¢",
+			"base": "4",
+			"shift": "+"
+		},
+		"5": {
+			"alt": "½",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "§",
+			"base": "6",
+			"shift": "&"
+		},
+		"7": {
+			"alt": "{",
+			"altShift": "‡",
+			"base": "7",
+			"shift": "\/"
+		},
+		"8": {
+			"alt": "[",
+			"base": "8",
+			"shift": "("
+		},
+		"9": {
+			"alt": "]",
+			"base": "9",
+			"shift": ")"
+		},
+		"A": {
+			"alt": "â",
+			"altShift": "Â",
+			"base": "a",
+			"shift": "A"
+		},
+		"B": {
+			"base": "b",
+			"shift": "B"
+		},
+		"Backslash": {
+			"alt": "«",
+			"altShift": "»",
+			"base": ",",
+			"shift": ";"
+		},
+		"C": {
+			"alt": "ç",
+			"altShift": "Ç",
+			"base": "c",
+			"shift": "C"
+		},
+		"Comma": {
+			"alt": "≤",
+			"base": "¨",
+			"shift": "^"
+		},
+		"D": {
+			"alt": "∂",
+			"altShift": "∫",
+			"base": "d",
+			"shift": "D"
+		},
+		"E": {
+			"alt": "´",
+			"base": "e",
+			"shift": "E"
+		},
+		"Equal": {
+			"alt": "|",
+			"altShift": "±",
+			"base": "-",
+			"shift": "_"
+		},
+		"F": {
+			"alt": "ƒ",
+			"base": "f",
+			"shift": "F"
+		},
+		"G": {
+			"alt": "ğ",
+			"altShift": "Ğ",
+			"base": "g",
+			"shift": "G"
+		},
+		"Grave": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "<",
+			"shift": ">"
+		},
+		"H": {
+			"alt": "ḧ",
+			"altShift": "Ḧ",
+			"base": "h",
+			"shift": "H"
+		},
+		"I": {
+			"alt": "í",
+			"altShift": "Í",
+			"base": "i",
+			"shift": "I"
+		},
+		"J": {
+			"base": "j",
+			"shift": "J"
+		},
+		"K": {
+			"altShift": "",
+			"base": "k",
+			"shift": "K"
+		},
+		"L": {
+			"alt": "¬",
+			"base": "l",
+			"shift": "L"
+		},
+		"LeftBracket": {
+			"alt": "“",
+			"altShift": "”",
+			"base": "ê",
+			"shift": "Ê"
+		},
+		"M": {
+			"alt": "µ",
+			"base": "m",
+			"shift": "M"
+		},
+		"Minus": {
+			"alt": "\\",
+			"altShift": "—",
+			"base": "*",
+			"shift": "?"
+		},
+		"N": {
+			"alt": "~",
+			"base": "n",
+			"shift": "N"
+		},
+		"O": {
+			"alt": "ô",
+			"altShift": "Ô",
+			"base": "o",
+			"shift": "O"
+		},
+		"P": {
+			"alt": "π",
+			"altShift": "∏",
+			"base": "p",
+			"shift": "P"
+		},
+		"Period": {
+			"alt": "≥",
+			"base": "ç",
+			"shift": "Ç"
+		},
+		"Q": {
+			"alt": "@",
+			"base": "q",
+			"shift": "Q"
+		},
+		"Quote": {
+			"alt": "÷",
+			"base": "î",
+			"shift": "Î"
+		},
+		"R": {
+			"alt": "®",
+			"base": "r",
+			"shift": "R"
+		},
+		"RightBracket": {
+			"alt": "‘",
+			"altShift": "’",
+			"base": "û",
+			"shift": "Û"
+		},
+		"S": {
+			"alt": "ş",
+			"altShift": "Ş",
+			"base": "s",
+			"shift": "S"
+		},
+		"Section": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "\"",
+			"shift": "é"
+		},
+		"Semicolon": {
+			"alt": "×",
+			"base": "ş",
+			"shift": "Ş"
+		},
+		"Slash": {
+			"alt": "…",
+			"base": ".",
+			"shift": ":"
+		},
+		"T": {
+			"alt": "₺",
+			"base": "t",
+			"shift": "T"
+		},
+		"U": {
+			"alt": "ü",
+			"altShift": "Ü",
+			"base": "u",
+			"shift": "U"
+		},
+		"V": {
+			"alt": "√",
+			"base": "v",
+			"shift": "V"
+		},
+		"W": {
+			"altShift": "„",
+			"base": "w",
+			"shift": "W"
+		},
+		"X": {
+			"alt": "ẍ",
+			"altShift": "Ẍ",
+			"base": "x",
+			"shift": "X"
+		},
+		"Y": {
+			"alt": "¥",
+			"base": "y",
+			"shift": "Y"
+		},
+		"Z": {
+			"alt": "Ω",
+			"base": "z",
+			"shift": "Z"
+		}
+	},
+	"name": "Kurmanji Kurdish",
+	"physicalLayout": "iso"
+}

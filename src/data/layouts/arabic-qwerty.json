@@ -1,0 +1,280 @@
+{
+	"id": "arabic-qwerty",
+	"keymap": {
+		"0": {
+			"alt": "(",
+			"altShift": "(",
+			"base": "٠",
+			"shift": "("
+		},
+		"1": {
+			"alt": "إ",
+			"altShift": "!",
+			"base": "١",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "❊",
+			"altShift": "❊",
+			"base": "٢",
+			"shift": "ء"
+		},
+		"3": {
+			"alt": "#",
+			"altShift": "#",
+			"base": "٣",
+			"shift": "أ"
+		},
+		"4": {
+			"alt": "$",
+			"altShift": "€",
+			"base": "٤",
+			"shift": "آ"
+		},
+		"5": {
+			"alt": "٪",
+			"altShift": "٪",
+			"base": "٥",
+			"shift": "إ"
+		},
+		"6": {
+			"alt": "&",
+			"altShift": "&",
+			"base": "٦",
+			"shift": "ئ"
+		},
+		"7": {
+			"alt": "^",
+			"altShift": "^",
+			"base": "٧",
+			"shift": "ؤ"
+		},
+		"8": {
+			"alt": "*",
+			"altShift": "*",
+			"base": "٨",
+			"shift": "ى"
+		},
+		"9": {
+			"alt": ")",
+			"altShift": ")",
+			"base": "٩",
+			"shift": ")"
+		},
+		"A": {
+			"alt": "َ",
+			"altShift": "ً",
+			"base": "ا",
+			"shift": "آ"
+		},
+		"B": {
+			"alt": "پ",
+			"altShift": "ٹ",
+			"base": "ب",
+			"shift": "پ"
+		},
+		"Backslash": {
+			"alt": "أ",
+			"altShift": "آ",
+			"base": "ء",
+			"shift": "إ"
+		},
+		"C": {
+			"alt": "ث",
+			"altShift": "چ",
+			"base": "ص",
+			"shift": "ض"
+		},
+		"Comma": {
+			"alt": "»",
+			"altShift": "❊",
+			"base": "،",
+			"shift": ">"
+		},
+		"D": {
+			"alt": "ض",
+			"altShift": "ڈ",
+			"base": "د",
+			"shift": "ذ"
+		},
+		"E": {
+			"alt": "ی",
+			"base": "ع",
+			"shift": "غ"
+		},
+		"Equal": {
+			"alt": "+",
+			"altShift": "+",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "ڤ",
+			"altShift": "ڤ",
+			"base": "ف",
+			"shift": "ق"
+		},
+		"G": {
+			"alt": "ع",
+			"altShift": "گ",
+			"base": "غ",
+			"shift": "ع"
+		},
+		"Grave": {
+			"alt": ">",
+			"altShift": "<",
+			"base": "ـ",
+			"shift": "ـ"
+		},
+		"H": {
+			"alt": "ه",
+			"altShift": "چ",
+			"base": "ح",
+			"shift": "خ"
+		},
+		"I": {
+			"alt": "ِ",
+			"altShift": "ٍ",
+			"base": "ي",
+			"shift": "ى"
+		},
+		"J": {
+			"alt": "خ",
+			"altShift": "ژ",
+			"base": "ج",
+			"shift": "چ"
+		},
+		"K": {
+			"alt": "خ",
+			"altShift": "ک",
+			"base": "ك",
+			"shift": "گ"
+		},
+		"L": {
+			"base": "ل",
+			"shift": "❊"
+		},
+		"LeftBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "ث",
+			"shift": "}"
+		},
+		"M": {
+			"alt": "آ",
+			"altShift": "آ",
+			"base": "م",
+			"shift": "آ"
+		},
+		"Minus": {
+			"alt": "_",
+			"altShift": "_",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"altShift": "ں",
+			"base": "ن",
+			"shift": "ث"
+		},
+		"O": {
+			"alt": "ْ",
+			"altShift": "ە",
+			"base": "ه",
+			"shift": "ة"
+		},
+		"P": {
+			"alt": "ّ",
+			"altShift": "پ",
+			"base": "ة",
+			"shift": "ت"
+		},
+		"Period": {
+			"alt": "«",
+			"base": ".",
+			"shift": "<"
+		},
+		"Q": {
+			"alt": "ڤ",
+			"altShift": "گ",
+			"base": "ق",
+			"shift": "ڤ"
+		},
+		"Quote": {
+			"alt": "ٱ",
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "غ",
+			"altShift": "ڑ",
+			"base": "ر",
+			"shift": "ز"
+		},
+		"RightBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "ظ",
+			"shift": "{"
+		},
+		"S": {
+			"alt": "ص",
+			"altShift": "ّ",
+			"base": "س",
+			"shift": "ش"
+		},
+		"Semicolon": {
+			"base": "؛",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "\/",
+			"altShift": "\\",
+			"base": "\\",
+			"shift": "؟"
+		},
+		"T": {
+			"alt": "ط",
+			"altShift": "ة",
+			"base": "ت",
+			"shift": "ث"
+		},
+		"U": {
+			"alt": "ُ",
+			"altShift": "ٌ",
+			"base": "و",
+			"shift": "ے"
+		},
+		"V": {
+			"alt": "ظ",
+			"altShift": "ڤ",
+			"base": "ذ",
+			"shift": "د"
+		},
+		"W": {
+			"alt": "ّ",
+			"altShift": "ّ",
+			"base": "ش",
+			"shift": "ّ"
+		},
+		"X": {
+			"alt": "ح",
+			"base": "خ",
+			"shift": "ح"
+		},
+		"Y": {
+			"alt": "ث",
+			"altShift": "ى",
+			"base": "ط",
+			"shift": "ظ"
+		},
+		"Z": {
+			"alt": "ظ",
+			"altShift": "ژ",
+			"base": "ز",
+			"shift": "ژ"
+		}
+	},
+	"name": "Arabic – QWERTY",
+	"physicalLayout": "iso"
+}

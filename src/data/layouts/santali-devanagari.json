@@ -1,0 +1,227 @@
+{
+	"id": "santali-devanagari",
+	"keymap": {
+		"0": {
+			"alt": "}",
+			"altShift": "]",
+			"base": "०",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "‍",
+			"altShift": "!",
+			"base": "१",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "‌",
+			"altShift": "@",
+			"base": "२",
+			"shift": "@"
+		},
+		"3": {
+			"altShift": "#",
+			"base": "३",
+			"shift": "्र"
+		},
+		"4": {
+			"alt": "₹",
+			"altShift": "$",
+			"base": "४",
+			"shift": "र्"
+		},
+		"5": {
+			"altShift": "%",
+			"base": "५",
+			"shift": "ज्ञ"
+		},
+		"6": {
+			"altShift": "^",
+			"base": "६",
+			"shift": "त्र"
+		},
+		"7": {
+			"altShift": "&",
+			"base": "७",
+			"shift": "क्ष"
+		},
+		"8": {
+			"altShift": "*",
+			"base": "८",
+			"shift": "श्र"
+		},
+		"9": {
+			"alt": "{",
+			"altShift": "[",
+			"base": "९",
+			"shift": "("
+		},
+		"A": {
+			"base": "ो",
+			"shift": "ओ"
+		},
+		"B": {
+			"base": "व"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"base": "म",
+			"shift": "ण"
+		},
+		"Comma": {
+			"alt": "॰",
+			"base": ",",
+			"shift": ","
+		},
+		"D": {
+			"base": "्",
+			"shift": "अ"
+		},
+		"E": {
+			"base": "ा",
+			"shift": "आ"
+		},
+		"Equal": {
+			"alt": "≠",
+			"altShift": "±",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"base": "ि",
+			"shift": "इ"
+		},
+		"G": {
+			"base": "ु",
+			"shift": "उ"
+		},
+		"Grave": {
+			"altShift": "~",
+			"base": "₹",
+			"shift": "~"
+		},
+		"H": {
+			"base": "प",
+			"shift": "फ"
+		},
+		"I": {
+			"base": "ग",
+			"shift": "घ"
+		},
+		"J": {
+			"base": "र"
+		},
+		"K": {
+			"base": "क",
+			"shift": "ख"
+		},
+		"L": {
+			"base": "त",
+			"shift": "थ"
+		},
+		"LeftBracket": {
+			"base": "ड",
+			"shift": "ढ"
+		},
+		"M": {
+			"alt": "<",
+			"altShift": ">",
+			"base": "स"
+		},
+		"Minus": {
+			"alt": "-",
+			"altShift": "_",
+			"base": "-",
+			"shift": "ः"
+		},
+		"N": {
+			"base": "ल",
+			"shift": "ळ"
+		},
+		"O": {
+			"base": "द",
+			"shift": "ध"
+		},
+		"P": {
+			"base": "ज",
+			"shift": "झ"
+		},
+		"Period": {
+			"alt": "॥",
+			"altShift": "ऽ",
+			"base": ".",
+			"shift": "।"
+		},
+		"Q": {
+			"base": "ौ",
+			"shift": "औ"
+		},
+		"Quote": {
+			"alt": "'",
+			"altShift": "\"",
+			"base": "ट",
+			"shift": "ठ"
+		},
+		"R": {
+			"base": "ी",
+			"shift": "ई"
+		},
+		"RightBracket": {
+			"base": "़",
+			"shift": "ञ"
+		},
+		"S": {
+			"base": "े",
+			"shift": "ए"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": "च",
+			"shift": "छ"
+		},
+		"Slash": {
+			"alt": "\/",
+			"altShift": "?",
+			"base": "य",
+			"shift": "?"
+		},
+		"T": {
+			"base": "ू",
+			"shift": "ऊ"
+		},
+		"U": {
+			"base": "ह",
+			"shift": "ङ"
+		},
+		"V": {
+			"base": "न"
+		},
+		"W": {
+			"base": "ै",
+			"shift": "ऐ"
+		},
+		"X": {
+			"alt": "ॐ",
+			"base": "ं",
+			"shift": "ँ"
+		},
+		"Y": {
+			"base": "ब",
+			"shift": "भ"
+		}
+	},
+	"name": "Santali (Devanagari) – InScript",
+	"physicalLayout": "iso"
+}

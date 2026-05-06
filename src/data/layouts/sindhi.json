@@ -1,0 +1,251 @@
+{
+	"id": "sindhi",
+	"keymap": {
+		"0": {
+			"alt": "‏",
+			"altShift": "‏",
+			"base": "۰",
+			"shift": "("
+		},
+		"1": {
+			"alt": "`",
+			"altShift": "`",
+			"base": "۱",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "@",
+			"altShift": "@",
+			"base": "۲",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "#",
+			"altShift": "#",
+			"base": "۳",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "$",
+			"altShift": "$",
+			"base": "۴",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "%",
+			"altShift": "%",
+			"base": "۵",
+			"shift": "٪"
+		},
+		"6": {
+			"alt": "^",
+			"altShift": "^",
+			"base": "۶",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "&",
+			"altShift": "&",
+			"base": "۷",
+			"shift": "۽"
+		},
+		"8": {
+			"alt": "•",
+			"altShift": "•",
+			"base": "۸",
+			"shift": "ؤ"
+		},
+		"9": {
+			"alt": "‎",
+			"altShift": "‎",
+			"base": "۹",
+			"shift": ")"
+		},
+		"A": {
+			"alt": "َ",
+			"altShift": "ً",
+			"base": "ا",
+			"shift": "آ"
+		},
+		"B": {
+			"base": "ب",
+			"shift": "ٻ"
+		},
+		"Backslash": {
+			"alt": "|",
+			"altShift": "|",
+			"base": "ڍ",
+			"shift": "ٺ"
+		},
+		"C": {
+			"altShift": "ٕ",
+			"base": "ط",
+			"shift": "ظ"
+		},
+		"Comma": {
+			"alt": ">",
+			"base": "،",
+			"shift": "»"
+		},
+		"D": {
+			"alt": "ٰ",
+			"base": "د",
+			"shift": "ڊ"
+		},
+		"E": {
+			"alt": "ى",
+			"base": "ي",
+			"shift": "ِ"
+		},
+		"Equal": {
+			"alt": "+",
+			"base": "ڌ",
+			"shift": "="
+		},
+		"F": {
+			"base": "ف",
+			"shift": "ڦ"
+		},
+		"G": {
+			"base": "گ",
+			"shift": "ً"
+		},
+		"Grave": {
+			"alt": "ٔ",
+			"base": "‍",
+			"shift": "ـ"
+		},
+		"H": {
+			"base": "ه",
+			"shift": "ح"
+		},
+		"I": {
+			"alt": "ِ",
+			"altShift": "ٍ",
+			"base": "ڳ",
+			"shift": "ھ"
+		},
+		"J": {
+			"base": "ج",
+			"shift": "ٍ"
+		},
+		"K": {
+			"base": "ڪ",
+			"shift": "ۡ"
+		},
+		"L": {
+			"base": "ل",
+			"shift": ":"
+		},
+		"LeftBracket": {
+			"alt": "}",
+			"altShift": "}",
+			"base": "ڇ",
+			"shift": "ڃ"
+		},
+		"M": {
+			"base": "م",
+			"shift": "۾"
+		},
+		"Minus": {
+			"alt": "_",
+			"altShift": "_",
+			"base": "ڏ",
+			"shift": "-"
+		},
+		"N": {
+			"base": "ن",
+			"shift": "ڻ"
+		},
+		"O": {
+			"alt": "ْ",
+			"base": "و",
+			"shift": "ُ"
+		},
+		"P": {
+			"base": "پ",
+			"shift": "ڦ"
+		},
+		"Period": {
+			"alt": "<",
+			"base": ".",
+			"shift": "«"
+		},
+		"Q": {
+			"base": "ق",
+			"shift": "َ"
+		},
+		"Quote": {
+			"base": "ڱ",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "﴿",
+			"base": "ر",
+			"shift": "ڙ"
+		},
+		"RightBracket": {
+			"alt": "{",
+			"altShift": "{",
+			"base": "چ",
+			"shift": "ڄ"
+		},
+		"S": {
+			"alt": "ٖ",
+			"base": "س",
+			"shift": "ش"
+		},
+		"Section": {
+			"alt": "~",
+			"altShift": "~",
+			"base": "‍",
+			"shift": "÷"
+		},
+		"Semicolon": {
+			"base": "ک",
+			"shift": "؛"
+		},
+		"Slash": {
+			"alt": "\/",
+			"base": "ئ",
+			"shift": "؟"
+		},
+		"T": {
+			"alt": "﴾",
+			"base": "ت",
+			"shift": "ٽ"
+		},
+		"U": {
+			"alt": "ُ",
+			"altShift": "ٌ",
+			"base": "ع",
+			"shift": "غ"
+		},
+		"V": {
+			"altShift": "ٔ",
+			"base": "ڀ",
+			"shift": "ء"
+		},
+		"W": {
+			"alt": "ّ",
+			"altShift": "ٗ",
+			"base": "ص",
+			"shift": "ض"
+		},
+		"X": {
+			"base": "خ",
+			"shift": "ّ"
+		},
+		"Y": {
+			"alt": "؁",
+			"base": "ٿ",
+			"shift": "ث"
+		},
+		"Z": {
+			"base": "ز",
+			"shift": "ذ"
+		}
+	},
+	"name": "Sindhi",
+	"physicalLayout": "iso"
+}

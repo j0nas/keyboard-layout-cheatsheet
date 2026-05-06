@@ -1,0 +1,295 @@
+{
+	"id": "kana",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": ")",
+			"base": "わ",
+			"shift": "を"
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "!",
+			"base": "ぬ",
+			"shift": "ぬ"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "@",
+			"base": "ふ",
+			"shift": "ふ"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "#",
+			"base": "あ",
+			"shift": "ぁ"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "$",
+			"base": "う",
+			"shift": "ぅ"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "%",
+			"base": "え",
+			"shift": "ぇ"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "^",
+			"base": "お",
+			"shift": "ぉ"
+		},
+		"7": {
+			"alt": "7",
+			"altShift": "&",
+			"base": "や",
+			"shift": "ゃ"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "*",
+			"base": "ゆ",
+			"shift": "ゅ"
+		},
+		"9": {
+			"alt": "9",
+			"altShift": "(",
+			"base": "よ",
+			"shift": "ょ"
+		},
+		"A": {
+			"alt": "a",
+			"altShift": "A",
+			"base": "ち",
+			"shift": "ち"
+		},
+		"B": {
+			"alt": "b",
+			"altShift": "B",
+			"base": "こ",
+			"shift": "こ"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "へ",
+			"shift": "へ"
+		},
+		"C": {
+			"alt": "c",
+			"altShift": "C",
+			"base": "そ",
+			"shift": "そ"
+		},
+		"Comma": {
+			"alt": ",",
+			"altShift": "<",
+			"base": "ね",
+			"shift": "、"
+		},
+		"D": {
+			"alt": "d",
+			"altShift": "D",
+			"base": "し",
+			"shift": "し"
+		},
+		"E": {
+			"alt": "e",
+			"altShift": "E",
+			"base": "い",
+			"shift": "ぃ"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "+",
+			"base": "゜",
+			"shift": "「"
+		},
+		"F": {
+			"alt": "f",
+			"altShift": "F",
+			"base": "は",
+			"shift": "は"
+		},
+		"G": {
+			"alt": "g",
+			"altShift": "G",
+			"base": "き",
+			"shift": "き"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "`",
+			"shift": "~"
+		},
+		"H": {
+			"alt": "h",
+			"altShift": "H",
+			"base": "く",
+			"shift": "く"
+		},
+		"I": {
+			"alt": "i",
+			"altShift": "I",
+			"base": "に",
+			"shift": "に"
+		},
+		"J": {
+			"alt": "j",
+			"altShift": "J",
+			"base": "ま",
+			"shift": "ま"
+		},
+		"K": {
+			"alt": "k",
+			"altShift": "K",
+			"base": "の",
+			"shift": "の"
+		},
+		"L": {
+			"alt": "l",
+			"altShift": "L",
+			"base": "り",
+			"shift": "り"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "゛",
+			"shift": "」"
+		},
+		"M": {
+			"alt": "m",
+			"altShift": "M",
+			"base": "も",
+			"shift": "も"
+		},
+		"Minus": {
+			"alt": "-",
+			"altShift": "_",
+			"base": "ほ",
+			"shift": "ほ"
+		},
+		"N": {
+			"alt": "n",
+			"altShift": "N",
+			"base": "み",
+			"shift": "み"
+		},
+		"O": {
+			"alt": "o",
+			"altShift": "O",
+			"base": "ら",
+			"shift": "ら"
+		},
+		"P": {
+			"alt": "p",
+			"altShift": "P",
+			"base": "せ",
+			"shift": "せ"
+		},
+		"Period": {
+			"alt": ".",
+			"altShift": ">",
+			"base": "る",
+			"shift": "。"
+		},
+		"Q": {
+			"alt": "q",
+			"altShift": "Q",
+			"base": "た",
+			"shift": "た"
+		},
+		"Quote": {
+			"alt": "'",
+			"altShift": "\"",
+			"base": "け",
+			"shift": "ろ"
+		},
+		"R": {
+			"alt": "r",
+			"altShift": "R",
+			"base": "す",
+			"shift": "す"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "む",
+			"shift": "ー"
+		},
+		"S": {
+			"alt": "s",
+			"altShift": "S",
+			"base": "と",
+			"shift": "と"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": "れ",
+			"shift": "れ"
+		},
+		"Slash": {
+			"alt": "\/",
+			"altShift": "?",
+			"base": "め",
+			"shift": "・"
+		},
+		"T": {
+			"alt": "t",
+			"altShift": "T",
+			"base": "か",
+			"shift": "か"
+		},
+		"U": {
+			"alt": "u",
+			"altShift": "U",
+			"base": "な",
+			"shift": "な"
+		},
+		"V": {
+			"alt": "v",
+			"altShift": "V",
+			"base": "ひ",
+			"shift": "ひ"
+		},
+		"W": {
+			"alt": "w",
+			"altShift": "W",
+			"base": "て",
+			"shift": "て"
+		},
+		"X": {
+			"alt": "x",
+			"altShift": "X",
+			"base": "さ",
+			"shift": "さ"
+		},
+		"Y": {
+			"alt": "y",
+			"altShift": "Y",
+			"base": "ん",
+			"shift": "ん"
+		},
+		"Z": {
+			"alt": "z",
+			"altShift": "Z",
+			"base": "つ",
+			"shift": "っ"
+		}
+	},
+	"name": "Kana",
+	"physicalLayout": "iso"
+}

@@ -1,0 +1,292 @@
+{
+	"id": "russian-phonetic",
+	"keymap": {
+		"0": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "0",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "ї",
+			"altShift": "Ї",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "ё",
+			"altShift": "Ё",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "є",
+			"altShift": "Є",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "ґ",
+			"altShift": "Ґ",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "∞",
+			"altShift": "™",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "§",
+			"altShift": "&",
+			"base": "6",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "¶",
+			"altShift": "№",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "•",
+			"altShift": "°",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "9",
+			"shift": "("
+		},
+		"A": {
+			"alt": "ї",
+			"altShift": "Ї",
+			"base": "а",
+			"shift": "А"
+		},
+		"B": {
+			"alt": "№",
+			"altShift": "№",
+			"base": "б",
+			"shift": "Б"
+		},
+		"Backslash": {
+			"alt": "є",
+			"altShift": "Є",
+			"base": "э",
+			"shift": "Э"
+		},
+		"C": {
+			"alt": "©",
+			"altShift": "©",
+			"base": "ц",
+			"shift": "Ц"
+		},
+		"Comma": {
+			"alt": "≤",
+			"altShift": "÷",
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"alt": "ђ",
+			"altShift": "Ђ",
+			"base": "д",
+			"shift": "Д"
+		},
+		"E": {
+			"alt": "ё",
+			"altShift": "Ё",
+			"base": "е",
+			"shift": "Е"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "+",
+			"base": "ъ",
+			"shift": "Ъ"
+		},
+		"F": {
+			"alt": "ƒ",
+			"altShift": "∆",
+			"base": "ф",
+			"shift": "Ф"
+		},
+		"G": {
+			"alt": "ѓ",
+			"altShift": "Ѓ",
+			"base": "г",
+			"shift": "Г"
+		},
+		"Grave": {
+			"alt": "†",
+			"altShift": "`",
+			"base": "щ",
+			"shift": "Щ"
+		},
+		"H": {
+			"alt": "ґ",
+			"altShift": "Ґ",
+			"base": "ч",
+			"shift": "Ч"
+		},
+		"I": {
+			"alt": "і",
+			"altShift": "І",
+			"base": "и",
+			"shift": "И"
+		},
+		"J": {
+			"alt": "ј",
+			"altShift": "Ј",
+			"base": "й",
+			"shift": "Й"
+		},
+		"K": {
+			"alt": "ќ",
+			"altShift": "Ќ",
+			"base": "к",
+			"shift": "К"
+		},
+		"L": {
+			"alt": "љ",
+			"altShift": "Љ",
+			"base": "л",
+			"shift": "Л"
+		},
+		"LeftBracket": {
+			"alt": "“",
+			"altShift": "”",
+			"base": "ю",
+			"shift": "Ю"
+		},
+		"M": {
+			"alt": "µ",
+			"altShift": "µ",
+			"base": "м",
+			"shift": "М"
+		},
+		"Minus": {
+			"alt": "-",
+			"altShift": "—",
+			"base": "ь",
+			"shift": "Ь"
+		},
+		"N": {
+			"alt": "њ",
+			"altShift": "Њ",
+			"base": "н",
+			"shift": "Н"
+		},
+		"O": {
+			"alt": "«",
+			"altShift": "‘",
+			"base": "о",
+			"shift": "О"
+		},
+		"P": {
+			"alt": "»",
+			"altShift": "’",
+			"base": "п",
+			"shift": "П"
+		},
+		"Period": {
+			"alt": "≥",
+			"altShift": "…",
+			"base": ".",
+			"shift": ">"
+		},
+		"Q": {
+			"alt": "¬",
+			"altShift": "±",
+			"base": "я",
+			"shift": "Я"
+		},
+		"Quote": {
+			"alt": "’",
+			"altShift": "`",
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "₽",
+			"altShift": "®",
+			"base": "р",
+			"shift": "Р"
+		},
+		"RightBracket": {
+			"alt": "џ",
+			"altShift": "Џ",
+			"base": "ж",
+			"shift": "Ж"
+		},
+		"S": {
+			"alt": "ѕ",
+			"altShift": "Ѕ",
+			"base": "с",
+			"shift": "С"
+		},
+		"Section": {
+			"base": ">",
+			"shift": "<"
+		},
+		"Semicolon": {
+			"alt": "„",
+			"altShift": "’",
+			"base": ";",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "÷",
+			"altShift": "\\",
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"alt": "ћ",
+			"altShift": "Ћ",
+			"base": "т",
+			"shift": "Т"
+		},
+		"U": {
+			"alt": "ў",
+			"altShift": "Ў",
+			"base": "у",
+			"shift": "У"
+		},
+		"V": {
+			"alt": "√",
+			"altShift": "†",
+			"base": "в",
+			"shift": "В"
+		},
+		"W": {
+			"alt": "щ",
+			"altShift": "Щ",
+			"base": "ш",
+			"shift": "Ш"
+		},
+		"X": {
+			"alt": "≈",
+			"base": "х",
+			"shift": "Х"
+		},
+		"Y": {
+			"alt": "™",
+			"altShift": "™",
+			"base": "ы",
+			"shift": "Ы"
+		},
+		"Z": {
+			"alt": "џ",
+			"altShift": "Џ",
+			"base": "з",
+			"shift": "З"
+		}
+	},
+	"name": "Russian – QWERTY",
+	"physicalLayout": "iso"
+}

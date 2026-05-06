@@ -1,0 +1,241 @@
+{
+	"id": "tamil99",
+	"keymap": {
+		"0": {
+			"alt": "”",
+			"altShift": "(",
+			"base": "0",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "¡",
+			"altShift": "⁄",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "™",
+			"altShift": "❊",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "£",
+			"altShift": "#",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "¢",
+			"altShift": "€",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "§",
+			"altShift": "٪",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"altShift": "&",
+			"base": "6",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "‘",
+			"altShift": "^",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "’",
+			"altShift": "*",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "“",
+			"altShift": ")",
+			"base": "9",
+			"shift": "("
+		},
+		"A": {
+			"base": "அ",
+			"shift": "௹"
+		},
+		"B": {
+			"base": "ங",
+			"shift": "௷"
+		},
+		"Backslash": {
+			"alt": "«",
+			"altShift": "»",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"alt": "ொ",
+			"altShift": "©",
+			"base": "ஒ",
+			"shift": "௵"
+		},
+		"Comma": {
+			"alt": "௹",
+			"altShift": "„",
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"alt": "ு",
+			"base": "உ",
+			"shift": "௸"
+		},
+		"E": {
+			"alt": "ூ",
+			"base": "ஊ",
+			"shift": "ஜ"
+		},
+		"Equal": {
+			"alt": "≠",
+			"altShift": "+",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "்",
+			"base": "்",
+			"shift": "ஃ"
+		},
+		"G": {
+			"alt": "ெ",
+			"altShift": "ஃ",
+			"base": "எ"
+		},
+		"Grave": {
+			"alt": "`",
+			"base": "₹",
+			"shift": "~"
+		},
+		"H": {
+			"base": "க"
+		},
+		"I": {
+			"base": "ன",
+			"shift": "ஈ"
+		},
+		"J": {
+			"base": "ப"
+		},
+		"K": {
+			"base": "ம",
+			"shift": "\""
+		},
+		"L": {
+			"base": "த",
+			"shift": ":"
+		},
+		"LeftBracket": {
+			"alt": "“",
+			"altShift": "”",
+			"base": "ச",
+			"shift": "{"
+		},
+		"M": {
+			"base": "ர",
+			"shift": "\/"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "_",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"base": "ல"
+		},
+		"O": {
+			"base": "ட",
+			"shift": "["
+		},
+		"P": {
+			"base": "ண",
+			"shift": "]"
+		},
+		"Period": {
+			"alt": "।",
+			"base": ".",
+			"shift": ">"
+		},
+		"Q": {
+			"alt": "ா",
+			"base": "ஆ",
+			"shift": "ஸ"
+		},
+		"Quote": {
+			"alt": "æ",
+			"base": "ய",
+			"shift": "'"
+		},
+		"R": {
+			"alt": "ை",
+			"base": "ஐ",
+			"shift": "ஹ"
+		},
+		"RightBracket": {
+			"alt": "‘",
+			"altShift": "’",
+			"base": "ஞ",
+			"shift": "}"
+		},
+		"S": {
+			"alt": "ி",
+			"base": "இ",
+			"shift": "௺"
+		},
+		"Semicolon": {
+			"base": "ந",
+			"shift": ";"
+		},
+		"Slash": {
+			"alt": "\/",
+			"altShift": "¿",
+			"base": "ழ",
+			"shift": "?"
+		},
+		"T": {
+			"alt": "ே",
+			"base": "ஏ",
+			"shift": "X"
+		},
+		"U": {
+			"base": "ற",
+			"shift": "ஶ"
+		},
+		"V": {
+			"base": "வ",
+			"shift": "௶"
+		},
+		"W": {
+			"alt": "ீ",
+			"base": "ஈ",
+			"shift": "ஷ"
+		},
+		"X": {
+			"alt": "ோ",
+			"base": "ஓ",
+			"shift": "௴"
+		},
+		"Y": {
+			"base": "ள",
+			"shift": "ஸ்ரீ"
+		},
+		"Z": {
+			"alt": "ௌ",
+			"base": "ஔ",
+			"shift": "௳"
+		}
+	},
+	"name": "Tamil99",
+	"physicalLayout": "iso"
+}

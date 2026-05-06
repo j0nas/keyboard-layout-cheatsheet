@@ -1,0 +1,266 @@
+{
+	"id": "slovak",
+	"keymap": {
+		"0": {
+			"alt": "}",
+			"altShift": "»",
+			"base": "é",
+			"shift": "0"
+		},
+		"1": {
+			"alt": "`",
+			"altShift": "¬",
+			"base": "+",
+			"shift": "1"
+		},
+		"2": {
+			"alt": "@",
+			"altShift": "•",
+			"base": "ľ",
+			"shift": "2"
+		},
+		"3": {
+			"alt": "#",
+			"altShift": "≠",
+			"base": "š",
+			"shift": "3"
+		},
+		"4": {
+			"alt": "$",
+			"altShift": "£",
+			"base": "č",
+			"shift": "4"
+		},
+		"5": {
+			"alt": "~",
+			"altShift": "◊",
+			"base": "ť",
+			"shift": "5"
+		},
+		"6": {
+			"alt": "^",
+			"altShift": "†",
+			"base": "ž",
+			"shift": "6"
+		},
+		"7": {
+			"alt": "&",
+			"altShift": "¶",
+			"base": "ý",
+			"shift": "7"
+		},
+		"8": {
+			"alt": "*",
+			"altShift": "÷",
+			"base": "á",
+			"shift": "8"
+		},
+		"9": {
+			"alt": "{",
+			"altShift": "«",
+			"base": "í",
+			"shift": "9"
+		},
+		"A": {
+			"alt": "ą",
+			"altShift": "Ą",
+			"base": "a",
+			"shift": "A"
+		},
+		"B": {
+			"base": "b",
+			"shift": "B"
+		},
+		"Backslash": {
+			"alt": "¨",
+			"altShift": "\"",
+			"base": "ň",
+			"shift": ")"
+		},
+		"C": {
+			"altShift": "©",
+			"base": "c",
+			"shift": "C"
+		},
+		"Comma": {
+			"alt": "<",
+			"altShift": "≤",
+			"base": ",",
+			"shift": "?"
+		},
+		"D": {
+			"alt": "∂",
+			"altShift": "∆",
+			"base": "d",
+			"shift": "D"
+		},
+		"E": {
+			"alt": "ę",
+			"altShift": "Ę",
+			"base": "e",
+			"shift": "E"
+		},
+		"Equal": {
+			"alt": "^",
+			"altShift": "-",
+			"base": "'",
+			"shift": "ˇ"
+		},
+		"F": {
+			"base": "f",
+			"shift": "F"
+		},
+		"G": {
+			"base": "g",
+			"shift": "G"
+		},
+		"Grave": {
+			"base": "\\",
+			"shift": "|"
+		},
+		"H": {
+			"alt": "‘",
+			"altShift": "“",
+			"base": "h",
+			"shift": "H"
+		},
+		"I": {
+			"base": "i",
+			"shift": "I"
+		},
+		"J": {
+			"alt": "’",
+			"altShift": "”",
+			"base": "j",
+			"shift": "J"
+		},
+		"K": {
+			"base": "k",
+			"shift": "K"
+		},
+		"L": {
+			"alt": "ł",
+			"altShift": "Ł",
+			"base": "l",
+			"shift": "L"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "‹",
+			"base": "ú",
+			"shift": "\/"
+		},
+		"M": {
+			"base": "m",
+			"shift": "M"
+		},
+		"Minus": {
+			"alt": "°",
+			"altShift": ",",
+			"base": "=",
+			"shift": "%"
+		},
+		"N": {
+			"alt": "‚",
+			"altShift": "„",
+			"base": "n",
+			"shift": "N"
+		},
+		"O": {
+			"base": "o",
+			"shift": "O"
+		},
+		"P": {
+			"base": "p",
+			"shift": "P"
+		},
+		"Period": {
+			"alt": ">",
+			"altShift": "≥",
+			"base": ".",
+			"shift": ":"
+		},
+		"Q": {
+			"base": "q",
+			"shift": "Q"
+		},
+		"Quote": {
+			"alt": "'",
+			"altShift": "~",
+			"base": "§",
+			"shift": "!"
+		},
+		"R": {
+			"alt": "€",
+			"altShift": "®",
+			"base": "r",
+			"shift": "R"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "›",
+			"base": "ä",
+			"shift": "("
+		},
+		"S": {
+			"alt": "ß",
+			"altShift": "∑",
+			"base": "s",
+			"shift": "S"
+		},
+		"Section": {
+			"alt": "≤",
+			"altShift": "≥",
+			"base": "<",
+			"shift": ">"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": "…",
+			"base": "ô",
+			"shift": "\""
+		},
+		"Slash": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "-",
+			"shift": "_"
+		},
+		"T": {
+			"altShift": "™",
+			"base": "t",
+			"shift": "T"
+		},
+		"U": {
+			"base": "u",
+			"shift": "U"
+		},
+		"V": {
+			"altShift": "√",
+			"base": "v",
+			"shift": "V"
+		},
+		"W": {
+			"alt": "ė",
+			"altShift": "Ė",
+			"base": "w",
+			"shift": "W"
+		},
+		"X": {
+			"base": "x",
+			"shift": "X"
+		},
+		"Y": {
+			"alt": "ż",
+			"altShift": "Ż",
+			"base": "z",
+			"shift": "Z"
+		},
+		"Z": {
+			"base": "y",
+			"shift": "Y"
+		}
+	},
+	"name": "Slovak",
+	"physicalLayout": "iso"
+}

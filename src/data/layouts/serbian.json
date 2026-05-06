@@ -1,0 +1,295 @@
+{
+	"id": "serbian",
+	"keymap": {
+		"0": {
+			"alt": "•",
+			"altShift": ")",
+			"base": "0",
+			"shift": "="
+		},
+		"1": {
+			"alt": "†",
+			"altShift": "!",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "°",
+			"altShift": "@",
+			"base": "2",
+			"shift": "”"
+		},
+		"3": {
+			"alt": "€",
+			"altShift": "#",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "„",
+			"altShift": "“",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "™",
+			"altShift": "%",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "∞",
+			"altShift": "^",
+			"base": "6",
+			"shift": "&"
+		},
+		"7": {
+			"alt": "£",
+			"altShift": "&",
+			"base": "7",
+			"shift": "\/"
+		},
+		"8": {
+			"alt": "Ґ",
+			"altShift": "*",
+			"base": "8",
+			"shift": "("
+		},
+		"9": {
+			"alt": "¶",
+			"altShift": "(",
+			"base": "9",
+			"shift": ")"
+		},
+		"A": {
+			"alt": "a",
+			"altShift": "A",
+			"base": "а",
+			"shift": "А"
+		},
+		"B": {
+			"alt": "b",
+			"altShift": "B",
+			"base": "б",
+			"shift": "Б"
+		},
+		"Backslash": {
+			"alt": "‘",
+			"altShift": "’",
+			"base": "ж",
+			"shift": "Ж"
+		},
+		"C": {
+			"alt": "c",
+			"altShift": "C",
+			"base": "ц",
+			"shift": "Ц"
+		},
+		"Comma": {
+			"alt": ",",
+			"altShift": "<",
+			"base": ",",
+			"shift": ";"
+		},
+		"D": {
+			"alt": "d",
+			"altShift": "D",
+			"base": "д",
+			"shift": "Д"
+		},
+		"E": {
+			"alt": "e",
+			"altShift": "E",
+			"base": "е",
+			"shift": "Е"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "+",
+			"base": "+",
+			"shift": "*"
+		},
+		"F": {
+			"alt": "f",
+			"altShift": "F",
+			"base": "ф",
+			"shift": "Ф"
+		},
+		"G": {
+			"alt": "g",
+			"altShift": "G",
+			"base": "г",
+			"shift": "Г"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "<",
+			"shift": ">"
+		},
+		"H": {
+			"alt": "h",
+			"altShift": "H",
+			"base": "х",
+			"shift": "Х"
+		},
+		"I": {
+			"alt": "i",
+			"altShift": "I",
+			"base": "и",
+			"shift": "И"
+		},
+		"J": {
+			"alt": "j",
+			"altShift": "J",
+			"base": "ј",
+			"shift": "Ј"
+		},
+		"K": {
+			"alt": "k",
+			"altShift": "K",
+			"base": "к",
+			"shift": "К"
+		},
+		"L": {
+			"alt": "l",
+			"altShift": "L",
+			"base": "л",
+			"shift": "Л"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "ш",
+			"shift": "Ш"
+		},
+		"M": {
+			"alt": "m",
+			"altShift": "M",
+			"base": "м",
+			"shift": "М"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "’",
+			"shift": "?"
+		},
+		"N": {
+			"alt": "n",
+			"altShift": "N",
+			"base": "н",
+			"shift": "Н"
+		},
+		"O": {
+			"alt": "o",
+			"altShift": "O",
+			"base": "о",
+			"shift": "О"
+		},
+		"P": {
+			"alt": "p",
+			"altShift": "P",
+			"base": "п",
+			"shift": "П"
+		},
+		"Period": {
+			"alt": ".",
+			"altShift": ">",
+			"base": ".",
+			"shift": ":"
+		},
+		"Q": {
+			"alt": "q",
+			"altShift": "Q",
+			"base": "љ",
+			"shift": "Љ"
+		},
+		"Quote": {
+			"alt": "\"",
+			"altShift": "”",
+			"base": "ћ",
+			"shift": "Ћ"
+		},
+		"R": {
+			"alt": "r",
+			"altShift": "R",
+			"base": "р",
+			"shift": "Р"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "ђ",
+			"shift": "Ђ"
+		},
+		"S": {
+			"alt": "s",
+			"altShift": "S",
+			"base": "с",
+			"shift": "С"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": "ч",
+			"shift": "Ч"
+		},
+		"Slash": {
+			"alt": "\/",
+			"altShift": "?",
+			"base": "-",
+			"shift": "_"
+		},
+		"T": {
+			"alt": "t",
+			"altShift": "T",
+			"base": "т",
+			"shift": "Т"
+		},
+		"U": {
+			"alt": "u",
+			"altShift": "U",
+			"base": "у",
+			"shift": "У"
+		},
+		"V": {
+			"alt": "v",
+			"altShift": "V",
+			"base": "в",
+			"shift": "В"
+		},
+		"W": {
+			"alt": "w",
+			"altShift": "W",
+			"base": "њ",
+			"shift": "Њ"
+		},
+		"X": {
+			"alt": "x",
+			"altShift": "X",
+			"base": "џ",
+			"shift": "Џ"
+		},
+		"Y": {
+			"alt": "y",
+			"altShift": "Y",
+			"base": "з",
+			"shift": "З"
+		},
+		"Z": {
+			"alt": "z",
+			"altShift": "Z",
+			"base": "ѕ",
+			"shift": "Ѕ"
+		}
+	},
+	"name": "Serbian",
+	"physicalLayout": "iso"
+}

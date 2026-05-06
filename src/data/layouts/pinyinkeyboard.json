@@ -1,0 +1,295 @@
+{
+	"id": "pinyinkeyboard",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": "‚",
+			"base": "0",
+			"shift": "）"
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "⁄",
+			"base": "1",
+			"shift": "！"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "€",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "‹",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "›",
+			"base": "4",
+			"shift": "¥"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "ﬁ",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "ﬂ",
+			"base": "6",
+			"shift": "……"
+		},
+		"7": {
+			"alt": "7",
+			"altShift": "‡",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "°",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "9",
+			"altShift": "·",
+			"base": "9",
+			"shift": "（"
+		},
+		"A": {
+			"alt": "å",
+			"altShift": "Å",
+			"base": "a",
+			"shift": "A"
+		},
+		"B": {
+			"alt": "∫",
+			"altShift": "符",
+			"base": "b",
+			"shift": "B"
+		},
+		"Backslash": {
+			"alt": "«",
+			"altShift": "»",
+			"base": "、",
+			"shift": "｜"
+		},
+		"C": {
+			"alt": "ç",
+			"altShift": "Ç",
+			"base": "c",
+			"shift": "C"
+		},
+		"Comma": {
+			"alt": "≤",
+			"altShift": "¯",
+			"base": "，",
+			"shift": "《"
+		},
+		"D": {
+			"alt": "∂",
+			"altShift": "Î",
+			"base": "d",
+			"shift": "D"
+		},
+		"E": {
+			"alt": "´",
+			"altShift": "帮",
+			"base": "e",
+			"shift": "E"
+		},
+		"Equal": {
+			"alt": "≠",
+			"altShift": "±",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "ƒ",
+			"altShift": "Ï",
+			"base": "f",
+			"shift": "F"
+		},
+		"G": {
+			"alt": "©",
+			"altShift": "˝",
+			"base": "g",
+			"shift": "G"
+		},
+		"Grave": {
+			"alt": "·",
+			"altShift": "·",
+			"base": "·",
+			"shift": "～"
+		},
+		"H": {
+			"alt": "˙",
+			"altShift": "半",
+			"base": "h",
+			"shift": "H"
+		},
+		"I": {
+			"alt": "ˆ",
+			"altShift": "ˆ",
+			"base": "i",
+			"shift": "I"
+		},
+		"J": {
+			"alt": "∆",
+			"altShift": "Ô",
+			"base": "j",
+			"shift": "J"
+		},
+		"K": {
+			"alt": "˚",
+			"altShift": "",
+			"base": "k",
+			"shift": "K"
+		},
+		"L": {
+			"alt": "¬",
+			"altShift": "查",
+			"base": "l",
+			"shift": "L"
+		},
+		"LeftBracket": {
+			"alt": "“",
+			"altShift": "”",
+			"base": "【",
+			"shift": "「"
+		},
+		"M": {
+			"alt": "µ",
+			"altShift": "Â",
+			"base": "m",
+			"shift": "M"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "-",
+			"shift": "——"
+		},
+		"N": {
+			"alt": "˜",
+			"altShift": "˜",
+			"base": "n",
+			"shift": "N"
+		},
+		"O": {
+			"alt": "ø",
+			"altShift": "Ø",
+			"base": "o",
+			"shift": "O"
+		},
+		"P": {
+			"alt": "π",
+			"altShift": "∏",
+			"base": "p",
+			"shift": "P"
+		},
+		"Period": {
+			"alt": "≥",
+			"altShift": "˘",
+			"base": "。",
+			"shift": "》"
+		},
+		"Q": {
+			"alt": "œ",
+			"altShift": "Œ",
+			"base": "q",
+			"shift": "Q"
+		},
+		"Quote": {
+			"alt": "æ",
+			"altShift": "Æ",
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "®",
+			"altShift": "‰",
+			"base": "r",
+			"shift": "R"
+		},
+		"RightBracket": {
+			"alt": "‘",
+			"altShift": "’",
+			"base": "】",
+			"shift": "」"
+		},
+		"S": {
+			"alt": "ß",
+			"altShift": "Í",
+			"base": "s",
+			"shift": "S"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": "…",
+			"altShift": "Ú",
+			"base": "；",
+			"shift": "："
+		},
+		"Slash": {
+			"alt": "÷",
+			"altShift": "¿",
+			"base": "\/",
+			"shift": "？"
+		},
+		"T": {
+			"alt": "†",
+			"altShift": "ˇ",
+			"base": "t",
+			"shift": "T"
+		},
+		"U": {
+			"alt": "¨",
+			"altShift": "¨",
+			"base": "u",
+			"shift": "U"
+		},
+		"V": {
+			"alt": "√",
+			"altShift": "◊",
+			"base": "v",
+			"shift": "V"
+		},
+		"W": {
+			"alt": "∑",
+			"altShift": "„",
+			"base": "w",
+			"shift": "W"
+		},
+		"X": {
+			"alt": "≈",
+			"altShift": "˛",
+			"base": "x",
+			"shift": "X"
+		},
+		"Y": {
+			"alt": "¥",
+			"altShift": "Á",
+			"base": "y",
+			"shift": "Y"
+		},
+		"Z": {
+			"alt": "Ω",
+			"altShift": "¸",
+			"base": "z",
+			"shift": "Z"
+		}
+	},
+	"name": "Pinyin – Simplified",
+	"physicalLayout": "iso"
+}

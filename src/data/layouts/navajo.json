@@ -1,0 +1,234 @@
+{
+	"id": "navajo",
+	"keymap": {
+		"0": {
+			"alt": "»",
+			"altShift": "›",
+			"base": "0",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "¡",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "™",
+			"altShift": "€",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "£",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "¢",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "∞",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "§",
+			"base": "6",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "¶",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "•",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "«",
+			"altShift": "‹",
+			"base": "9",
+			"shift": "("
+		},
+		"A": {
+			"base": "a",
+			"shift": "A"
+		},
+		"B": {
+			"base": "b",
+			"shift": "B"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"base": "c",
+			"shift": "C"
+		},
+		"Comma": {
+			"alt": "<",
+			"base": ",",
+			"shift": ";"
+		},
+		"D": {
+			"base": "d",
+			"shift": "D"
+		},
+		"E": {
+			"base": "e",
+			"shift": "E"
+		},
+		"Equal": {
+			"alt": "≠",
+			"altShift": "±",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"base": "f",
+			"shift": "F"
+		},
+		"G": {
+			"base": "g",
+			"shift": "G"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "`",
+			"shift": "~"
+		},
+		"H": {
+			"base": "h",
+			"shift": "H"
+		},
+		"I": {
+			"base": "i",
+			"shift": "I"
+		},
+		"J": {
+			"base": "j",
+			"shift": "J"
+		},
+		"K": {
+			"base": "k",
+			"shift": "K"
+		},
+		"L": {
+			"base": "l",
+			"shift": "L"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "˛",
+			"shift": "“"
+		},
+		"M": {
+			"base": "m",
+			"shift": "M"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "ñ",
+			"altShift": "Ñ",
+			"base": "n",
+			"shift": "N"
+		},
+		"O": {
+			"base": "o",
+			"shift": "O"
+		},
+		"P": {
+			"base": "p",
+			"shift": "P"
+		},
+		"Period": {
+			"alt": ">",
+			"base": ".",
+			"shift": ":"
+		},
+		"Q": {
+			"base": "q",
+			"shift": "Q"
+		},
+		"Quote": {
+			"alt": "'",
+			"altShift": "\"",
+			"base": "ʼ",
+			"shift": "ʼ"
+		},
+		"R": {
+			"base": "r",
+			"shift": "R"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "˛́",
+			"shift": "”"
+		},
+		"S": {
+			"base": "s",
+			"shift": "S"
+		},
+		"Section": {
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": "ł",
+			"shift": "Ł"
+		},
+		"Slash": {
+			"alt": "\/",
+			"altShift": "¿",
+			"base": "´",
+			"shift": "?"
+		},
+		"T": {
+			"base": "t",
+			"shift": "T"
+		},
+		"U": {
+			"base": "u",
+			"shift": "U"
+		},
+		"V": {
+			"base": "v",
+			"shift": "V"
+		},
+		"W": {
+			"base": "w",
+			"shift": "W"
+		},
+		"X": {
+			"base": "x",
+			"shift": "X"
+		},
+		"Y": {
+			"base": "y",
+			"shift": "Y"
+		},
+		"Z": {
+			"base": "z",
+			"shift": "Z"
+		}
+	},
+	"name": "Navajo",
+	"physicalLayout": "iso"
+}

@@ -1,0 +1,243 @@
+{
+	"id": "lithuanian-lst1582",
+	"keymap": {
+		"0": {
+			"alt": "]",
+			"altShift": "]",
+			"base": ")",
+			"shift": "0"
+		},
+		"1": {
+			"alt": "@",
+			"altShift": "@",
+			"base": "!",
+			"shift": "1"
+		},
+		"2": {
+			"alt": "_",
+			"altShift": "_",
+			"base": "-",
+			"shift": "2"
+		},
+		"3": {
+			"alt": "#",
+			"altShift": "#",
+			"base": "\/",
+			"shift": "3"
+		},
+		"4": {
+			"alt": "$",
+			"altShift": "$",
+			"base": ";",
+			"shift": "4"
+		},
+		"5": {
+			"alt": "§",
+			"altShift": "§",
+			"base": ":",
+			"shift": "5"
+		},
+		"6": {
+			"alt": "^",
+			"altShift": "^",
+			"base": ",",
+			"shift": "6"
+		},
+		"7": {
+			"alt": "&",
+			"altShift": "&",
+			"base": ".",
+			"shift": "7"
+		},
+		"8": {
+			"alt": "*",
+			"altShift": "*",
+			"base": "=",
+			"shift": "8"
+		},
+		"9": {
+			"alt": "[",
+			"altShift": "[",
+			"base": "(",
+			"shift": "9"
+		},
+		"A": {
+			"base": "a",
+			"shift": "A"
+		},
+		"B": {
+			"base": "b",
+			"shift": "B"
+		},
+		"Backslash": {
+			"alt": "|",
+			"altShift": "|",
+			"base": "q",
+			"shift": "Q"
+		},
+		"C": {
+			"base": "c",
+			"shift": "C"
+		},
+		"Comma": {
+			"alt": "„",
+			"altShift": "„",
+			"base": "č",
+			"shift": "Č"
+		},
+		"D": {
+			"base": "d",
+			"shift": "D"
+		},
+		"E": {
+			"alt": "€",
+			"altShift": "€",
+			"base": "e",
+			"shift": "E"
+		},
+		"Equal": {
+			"alt": "%",
+			"altShift": "%",
+			"base": "x",
+			"shift": "X"
+		},
+		"F": {
+			"base": "š",
+			"shift": "Š"
+		},
+		"G": {
+			"base": "g",
+			"shift": "G"
+		},
+		"Grave": {
+			"alt": "–",
+			"altShift": "–",
+			"base": "<",
+			"shift": ">"
+		},
+		"H": {
+			"base": "h",
+			"shift": "H"
+		},
+		"I": {
+			"base": "i",
+			"shift": "I"
+		},
+		"J": {
+			"base": "j",
+			"shift": "J"
+		},
+		"K": {
+			"base": "k",
+			"shift": "K"
+		},
+		"L": {
+			"base": "l",
+			"shift": "L"
+		},
+		"LeftBracket": {
+			"alt": "{",
+			"altShift": "{",
+			"base": "į",
+			"shift": "Į"
+		},
+		"M": {
+			"base": "m",
+			"shift": "M"
+		},
+		"Minus": {
+			"alt": "'",
+			"altShift": "'",
+			"base": "?",
+			"shift": "+"
+		},
+		"N": {
+			"base": "n",
+			"shift": "N"
+		},
+		"O": {
+			"base": "o",
+			"shift": "O"
+		},
+		"P": {
+			"base": "p",
+			"shift": "P"
+		},
+		"Period": {
+			"alt": "“",
+			"altShift": "“",
+			"base": "f",
+			"shift": "F"
+		},
+		"Q": {
+			"base": "ą",
+			"shift": "Ą"
+		},
+		"Quote": {
+			"alt": "\"",
+			"altShift": "\"",
+			"base": "ė",
+			"shift": "Ė"
+		},
+		"R": {
+			"base": "r",
+			"shift": "R"
+		},
+		"RightBracket": {
+			"alt": "}",
+			"altShift": "}",
+			"base": "w",
+			"shift": "W"
+		},
+		"S": {
+			"base": "s",
+			"shift": "S"
+		},
+		"Section": {
+			"alt": "´",
+			"altShift": "´",
+			"base": "`",
+			"shift": "~"
+		},
+		"Semicolon": {
+			"base": "ų",
+			"shift": "Ų"
+		},
+		"Slash": {
+			"alt": "\\",
+			"altShift": "\\",
+			"base": "ę",
+			"shift": "Ę"
+		},
+		"T": {
+			"base": "t",
+			"shift": "T"
+		},
+		"U": {
+			"base": "u",
+			"shift": "U"
+		},
+		"V": {
+			"base": "v",
+			"shift": "V"
+		},
+		"W": {
+			"base": "ž",
+			"shift": "Ž"
+		},
+		"X": {
+			"base": "ū",
+			"shift": "Ū"
+		},
+		"Y": {
+			"base": "y",
+			"shift": "Y"
+		},
+		"Z": {
+			"base": "z",
+			"shift": "Z"
+		}
+	},
+	"name": "Lithuanian – ĄŽERTY",
+	"physicalLayout": "iso"
+}

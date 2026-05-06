@@ -1,0 +1,278 @@
+{
+	"id": "syriac-arabic",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"base": "٠",
+			"shift": "("
+		},
+		"1": {
+			"alt": "1",
+			"base": "١",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "∞",
+			"base": "٢",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "£",
+			"base": "٣",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "€",
+			"base": "٤",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "؉",
+			"base": "٥",
+			"shift": "٪"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "÷",
+			"base": "٦",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "7",
+			"base": "٧",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "8",
+			"base": "٨",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "9",
+			"base": "٩",
+			"shift": ")"
+		},
+		"A": {
+			"alt": "ܑ",
+			"altShift": "ࡠ",
+			"base": "ܫ",
+			"shift": "ܱ"
+		},
+		"B": {
+			"alt": "ݍ",
+			"altShift": "܋",
+			"base": "ܙ",
+			"shift": "ܿ"
+		},
+		"Backslash": {
+			"alt": "…",
+			"altShift": "̭",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"altShift": "ܖ̈",
+			"base": "ܖ",
+			"shift": "ܸ"
+		},
+		"Comma": {
+			"alt": ",",
+			"altShift": "܆",
+			"base": "،",
+			"shift": ">"
+		},
+		"D": {
+			"altShift": "ࡦ",
+			"base": "ܝ",
+			"shift": "ܷ"
+		},
+		"E": {
+			"alt": "“",
+			"altShift": "̃",
+			"base": "̰",
+			"shift": "ܶ"
+		},
+		"Equal": {
+			"alt": "°",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "ܭ",
+			"altShift": "ࡢ",
+			"base": "ܒ",
+			"shift": "ܻ"
+		},
+		"G": {
+			"alt": "݀",
+			"altShift": "ࡡ",
+			"base": "ܠ",
+			"shift": "ܾ"
+		},
+		"Grave": {
+			"alt": "ܞ",
+			"base": "ـ",
+			"shift": "~"
+		},
+		"H": {
+			"alt": "݄",
+			"altShift": "݃",
+			"base": "ܐ",
+			"shift": "̇"
+		},
+		"I": {
+			"alt": "♱",
+			"base": "ܗ",
+			"shift": "̇"
+		},
+		"J": {
+			"alt": "݅",
+			"altShift": "݆",
+			"base": "ܬ",
+			"shift": "̣"
+		},
+		"K": {
+			"alt": "ݎ",
+			"altShift": "̊",
+			"base": "ܢ",
+			"shift": "̥"
+		},
+		"L": {
+			"alt": "܀",
+			"base": "ܡ",
+			"shift": "܂"
+		},
+		"LeftBracket": {
+			"alt": "ݏ",
+			"altShift": "«",
+			"base": "ܓ",
+			"shift": "}"
+		},
+		"M": {
+			"alt": "݉",
+			"altShift": "݁",
+			"base": "ܘ",
+			"shift": "݂"
+		},
+		"Minus": {
+			"alt": "_",
+			"altShift": "_",
+			"base": "-",
+			"shift": "ـ"
+		},
+		"N": {
+			"alt": "܇",
+			"altShift": "܌",
+			"base": "ܪ",
+			"shift": "ܹ"
+		},
+		"O": {
+			"alt": "̱",
+			"altShift": "̄",
+			"shift": "]"
+		},
+		"P": {
+			"alt": "ܧ",
+			"altShift": "»",
+			"base": "ܚ",
+			"shift": "["
+		},
+		"Period": {
+			"alt": "܁",
+			"altShift": "܂",
+			"base": ".",
+			"shift": "<"
+		},
+		"Q": {
+			"alt": "‘",
+			"altShift": "ࡨ",
+			"shift": "ܰ"
+		},
+		"Quote": {
+			"alt": "݊",
+			"altShift": "'",
+			"base": "؛",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "”",
+			"altShift": "ࡧ",
+			"base": "ܩ",
+			"shift": "ܺ"
+		},
+		"RightBracket": {
+			"alt": "܃",
+			"altShift": "܄",
+			"base": "܏",
+			"shift": "{"
+		},
+		"S": {
+			"alt": "ܤ",
+			"altShift": "ࡪ",
+			"base": "ܣ",
+			"shift": "ܴ"
+		},
+		"Section": {
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": "܍",
+			"altShift": "܅",
+			"base": "ܟ",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "܈",
+			"altShift": "܉",
+			"base": "\/",
+			"shift": "؟"
+		},
+		"T": {
+			"alt": "̮",
+			"altShift": "ࡣ",
+			"base": "ܦ",
+			"shift": "ܽ"
+		},
+		"U": {
+			"alt": "♰",
+			"base": "ܥ",
+			"shift": "܊"
+		},
+		"V": {
+			"alt": "ܯ",
+			"altShift": "ࡤ",
+			"base": "ܕ",
+			"shift": "ܼ"
+		},
+		"W": {
+			"alt": "’",
+			"altShift": "ࡩ",
+			"base": "ܨ",
+			"shift": "ܳ"
+		},
+		"X": {
+			"alt": "ܜ",
+			"altShift": "ࡥ",
+			"base": "ܛ",
+			"shift": "ܵ"
+		},
+		"Y": {
+			"alt": "ܮ",
+			"altShift": "̤",
+			"base": "ܔ",
+			"shift": "̈"
+		},
+		"Z": {
+			"alt": "݈",
+			"base": "݇",
+			"shift": "ܲ"
+		}
+	},
+	"name": "Syriac – Arabic",
+	"physicalLayout": "iso"
+}

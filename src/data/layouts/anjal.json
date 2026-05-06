@@ -1,0 +1,231 @@
+{
+	"id": "anjal",
+	"keymap": {
+		"0": {
+			"alt": "௦",
+			"altShift": ")",
+			"base": "0",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "௧",
+			"altShift": "⁄",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "௨",
+			"altShift": "❊",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "௩",
+			"altShift": "#",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "௪",
+			"altShift": "€",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "௫",
+			"altShift": "٪",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "௬",
+			"altShift": "&",
+			"base": "6",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "௭",
+			"altShift": "^",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "௮",
+			"altShift": "*",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "௯",
+			"altShift": "(",
+			"base": "9",
+			"shift": "("
+		},
+		"A": {
+			"base": "a",
+			"shift": "A"
+		},
+		"B": {
+			"base": "p"
+		},
+		"Backslash": {
+			"alt": "«",
+			"altShift": "»",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"base": "c"
+		},
+		"Comma": {
+			"alt": "≤",
+			"altShift": "„",
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"base": "d"
+		},
+		"E": {
+			"base": "e",
+			"shift": "E"
+		},
+		"Equal": {
+			"alt": "≠",
+			"altShift": "+",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "ƒ"
+		},
+		"G": {
+			"alt": "©",
+			"base": "g"
+		},
+		"Grave": {
+			"base": "̀",
+			"shift": "~"
+		},
+		"H": {
+			"alt": "௱",
+			"base": "h"
+		},
+		"I": {
+			"base": "i",
+			"shift": "I"
+		},
+		"J": {
+			"base": "j"
+		},
+		"K": {
+			"base": "k"
+		},
+		"L": {
+			"base": "l",
+			"shift": "L"
+		},
+		"LeftBracket": {
+			"alt": "“",
+			"altShift": "”",
+			"base": "[",
+			"shift": "{"
+		},
+		"M": {
+			"alt": "௴",
+			"altShift": "௸",
+			"base": "m",
+			"shift": "M"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "_",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "௳",
+			"altShift": "௺",
+			"base": "n",
+			"shift": "N"
+		},
+		"O": {
+			"alt": "ø",
+			"base": "o",
+			"shift": "O"
+		},
+		"P": {
+			"base": "p"
+		},
+		"Period": {
+			"alt": "≥",
+			"base": ".",
+			"shift": ">"
+		},
+		"Q": {
+			"alt": "œ",
+			"base": "q"
+		},
+		"Quote": {
+			"alt": "æ",
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "௹",
+			"base": "r",
+			"shift": "R"
+		},
+		"RightBracket": {
+			"alt": "‘",
+			"altShift": "’",
+			"base": "]",
+			"shift": "}"
+		},
+		"S": {
+			"alt": "ஶ்",
+			"altShift": "௷",
+			"base": "s",
+			"shift": "S"
+		},
+		"Semicolon": {
+			"base": ";",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "\/",
+			"altShift": "¿",
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"alt": "௰",
+			"altShift": "௲",
+			"base": "t"
+		},
+		"U": {
+			"base": "u",
+			"shift": "U"
+		},
+		"V": {
+			"alt": "௵",
+			"altShift": "௶",
+			"base": "v"
+		},
+		"W": {
+			"base": "w"
+		},
+		"X": {
+			"base": "x"
+		},
+		"Y": {
+			"alt": "¥",
+			"base": "y"
+		},
+		"Z": {
+			"base": "z"
+		}
+	},
+	"name": "Anjal",
+	"physicalLayout": "iso"
+}

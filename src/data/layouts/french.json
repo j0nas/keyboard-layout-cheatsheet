@@ -1,0 +1,295 @@
+{
+	"id": "french",
+	"keymap": {
+		"0": {
+			"alt": "ø",
+			"altShift": "Ø",
+			"base": "à",
+			"shift": "0"
+		},
+		"1": {
+			"alt": "",
+			"altShift": "´",
+			"base": "&",
+			"shift": "1"
+		},
+		"2": {
+			"alt": "ë",
+			"altShift": "„",
+			"base": "é",
+			"shift": "2"
+		},
+		"3": {
+			"alt": "“",
+			"altShift": "”",
+			"base": "\"",
+			"shift": "3"
+		},
+		"4": {
+			"alt": "‘",
+			"altShift": "’",
+			"base": "'",
+			"shift": "4"
+		},
+		"5": {
+			"alt": "{",
+			"altShift": "[",
+			"base": "(",
+			"shift": "5"
+		},
+		"6": {
+			"alt": "¶",
+			"altShift": "å",
+			"base": "§",
+			"shift": "6"
+		},
+		"7": {
+			"alt": "«",
+			"altShift": "»",
+			"base": "è",
+			"shift": "7"
+		},
+		"8": {
+			"alt": "¡",
+			"altShift": "Û",
+			"base": "!",
+			"shift": "8"
+		},
+		"9": {
+			"alt": "Ç",
+			"altShift": "Á",
+			"base": "ç",
+			"shift": "9"
+		},
+		"A": {
+			"alt": "‡",
+			"altShift": "Ω",
+			"base": "q",
+			"shift": "Q"
+		},
+		"B": {
+			"alt": "ß",
+			"altShift": "∫",
+			"base": "b",
+			"shift": "B"
+		},
+		"Backslash": {
+			"alt": "@",
+			"altShift": "#",
+			"base": "`",
+			"shift": "£"
+		},
+		"C": {
+			"alt": "©",
+			"altShift": "¢",
+			"base": "c",
+			"shift": "C"
+		},
+		"Comma": {
+			"alt": "…",
+			"altShift": "•",
+			"base": ";",
+			"shift": "."
+		},
+		"D": {
+			"alt": "∂",
+			"altShift": "∆",
+			"base": "d",
+			"shift": "D"
+		},
+		"E": {
+			"alt": "ê",
+			"altShift": "Ê",
+			"base": "e",
+			"shift": "E"
+		},
+		"Equal": {
+			"alt": "—",
+			"altShift": "–",
+			"base": "-",
+			"shift": "_"
+		},
+		"F": {
+			"alt": "ƒ",
+			"altShift": "·",
+			"base": "f",
+			"shift": "F"
+		},
+		"G": {
+			"alt": "ﬁ",
+			"altShift": "ﬂ",
+			"base": "g",
+			"shift": "G"
+		},
+		"Grave": {
+			"alt": "≤",
+			"altShift": "≥",
+			"base": "<",
+			"shift": ">"
+		},
+		"H": {
+			"alt": "Ì",
+			"altShift": "Î",
+			"base": "h",
+			"shift": "H"
+		},
+		"I": {
+			"alt": "î",
+			"altShift": "ï",
+			"base": "i",
+			"shift": "I"
+		},
+		"J": {
+			"alt": "Ï",
+			"altShift": "Í",
+			"base": "j",
+			"shift": "J"
+		},
+		"K": {
+			"alt": "È",
+			"altShift": "Ë",
+			"base": "k",
+			"shift": "K"
+		},
+		"L": {
+			"alt": "¬",
+			"altShift": "|",
+			"base": "l",
+			"shift": "L"
+		},
+		"LeftBracket": {
+			"alt": "ô",
+			"altShift": "Ô",
+			"base": "^",
+			"shift": "¨"
+		},
+		"M": {
+			"alt": "∞",
+			"altShift": "¿",
+			"base": ",",
+			"shift": "?"
+		},
+		"Minus": {
+			"alt": "}",
+			"altShift": "]",
+			"base": ")",
+			"shift": "°"
+		},
+		"N": {
+			"alt": "~",
+			"altShift": "ı",
+			"base": "n",
+			"shift": "N"
+		},
+		"O": {
+			"alt": "œ",
+			"altShift": "Œ",
+			"base": "o",
+			"shift": "O"
+		},
+		"P": {
+			"alt": "π",
+			"altShift": "∏",
+			"base": "p",
+			"shift": "P"
+		},
+		"Period": {
+			"alt": "÷",
+			"altShift": "\\",
+			"base": ":",
+			"shift": "\/"
+		},
+		"Q": {
+			"alt": "æ",
+			"altShift": "Æ",
+			"base": "a",
+			"shift": "A"
+		},
+		"Quote": {
+			"alt": "Ù",
+			"altShift": "‰",
+			"base": "ù",
+			"shift": "%"
+		},
+		"R": {
+			"alt": "®",
+			"altShift": "‚",
+			"base": "r",
+			"shift": "R"
+		},
+		"RightBracket": {
+			"alt": "€",
+			"altShift": "¥",
+			"base": "$",
+			"shift": "*"
+		},
+		"S": {
+			"alt": "Ò",
+			"altShift": "∑",
+			"base": "s",
+			"shift": "S"
+		},
+		"Section": {
+			"alt": "•",
+			"altShift": "Ÿ",
+			"base": "@",
+			"shift": "#"
+		},
+		"Semicolon": {
+			"alt": "µ",
+			"altShift": "Ó",
+			"base": "m",
+			"shift": "M"
+		},
+		"Slash": {
+			"alt": "≠",
+			"altShift": "±",
+			"base": "=",
+			"shift": "+"
+		},
+		"T": {
+			"alt": "†",
+			"altShift": "™",
+			"base": "t",
+			"shift": "T"
+		},
+		"U": {
+			"alt": "º",
+			"altShift": "ª",
+			"base": "u",
+			"shift": "U"
+		},
+		"V": {
+			"alt": "◊",
+			"altShift": "√",
+			"base": "v",
+			"shift": "V"
+		},
+		"W": {
+			"alt": "Â",
+			"altShift": "Å",
+			"base": "z",
+			"shift": "Z"
+		},
+		"X": {
+			"alt": "≈",
+			"altShift": "⁄",
+			"base": "x",
+			"shift": "X"
+		},
+		"Y": {
+			"alt": "Ú",
+			"altShift": "Ÿ",
+			"base": "y",
+			"shift": "Y"
+		},
+		"Z": {
+			"alt": "‹",
+			"altShift": "›",
+			"base": "w",
+			"shift": "W"
+		}
+	},
+	"name": "French",
+	"physicalLayout": "iso"
+}

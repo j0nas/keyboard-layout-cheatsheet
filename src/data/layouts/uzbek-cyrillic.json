@@ -1,0 +1,246 @@
+{
+	"id": "uzbek-cyrillic",
+	"keymap": {
+		"0": {
+			"alt": ")",
+			"altShift": "}",
+			"base": "0",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "!",
+			"altShift": "™",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "@",
+			"altShift": "§",
+			"base": "2",
+			"shift": "\""
+		},
+		"3": {
+			"alt": "#",
+			"altShift": "£",
+			"base": "3",
+			"shift": "№"
+		},
+		"4": {
+			"alt": "$",
+			"altShift": "€",
+			"base": "4",
+			"shift": ";"
+		},
+		"5": {
+			"alt": "©",
+			"altShift": "®",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "^",
+			"altShift": "¬",
+			"base": "6",
+			"shift": ":"
+		},
+		"7": {
+			"alt": "&",
+			"altShift": "¶",
+			"base": "7",
+			"shift": "?"
+		},
+		"8": {
+			"alt": "₽",
+			"altShift": "°",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "(",
+			"altShift": "{",
+			"base": "9",
+			"shift": "("
+		},
+		"A": {
+			"base": "ф",
+			"shift": "Ф"
+		},
+		"B": {
+			"base": "и",
+			"shift": "И"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "\\",
+			"shift": "\/"
+		},
+		"C": {
+			"base": "с",
+			"shift": "С"
+		},
+		"Comma": {
+			"alt": "<",
+			"altShift": "≤",
+			"base": "б",
+			"shift": "Б"
+		},
+		"D": {
+			"base": "в",
+			"shift": "В"
+		},
+		"E": {
+			"base": "у",
+			"shift": "У"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "+",
+			"base": "ҳ",
+			"shift": "Ҳ"
+		},
+		"F": {
+			"base": "а",
+			"shift": "А"
+		},
+		"G": {
+			"base": "п",
+			"shift": "П"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "]",
+			"shift": "["
+		},
+		"H": {
+			"base": "р",
+			"shift": "Р"
+		},
+		"I": {
+			"alt": "щ",
+			"altShift": "Щ",
+			"base": "ш",
+			"shift": "Ш"
+		},
+		"J": {
+			"base": "о",
+			"shift": "О"
+		},
+		"K": {
+			"base": "л",
+			"shift": "Л"
+		},
+		"L": {
+			"base": "д",
+			"shift": "Д"
+		},
+		"LeftBracket": {
+			"alt": "“",
+			"altShift": "”",
+			"base": "х",
+			"shift": "Х"
+		},
+		"M": {
+			"base": "ь",
+			"shift": "Ь"
+		},
+		"Minus": {
+			"alt": "-",
+			"altShift": "_",
+			"base": "ғ",
+			"shift": "Ғ"
+		},
+		"N": {
+			"base": "т",
+			"shift": "Т"
+		},
+		"O": {
+			"alt": "'",
+			"base": "ў",
+			"shift": "Ў"
+		},
+		"P": {
+			"alt": "‘",
+			"altShift": "’",
+			"base": "з",
+			"shift": "З"
+		},
+		"Period": {
+			"alt": ">",
+			"altShift": "≥",
+			"base": "ю",
+			"shift": "Ю"
+		},
+		"Q": {
+			"base": "й",
+			"shift": "Й"
+		},
+		"Quote": {
+			"base": "э",
+			"shift": "Э"
+		},
+		"R": {
+			"base": "к",
+			"shift": "К"
+		},
+		"RightBracket": {
+			"alt": "«",
+			"altShift": "»",
+			"base": "ъ",
+			"shift": "Ъ"
+		},
+		"S": {
+			"alt": "ы",
+			"altShift": "Ы",
+			"base": "қ",
+			"shift": "Қ"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "ё",
+			"shift": "Ё"
+		},
+		"Semicolon": {
+			"base": "ж",
+			"shift": "Ж"
+		},
+		"Slash": {
+			"base": ".",
+			"shift": ","
+		},
+		"T": {
+			"alt": "ё",
+			"altShift": "Ё",
+			"base": "е",
+			"shift": "Е"
+		},
+		"U": {
+			"base": "г",
+			"shift": "Г"
+		},
+		"V": {
+			"base": "м",
+			"shift": "М"
+		},
+		"W": {
+			"base": "ц",
+			"shift": "Ц"
+		},
+		"X": {
+			"base": "ч",
+			"shift": "Ч"
+		},
+		"Y": {
+			"base": "н",
+			"shift": "Н"
+		},
+		"Z": {
+			"base": "я",
+			"shift": "Я"
+		}
+	},
+	"name": "Uzbek (Cyrillic)",
+	"physicalLayout": "iso"
+}

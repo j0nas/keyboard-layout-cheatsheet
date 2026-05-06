@@ -1,0 +1,287 @@
+{
+	"id": "inuktitut-qwerty",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": "0",
+			"base": "0",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "1",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "2",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "3",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "4",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "5",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "6",
+			"base": "6",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "7",
+			"altShift": "7",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "8",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "9",
+			"altShift": "9",
+			"base": "9",
+			"shift": "("
+		},
+		"A": {
+			"alt": "a",
+			"altShift": "a",
+			"base": "ᐊ",
+			"shift": "ᐋ"
+		},
+		"B": {
+			"alt": "b",
+			"altShift": "b",
+			"base": "ᖯ",
+			"shift": "”"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "\\",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"alt": "c",
+			"altShift": "c",
+			"shift": "¢"
+		},
+		"Comma": {
+			"alt": ",",
+			"altShift": ",",
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"alt": "d",
+			"altShift": "d"
+		},
+		"E": {
+			"alt": "e",
+			"altShift": "e",
+			"base": "ᐁ",
+			"shift": "ᐂ"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "=",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "f",
+			"altShift": "f",
+			"base": "ᖕ"
+		},
+		"G": {
+			"alt": "g",
+			"altShift": "g",
+			"base": "ᒡ",
+			"shift": "©"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "`",
+			"base": "`",
+			"shift": "~"
+		},
+		"H": {
+			"alt": "h",
+			"altShift": "h",
+			"base": "ᕻ",
+			"shift": "ᕼ"
+		},
+		"I": {
+			"alt": "i",
+			"altShift": "i",
+			"base": "ᐃ",
+			"shift": "ᐄ"
+		},
+		"J": {
+			"alt": "j",
+			"altShift": "j",
+			"base": "ᔾ",
+			"shift": "•"
+		},
+		"K": {
+			"alt": "k",
+			"altShift": "k",
+			"base": "ᒃ",
+			"shift": "–"
+		},
+		"L": {
+			"alt": "l",
+			"altShift": "l",
+			"base": "ᓪ",
+			"shift": "—"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "[",
+			"base": "[",
+			"shift": "{"
+		},
+		"M": {
+			"alt": "m",
+			"altShift": "m",
+			"base": "ᒻ",
+			"shift": "’"
+		},
+		"Minus": {
+			"alt": "-",
+			"altShift": "-",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "n",
+			"altShift": "n",
+			"base": "ᓐ",
+			"shift": "‘"
+		},
+		"O": {
+			"alt": "o",
+			"altShift": "o",
+			"base": "ᖦ",
+			"shift": "°"
+		},
+		"P": {
+			"alt": "p",
+			"altShift": "p",
+			"base": "ᑉ",
+			"shift": "¶"
+		},
+		"Period": {
+			"alt": ".",
+			"altShift": ".",
+			"base": ".",
+			"shift": ">"
+		},
+		"Q": {
+			"alt": "q",
+			"altShift": "q",
+			"base": "ᖅ",
+			"shift": "ᐟ"
+		},
+		"Quote": {
+			"alt": "'",
+			"altShift": "'",
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "r",
+			"altShift": "r",
+			"base": "ᕐ",
+			"shift": "®"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "]",
+			"base": "]",
+			"shift": "}"
+		},
+		"S": {
+			"alt": "s",
+			"altShift": "s",
+			"base": "ᔅ"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "§",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ";",
+			"base": ";",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "\/",
+			"altShift": "\/",
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"alt": "t",
+			"altShift": "t",
+			"base": "ᑦ",
+			"shift": "™"
+		},
+		"U": {
+			"alt": "u",
+			"altShift": "u",
+			"base": "ᐅ",
+			"shift": "ᐆ"
+		},
+		"V": {
+			"alt": "v",
+			"altShift": "v",
+			"base": "ᕝ",
+			"shift": "“"
+		},
+		"W": {
+			"alt": "w",
+			"altShift": "w",
+			"shift": "€"
+		},
+		"X": {
+			"alt": "x",
+			"altShift": "x",
+			"shift": "᙭"
+		},
+		"Y": {
+			"alt": "y",
+			"altShift": "y",
+			"base": "ᖖ",
+			"shift": "¥"
+		},
+		"Z": {
+			"alt": "z",
+			"altShift": "z",
+			"base": "ᖮ"
+		}
+	},
+	"name": "Inuktitut – QWERTY",
+	"physicalLayout": "iso"
+}

@@ -1,0 +1,241 @@
+{
+	"id": "turkmen",
+	"keymap": {
+		"0": {
+			"base": "0",
+			"shift": ")"
+		},
+		"1": {
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "€",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "§",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "^",
+			"base": "6",
+			"shift": "№"
+		},
+		"7": {
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "•",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"base": "9",
+			"shift": "("
+		},
+		"A": {
+			"base": "a",
+			"shift": "A"
+		},
+		"B": {
+			"base": "b",
+			"shift": "B"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "ş",
+			"shift": "Ş"
+		},
+		"C": {
+			"alt": "c",
+			"altShift": "C",
+			"base": "ç",
+			"shift": "Ç"
+		},
+		"Comma": {
+			"alt": "≤",
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"base": "d",
+			"shift": "D"
+		},
+		"E": {
+			"alt": "´",
+			"base": "e",
+			"shift": "E"
+		},
+		"Equal": {
+			"altShift": "±",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"base": "f",
+			"shift": "F"
+		},
+		"G": {
+			"alt": "ğ",
+			"altShift": "Ğ",
+			"base": "g",
+			"shift": "G"
+		},
+		"Grave": {
+			"alt": "`",
+			"base": "ž",
+			"shift": "Ž"
+		},
+		"H": {
+			"base": "h",
+			"shift": "H"
+		},
+		"I": {
+			"alt": "ı",
+			"altShift": "İ",
+			"base": "i",
+			"shift": "I"
+		},
+		"J": {
+			"base": "j",
+			"shift": "J"
+		},
+		"K": {
+			"altShift": "",
+			"base": "k",
+			"shift": "K"
+		},
+		"L": {
+			"base": "l",
+			"shift": "L"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "ň",
+			"shift": "Ň"
+		},
+		"M": {
+			"base": "m",
+			"shift": "M"
+		},
+		"Minus": {
+			"altShift": "—",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "~",
+			"base": "n",
+			"shift": "N"
+		},
+		"O": {
+			"alt": "‘",
+			"altShift": "’",
+			"base": "o",
+			"shift": "O"
+		},
+		"P": {
+			"alt": "“",
+			"altShift": "”",
+			"base": "p",
+			"shift": "P"
+		},
+		"Period": {
+			"alt": "≥",
+			"base": ".",
+			"shift": ">"
+		},
+		"Q": {
+			"alt": "q",
+			"altShift": "Q",
+			"base": "ä",
+			"shift": "Ä"
+		},
+		"Quote": {
+			"alt": "«",
+			"altShift": "»",
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"base": "r",
+			"shift": "R"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "ö",
+			"shift": "Ö"
+		},
+		"S": {
+			"base": "s",
+			"shift": "S"
+		},
+		"Section": {
+			"alt": "`",
+			"base": "\\",
+			"shift": "|"
+		},
+		"Semicolon": {
+			"base": ";",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "÷",
+			"altShift": "¿",
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"alt": "₺",
+			"base": "t",
+			"shift": "T"
+		},
+		"U": {
+			"alt": "¨",
+			"base": "u",
+			"shift": "U"
+		},
+		"V": {
+			"alt": "v",
+			"altShift": "V",
+			"base": "ý",
+			"shift": "Ý"
+		},
+		"W": {
+			"base": "w",
+			"shift": "W"
+		},
+		"X": {
+			"alt": "x",
+			"altShift": "X",
+			"base": "ü",
+			"shift": "Ü"
+		},
+		"Y": {
+			"alt": "¥",
+			"base": "y",
+			"shift": "Y"
+		},
+		"Z": {
+			"base": "z",
+			"shift": "Z"
+		}
+	},
+	"name": "Turkmen",
+	"physicalLayout": "iso"
+}

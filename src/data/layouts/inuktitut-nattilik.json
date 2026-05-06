@@ -1,0 +1,283 @@
+{
+	"id": "inuktitut-nattilik",
+	"keymap": {
+		"0": {
+			"alt": "]",
+			"altShift": "ᖩ",
+			"base": "ᔾ",
+			"shift": "ᖨ"
+		},
+		"1": {
+			"alt": "!",
+			"altShift": "𑪱",
+			"base": "ᖕ",
+			"shift": "𑪰"
+		},
+		"2": {
+			"alt": "@",
+			"altShift": "𑪳",
+			"base": "ᑉ",
+			"shift": "𑪲"
+		},
+		"3": {
+			"alt": "#",
+			"altShift": "𑪵",
+			"base": "ᕐ",
+			"shift": "𑪴"
+		},
+		"4": {
+			"alt": "$",
+			"altShift": "ᕢ",
+			"base": "ᒃ",
+			"shift": "ᕠ"
+		},
+		"5": {
+			"alt": "^",
+			"altShift": "ᕥ",
+			"base": "ᑦ",
+			"shift": "ᕤ"
+		},
+		"6": {
+			"alt": "%",
+			"altShift": "ᕧ",
+			"base": "ᖅ",
+			"shift": "ᕦ"
+		},
+		"7": {
+			"alt": "&",
+			"altShift": "𑪷",
+			"base": "ᒻ",
+			"shift": "𑪶"
+		},
+		"8": {
+			"alt": "*",
+			"altShift": "𑪹",
+			"base": "ᓐ",
+			"shift": "𑪸"
+		},
+		"9": {
+			"alt": "[",
+			"altShift": "𑪻",
+			"base": "ᓪ",
+			"shift": "𑪺"
+		},
+		"A": {
+			"alt": "ᖒ",
+			"altShift": "ᒎ",
+			"base": "ᖑ",
+			"shift": "ᒍ"
+		},
+		"B": {
+			"alt": "ᑖ",
+			"base": "ᑕ",
+			"shift": "ᕼ"
+		},
+		"Backslash": {
+			"alt": "•",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"alt": "ᖄ",
+			"altShift": "ᕌ",
+			"base": "ᖃ",
+			"shift": "ᕋ"
+		},
+		"Comma": {
+			"alt": "᙭",
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"alt": "ᖂ",
+			"altShift": "ᕉ",
+			"base": "ᖁ",
+			"shift": "ᕈ"
+		},
+		"E": {
+			"alt": "ᖀ",
+			"altShift": "ᕇ",
+			"base": "ᕿ",
+			"shift": "ᕆ"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "ᖭ",
+			"base": "ᕝ",
+			"shift": "ᖬ"
+		},
+		"F": {
+			"alt": "ᑰ",
+			"altShift": "ᕖ",
+			"base": "ᑯ",
+			"shift": "ᕕ"
+		},
+		"G": {
+			"alt": "ᑑ",
+			"base": "ᑐ",
+			"shift": "("
+		},
+		"Grave": {
+			"alt": "˙",
+			"altShift": "˙",
+			"base": "˙",
+			"shift": "˙"
+		},
+		"H": {
+			"alt": "ᓲ",
+			"base": "ᓱ",
+			"shift": ")"
+		},
+		"I": {
+			"alt": "ᓃ",
+			"altShift": "ᖥ",
+			"base": "ᓂ",
+			"shift": "ᖤ"
+		},
+		"J": {
+			"alt": "ᒨ",
+			"altShift": "ᔫ",
+			"base": "ᒧ",
+			"shift": "ᔪ"
+		},
+		"K": {
+			"alt": "ᓅ",
+			"altShift": "ᕘ",
+			"base": "ᓄ",
+			"shift": "ᕗ"
+		},
+		"L": {
+			"alt": "ᓘ",
+			"altShift": "ᖣ",
+			"base": "ᓗ",
+			"shift": "ᖢ"
+		},
+		"LeftBracket": {
+			"alt": "ᖮ",
+			"base": "ᒡ",
+			"shift": "ᔅ"
+		},
+		"M": {
+			"alt": "ᒫ",
+			"altShift": "ᓛ",
+			"base": "ᒪ",
+			"shift": "ᓚ"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "ᖫ",
+			"base": "-",
+			"shift": "ᖪ"
+		},
+		"N": {
+			"alt": "ᓵ",
+			"altShift": "ᓈ",
+			"base": "ᓴ",
+			"shift": "ᓇ"
+		},
+		"O": {
+			"alt": "ᓖ",
+			"altShift": "ᖡ",
+			"base": "ᓕ",
+			"shift": "ᖠ"
+		},
+		"P": {
+			"alt": "ᔩ",
+			"base": "ᔨ",
+			"shift": "ᖦ"
+		},
+		"Period": {
+			"alt": "ł",
+			"base": ".",
+			"shift": ">"
+		},
+		"Q": {
+			"alt": "ᖐ",
+			"altShift": "ᒌ",
+			"base": "ᖏ",
+			"shift": "ᒋ"
+		},
+		"Quote": {
+			"alt": "‘",
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "ᑮ",
+			"base": "ᑭ",
+			"shift": "ᖕ"
+		},
+		"RightBracket": {
+			"alt": "˙",
+			"altShift": "˙",
+			"base": "˙",
+			"shift": "˙"
+		},
+		"S": {
+			"alt": "ᐆ",
+			"altShift": "ᐴ",
+			"base": "ᐅ",
+			"shift": "ᐳ"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "~"
+		},
+		"Semicolon": {
+			"alt": "…",
+			"base": ";",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "ᔮ",
+			"altShift": "ᕚ",
+			"base": "ᔭ",
+			"shift": "ᕙ"
+		},
+		"T": {
+			"alt": "ᑏ",
+			"altShift": "ᙲ",
+			"base": "ᑎ",
+			"shift": "ᙱ"
+		},
+		"U": {
+			"alt": "ᒦ",
+			"altShift": "ᙶ",
+			"base": "ᒥ",
+			"shift": "ᙵ"
+		},
+		"V": {
+			"alt": "ᑳ",
+			"base": "ᑲ",
+			"shift": "?"
+		},
+		"W": {
+			"alt": "ᐄ",
+			"altShift": "ᐲ",
+			"base": "ᐃ",
+			"shift": "ᐱ"
+		},
+		"X": {
+			"alt": "ᐋ",
+			"altShift": "ᐹ",
+			"base": "ᐊ",
+			"shift": "ᐸ"
+		},
+		"Y": {
+			"alt": "ᓰ",
+			"altShift": "ᙴ",
+			"base": "ᓯ",
+			"shift": "ᙳ"
+		},
+		"Z": {
+			"alt": "ᖔ",
+			"altShift": "ᒑ",
+			"base": "ᖓ",
+			"shift": "ᒐ"
+		}
+	},
+	"name": "Inuktitut – Nattilik",
+	"physicalLayout": "iso"
+}

@@ -1,0 +1,257 @@
+{
+	"id": "ukrainian-qwerty",
+	"keymap": {
+		"0": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "0",
+			"shift": ")"
+		},
+		"1": {
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "™",
+			"altShift": "£",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "№",
+			"altShift": "€",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "∞",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "§",
+			"base": "6",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "¶",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "•",
+			"altShift": "°",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "9",
+			"shift": "("
+		},
+		"A": {
+			"base": "а",
+			"shift": "А"
+		},
+		"B": {
+			"base": "б",
+			"shift": "Б"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "є",
+			"shift": "Є"
+		},
+		"C": {
+			"alt": "©",
+			"altShift": "©",
+			"base": "ц",
+			"shift": "Ц"
+		},
+		"Comma": {
+			"alt": "≤",
+			"altShift": "„",
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"alt": "ð",
+			"altShift": "∆",
+			"base": "д",
+			"shift": "Д"
+		},
+		"E": {
+			"alt": "ё",
+			"altShift": "Ё",
+			"base": "е",
+			"shift": "Е"
+		},
+		"Equal": {
+			"alt": "≠",
+			"altShift": "±",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "ƒ",
+			"base": "ф",
+			"shift": "Ф"
+		},
+		"G": {
+			"alt": "ґ",
+			"altShift": "Ґ",
+			"base": "г",
+			"shift": "Г"
+		},
+		"Grave": {
+			"alt": "ъ",
+			"altShift": "Ъ",
+			"base": "ь",
+			"shift": "Ь"
+		},
+		"H": {
+			"base": "ч",
+			"shift": "Ч"
+		},
+		"I": {
+			"alt": "ї",
+			"altShift": "Ї",
+			"base": "і",
+			"shift": "І"
+		},
+		"J": {
+			"base": "й",
+			"shift": "Й"
+		},
+		"K": {
+			"base": "к",
+			"shift": "К"
+		},
+		"L": {
+			"base": "л",
+			"shift": "Л"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "ю",
+			"shift": "Ю"
+		},
+		"M": {
+			"alt": "µ",
+			"base": "м",
+			"shift": "М"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"base": "н",
+			"shift": "Н"
+		},
+		"O": {
+			"alt": "«",
+			"base": "о",
+			"shift": "О"
+		},
+		"P": {
+			"alt": "»",
+			"base": "п",
+			"shift": "П"
+		},
+		"Period": {
+			"alt": "≥",
+			"base": ".",
+			"shift": ">"
+		},
+		"Q": {
+			"base": "я",
+			"shift": "Я"
+		},
+		"Quote": {
+			"alt": "'",
+			"altShift": "\"",
+			"base": "ʼ",
+			"shift": "₴"
+		},
+		"R": {
+			"altShift": "®",
+			"base": "р",
+			"shift": "Р"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "ж",
+			"shift": "Ж"
+		},
+		"S": {
+			"base": "с",
+			"shift": "С"
+		},
+		"Section": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": "…",
+			"base": ";",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "÷",
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"base": "т",
+			"shift": "Т"
+		},
+		"U": {
+			"alt": "ў",
+			"altShift": "Ў",
+			"base": "у",
+			"shift": "У"
+		},
+		"V": {
+			"alt": "√",
+			"altShift": "†",
+			"base": "в",
+			"shift": "В"
+		},
+		"W": {
+			"alt": "щ",
+			"altShift": "Щ",
+			"base": "ш",
+			"shift": "Ш"
+		},
+		"X": {
+			"alt": "≈",
+			"base": "х",
+			"shift": "Х"
+		},
+		"Y": {
+			"alt": "ы",
+			"altShift": "Ы",
+			"base": "и",
+			"shift": "И"
+		},
+		"Z": {
+			"base": "з",
+			"shift": "З"
+		}
+	},
+	"name": "Ukrainian – QWERTY",
+	"physicalLayout": "iso"
+}

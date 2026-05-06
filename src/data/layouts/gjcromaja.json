@@ -1,0 +1,295 @@
+{
+	"id": "gjcromaja",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": ")",
+			"base": "0",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "!",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "@",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "#",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "$",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "%",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "^",
+			"base": "6",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "7",
+			"altShift": "&",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "*",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "9",
+			"altShift": "(",
+			"base": "9",
+			"shift": "("
+		},
+		"A": {
+			"alt": "a",
+			"altShift": "A",
+			"base": "ㅏ",
+			"shift": "아"
+		},
+		"B": {
+			"alt": "b",
+			"altShift": "B",
+			"base": "ㅂ",
+			"shift": "ㅃ"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"alt": "c",
+			"altShift": "C",
+			"base": "ㅊ",
+			"shift": "C"
+		},
+		"Comma": {
+			"alt": ",",
+			"altShift": "<",
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"alt": "d",
+			"altShift": "D",
+			"base": "ㄷ",
+			"shift": "ㄸ"
+		},
+		"E": {
+			"alt": "e",
+			"altShift": "E",
+			"base": "ㅔ",
+			"shift": "에"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "+",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "f",
+			"altShift": "F",
+			"base": "ㅍ",
+			"shift": "F"
+		},
+		"G": {
+			"alt": "g",
+			"altShift": "G",
+			"base": "ㄱ",
+			"shift": "ㄲ"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "₩",
+			"shift": "~"
+		},
+		"H": {
+			"alt": "h",
+			"altShift": "H",
+			"base": "ㅎ",
+			"shift": "H"
+		},
+		"I": {
+			"alt": "i",
+			"altShift": "I",
+			"base": "ㅣ",
+			"shift": "이"
+		},
+		"J": {
+			"alt": "j",
+			"altShift": "J",
+			"base": "ㅈ",
+			"shift": "ㅉ"
+		},
+		"K": {
+			"alt": "k",
+			"altShift": "K",
+			"base": "ㅋ",
+			"shift": "K"
+		},
+		"L": {
+			"alt": "l",
+			"altShift": "L",
+			"base": "ㄹ",
+			"shift": "L"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "[",
+			"shift": "{"
+		},
+		"M": {
+			"alt": "m",
+			"altShift": "M",
+			"base": "ㅁ",
+			"shift": "M"
+		},
+		"Minus": {
+			"alt": "-",
+			"altShift": "_",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "n",
+			"altShift": "N",
+			"base": "ㄴ",
+			"shift": "N"
+		},
+		"O": {
+			"alt": "o",
+			"altShift": "O",
+			"base": "ㅗ",
+			"shift": "오"
+		},
+		"P": {
+			"alt": "p",
+			"altShift": "P",
+			"base": "ㅍ",
+			"shift": "P"
+		},
+		"Period": {
+			"alt": ".",
+			"altShift": ">",
+			"base": ".",
+			"shift": ">"
+		},
+		"Q": {
+			"alt": "q",
+			"altShift": "Q",
+			"base": "q",
+			"shift": "Q"
+		},
+		"Quote": {
+			"alt": "'",
+			"altShift": "\"",
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "r",
+			"altShift": "R",
+			"base": "ㄹ",
+			"shift": "R"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "]",
+			"shift": "}"
+		},
+		"S": {
+			"alt": "s",
+			"altShift": "S",
+			"base": "ㅅ",
+			"shift": "ㅆ"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": ";",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "\/",
+			"altShift": "?",
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"alt": "t",
+			"altShift": "T",
+			"base": "ㅌ",
+			"shift": "T"
+		},
+		"U": {
+			"alt": "u",
+			"altShift": "U",
+			"base": "ㅜ",
+			"shift": "우"
+		},
+		"V": {
+			"alt": "v",
+			"altShift": "V",
+			"base": "v",
+			"shift": "V"
+		},
+		"W": {
+			"alt": "w",
+			"altShift": "W",
+			"base": "ㅜ",
+			"shift": "우"
+		},
+		"X": {
+			"alt": "x",
+			"altShift": "X",
+			"base": "ㅇ",
+			"shift": "ㅇ"
+		},
+		"Y": {
+			"alt": "y",
+			"altShift": "Y",
+			"base": "ㅣ",
+			"shift": "이"
+		},
+		"Z": {
+			"alt": "z",
+			"altShift": "Z",
+			"base": "z",
+			"shift": "Z"
+		}
+	},
+	"name": "GongjinCheong Romaja",
+	"physicalLayout": "iso"
+}

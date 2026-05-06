@@ -1,0 +1,293 @@
+{
+	"id": "zhuyinbopomofo",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": ")",
+			"base": "ㄢ",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "!",
+			"base": "ㄅ",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "@",
+			"base": "ㄉ",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "#",
+			"base": "ˇ",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "$",
+			"base": "ˋ",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "%",
+			"base": "ㄓ",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "^",
+			"base": "ˊ",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "7",
+			"altShift": "&",
+			"base": "˙",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "*",
+			"base": "ㄚ",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "9",
+			"altShift": "(",
+			"base": "ㄞ",
+			"shift": "("
+		},
+		"A": {
+			"alt": "a",
+			"altShift": "A",
+			"base": "ㄇ",
+			"shift": "A"
+		},
+		"B": {
+			"alt": "b",
+			"altShift": "B",
+			"base": "ㄖ",
+			"shift": "B"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "、",
+			"shift": "|"
+		},
+		"C": {
+			"alt": "c",
+			"altShift": "C",
+			"base": "ㄏ",
+			"shift": "C"
+		},
+		"Comma": {
+			"alt": ",",
+			"altShift": "<",
+			"base": "ㄝ",
+			"shift": "，"
+		},
+		"D": {
+			"alt": "d",
+			"altShift": "D",
+			"base": "ㄎ",
+			"shift": "D"
+		},
+		"E": {
+			"alt": "e",
+			"altShift": "E",
+			"base": "ㄍ",
+			"shift": "E"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "+",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "f",
+			"altShift": "F",
+			"base": "ㄑ",
+			"shift": "F"
+		},
+		"G": {
+			"alt": "g",
+			"altShift": "G",
+			"base": "ㄕ",
+			"shift": "G"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "·",
+			"shift": "~"
+		},
+		"H": {
+			"alt": "h",
+			"altShift": "H",
+			"base": "ㄘ",
+			"shift": "H"
+		},
+		"I": {
+			"alt": "i",
+			"altShift": "I",
+			"base": "ㄛ",
+			"shift": "I"
+		},
+		"J": {
+			"alt": "j",
+			"altShift": "J",
+			"base": "ㄨ",
+			"shift": "J"
+		},
+		"K": {
+			"alt": "k",
+			"altShift": "K",
+			"base": "ㄜ",
+			"shift": "K"
+		},
+		"L": {
+			"alt": "l",
+			"altShift": "L",
+			"base": "ㄠ",
+			"shift": "L"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "「",
+			"shift": "『"
+		},
+		"M": {
+			"alt": "m",
+			"altShift": "M",
+			"base": "ㄩ",
+			"shift": "M"
+		},
+		"Minus": {
+			"alt": "—",
+			"altShift": "_",
+			"base": "ㄦ",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "n",
+			"altShift": "N",
+			"base": "ㄙ",
+			"shift": "N"
+		},
+		"O": {
+			"alt": "o",
+			"altShift": "O",
+			"base": "ㄟ",
+			"shift": "O"
+		},
+		"P": {
+			"alt": "p",
+			"altShift": "P",
+			"base": "ㄣ",
+			"shift": "P"
+		},
+		"Period": {
+			"alt": ".",
+			"altShift": ">",
+			"base": "ㄡ",
+			"shift": "。"
+		},
+		"Q": {
+			"alt": "q",
+			"altShift": "Q",
+			"base": "ㄆ",
+			"shift": "Q"
+		},
+		"Quote": {
+			"alt": "'",
+			"altShift": "\"",
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "r",
+			"altShift": "R",
+			"base": "ㄐ",
+			"shift": "R"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "」",
+			"shift": "』"
+		},
+		"S": {
+			"alt": "s",
+			"altShift": "S",
+			"base": "ㄋ",
+			"shift": "S"
+		},
+		"Section": {
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": "ㄤ",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "\/",
+			"altShift": "?",
+			"base": "ㄥ",
+			"shift": "?"
+		},
+		"T": {
+			"alt": "t",
+			"altShift": "T",
+			"base": "ㄔ",
+			"shift": "T"
+		},
+		"U": {
+			"alt": "u",
+			"altShift": "U",
+			"base": "ㄧ",
+			"shift": "U"
+		},
+		"V": {
+			"alt": "v",
+			"altShift": "V",
+			"base": "ㄒ",
+			"shift": "V"
+		},
+		"W": {
+			"alt": "w",
+			"altShift": "W",
+			"base": "ㄊ",
+			"shift": "W"
+		},
+		"X": {
+			"alt": "x",
+			"altShift": "X",
+			"base": "ㄌ",
+			"shift": "X"
+		},
+		"Y": {
+			"alt": "y",
+			"altShift": "Y",
+			"base": "ㄗ",
+			"shift": "Y"
+		},
+		"Z": {
+			"alt": "z",
+			"altShift": "Z",
+			"base": "ㄈ",
+			"shift": "Z"
+		}
+	},
+	"name": "Zhuyin",
+	"physicalLayout": "iso"
+}

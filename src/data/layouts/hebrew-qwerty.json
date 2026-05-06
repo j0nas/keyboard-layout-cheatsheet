@@ -1,0 +1,271 @@
+{
+	"id": "hebrew-qwerty",
+	"keymap": {
+		"0": {
+			"alt": "ְ",
+			"altShift": "ְ",
+			"base": "0",
+			"shift": "("
+		},
+		"1": {
+			"alt": "ֲ",
+			"altShift": "ֲ",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "ֳ",
+			"altShift": "ֳ",
+			"base": "2",
+			"shift": "“"
+		},
+		"3": {
+			"alt": "ֱ",
+			"altShift": "ֱ",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "ִ",
+			"altShift": "ִ",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "ֵ",
+			"altShift": "ֵ",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "ַ",
+			"altShift": "ַ",
+			"base": "6",
+			"shift": "”"
+		},
+		"7": {
+			"alt": "ָ",
+			"altShift": "ָ",
+			"base": "7",
+			"shift": "₪"
+		},
+		"8": {
+			"alt": "ֻ",
+			"altShift": "ֻ",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "ֶ",
+			"altShift": "ֶ",
+			"base": "9",
+			"shift": ")"
+		},
+		"A": {
+			"alt": "ַ",
+			"altShift": "ֲ",
+			"base": "א",
+			"shift": "ָ"
+		},
+		"B": {
+			"alt": "‘",
+			"altShift": "֜",
+			"base": "ב",
+			"shift": "ּ"
+		},
+		"Backslash": {
+			"alt": "־",
+			"altShift": "ֿ",
+			"base": "ֿ",
+			"shift": "-"
+		},
+		"C": {
+			"alt": "“",
+			"altShift": "֞",
+			"base": "צ",
+			"shift": "ץ"
+		},
+		"Comma": {
+			"alt": "‘",
+			"altShift": "‘",
+			"base": ",",
+			"shift": ">"
+		},
+		"D": {
+			"base": "ד",
+			"shift": "„"
+		},
+		"E": {
+			"alt": "ֶ",
+			"altShift": "ֱ",
+			"base": "ע",
+			"shift": "ֵ"
+		},
+		"Equal": {
+			"alt": "-",
+			"altShift": "+",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"altShift": "€",
+			"base": "פ",
+			"shift": "ף"
+		},
+		"G": {
+			"base": "ג"
+		},
+		"Grave": {
+			"alt": "ּ",
+			"altShift": "ּ",
+			"base": "ּ",
+			"shift": "ּ"
+		},
+		"H": {
+			"alt": "ח",
+			"altShift": "ח",
+			"base": "ה",
+			"shift": "ח"
+		},
+		"I": {
+			"alt": "ִ",
+			"altShift": "ִ",
+			"base": "י",
+			"shift": "ײַ"
+		},
+		"J": {
+			"alt": "ִ",
+			"altShift": "ִ",
+			"base": "ח"
+		},
+		"K": {
+			"base": "כ",
+			"shift": "ך"
+		},
+		"L": {
+			"base": "ל",
+			"shift": "לֹ"
+		},
+		"LeftBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "’",
+			"shift": "}"
+		},
+		"M": {
+			"alt": "ם",
+			"altShift": "ם",
+			"base": "מ",
+			"shift": "ם"
+		},
+		"Minus": {
+			"alt": "+",
+			"altShift": "-",
+			"base": "–",
+			"shift": "—"
+		},
+		"N": {
+			"alt": "’",
+			"altShift": "’",
+			"base": "נ",
+			"shift": "ן"
+		},
+		"O": {
+			"alt": "ֹ",
+			"altShift": "ֹ",
+			"base": "ו",
+			"shift": "וֹ"
+		},
+		"P": {
+			"alt": "ְ",
+			"altShift": "ְ",
+			"base": "פ",
+			"shift": "ף"
+		},
+		"Period": {
+			"alt": "ּ",
+			"altShift": "…",
+			"base": ".",
+			"shift": "<"
+		},
+		"Q": {
+			"base": "ק"
+		},
+		"Quote": {
+			"alt": "‘",
+			"altShift": "’",
+			"base": "׳",
+			"shift": "’"
+		},
+		"R": {
+			"alt": "ָ",
+			"altShift": "ֳ",
+			"base": "ר"
+		},
+		"RightBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "ײַ",
+			"shift": "{"
+		},
+		"S": {
+			"alt": "שׁ",
+			"altShift": "שׁ",
+			"base": "ס",
+			"shift": "ש"
+		},
+		"Semicolon": {
+			"alt": "ְ",
+			"altShift": "ְ",
+			"base": ";",
+			"shift": ":"
+		},
+		"Slash": {
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"alt": "ָ",
+			"altShift": "ֳ",
+			"base": "ת",
+			"shift": "ט"
+		},
+		"U": {
+			"alt": "ֻ",
+			"altShift": "ֻ",
+			"base": "ו",
+			"shift": "וּ"
+		},
+		"V": {
+			"alt": "”",
+			"altShift": "”",
+			"base": "ו",
+			"shift": "ב"
+		},
+		"W": {
+			"alt": "שׂ",
+			"altShift": "שׂ",
+			"base": "ש",
+			"shift": "שׁ"
+		},
+		"X": {
+			"alt": "—",
+			"altShift": "—",
+			"base": "כ",
+			"shift": "ך"
+		},
+		"Y": {
+			"alt": "ײַ",
+			"altShift": "ײַ",
+			"base": "ט",
+			"shift": "ת"
+		},
+		"Z": {
+			"alt": "–",
+			"altShift": "–",
+			"base": "ז"
+		}
+	},
+	"name": "Hebrew – QWERTY",
+	"physicalLayout": "iso"
+}

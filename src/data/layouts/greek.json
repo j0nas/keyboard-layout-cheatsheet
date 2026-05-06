@@ -1,0 +1,283 @@
+{
+	"id": "greek",
+	"keymap": {
+		"0": {
+			"alt": "°",
+			"altShift": "ύ",
+			"base": "0",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "¹",
+			"altShift": "έ",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "²",
+			"altShift": "ί",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "³",
+			"altShift": "ή",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "£",
+			"altShift": "ό",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "§",
+			"altShift": "Ώ",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "¶",
+			"altShift": "^",
+			"base": "6",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "ϗ",
+			"altShift": "Ϗ",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "•",
+			"altShift": "Ρ",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "“",
+			"altShift": "Κ",
+			"base": "9",
+			"shift": "("
+		},
+		"A": {
+			"alt": "…",
+			"altShift": "ά",
+			"base": "α",
+			"shift": "Α"
+		},
+		"B": {
+			"base": "β",
+			"shift": "Β"
+		},
+		"Backslash": {
+			"alt": "¦",
+			"altShift": "Ζ",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"alt": "ç",
+			"altShift": "Χ",
+			"base": "ψ",
+			"shift": "Ψ"
+		},
+		"Comma": {
+			"alt": "«",
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"alt": "÷",
+			"base": "δ",
+			"shift": "Δ"
+		},
+		"E": {
+			"alt": "€",
+			"altShift": "Έ",
+			"base": "ε",
+			"shift": "Ε"
+		},
+		"Equal": {
+			"alt": "½",
+			"altShift": "+",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "≠",
+			"altShift": "Π",
+			"base": "φ",
+			"shift": "Φ"
+		},
+		"G": {
+			"alt": "©",
+			"altShift": "Ϊ",
+			"base": "γ",
+			"shift": "Γ"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "Μ",
+			"base": "`",
+			"shift": "~"
+		},
+		"H": {
+			"alt": "½",
+			"altShift": "≠",
+			"base": "η",
+			"shift": "Η"
+		},
+		"I": {
+			"alt": "†",
+			"altShift": "Ν",
+			"base": "ι",
+			"shift": "Ι"
+		},
+		"J": {
+			"alt": "≤",
+			"altShift": "≥",
+			"base": "ξ",
+			"shift": "Ξ"
+		},
+		"K": {
+			"alt": "ϗ",
+			"altShift": "Ϗ",
+			"base": "κ",
+			"shift": "Κ"
+		},
+		"L": {
+			"alt": "¬",
+			"altShift": "·",
+			"base": "λ",
+			"shift": "Λ"
+		},
+		"LeftBracket": {
+			"alt": "«",
+			"altShift": "{",
+			"base": "[",
+			"shift": "{"
+		},
+		"M": {
+			"alt": "’",
+			"altShift": "Ύ",
+			"base": "μ",
+			"shift": "Μ"
+		},
+		"Minus": {
+			"alt": "±",
+			"altShift": "_",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "‘",
+			"altShift": "Ό",
+			"base": "ν",
+			"shift": "Ν"
+		},
+		"O": {
+			"alt": "œ",
+			"altShift": "Τ",
+			"base": "ο",
+			"shift": "Ο"
+		},
+		"P": {
+			"alt": "≈",
+			"base": "π",
+			"shift": "Π"
+		},
+		"Period": {
+			"alt": "»",
+			"altShift": "ώ",
+			"base": ".",
+			"shift": ">"
+		},
+		"Q": {
+			"alt": "·",
+			"altShift": "―",
+			"base": ";",
+			"shift": ":"
+		},
+		"Quote": {
+			"alt": "'",
+			"altShift": "\"",
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "®",
+			"altShift": "Δ",
+			"base": "ρ",
+			"shift": "Ρ"
+		},
+		"RightBracket": {
+			"alt": "»",
+			"altShift": "}",
+			"base": "]",
+			"shift": "}"
+		},
+		"S": {
+			"alt": "ß",
+			"altShift": "ρ",
+			"base": "σ",
+			"shift": "Σ"
+		},
+		"Section": {
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": "΅",
+			"altShift": ":",
+			"base": "΄",
+			"shift": "¨"
+		},
+		"Slash": {
+			"alt": "\/",
+			"altShift": "?",
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"alt": "™",
+			"base": "τ",
+			"shift": "Τ"
+		},
+		"U": {
+			"alt": "­",
+			"altShift": "Ξ",
+			"base": "θ",
+			"shift": "Θ"
+		},
+		"V": {
+			"alt": "±",
+			"altShift": "Ά",
+			"base": "ω",
+			"shift": "Ω"
+		},
+		"W": {
+			"alt": "―",
+			"altShift": "Β",
+			"base": "ς",
+			"shift": "΅"
+		},
+		"X": {
+			"base": "χ",
+			"shift": "Χ"
+		},
+		"Y": {
+			"alt": "¥",
+			"base": "υ",
+			"shift": "Υ"
+		},
+		"Z": {
+			"alt": "§",
+			"base": "ζ",
+			"shift": "Ζ"
+		}
+	},
+	"name": "Greek",
+	"physicalLayout": "iso"
+}

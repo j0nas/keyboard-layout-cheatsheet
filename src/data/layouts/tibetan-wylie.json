@@ -1,0 +1,291 @@
+{
+	"id": "tibetan-wylie",
+	"keymap": {
+		"0": {
+			"alt": "º",
+			"altShift": "‚",
+			"base": "༠",
+			"shift": "༽"
+		},
+		"1": {
+			"alt": "¡",
+			"altShift": "⁄",
+			"base": "༡",
+			"shift": "༈"
+		},
+		"2": {
+			"alt": "™",
+			"altShift": "€",
+			"base": "༢",
+			"shift": "༄"
+		},
+		"3": {
+			"alt": "£",
+			"altShift": "‹",
+			"base": "༣",
+			"shift": "༅"
+		},
+		"4": {
+			"alt": "¢",
+			"altShift": "›",
+			"base": "༤",
+			"shift": "༆"
+		},
+		"5": {
+			"alt": "∞",
+			"altShift": "ﬁ",
+			"base": "༥",
+			"shift": "༇"
+		},
+		"6": {
+			"alt": "§",
+			"altShift": "ﬂ",
+			"base": "༦",
+			"shift": "༹"
+		},
+		"7": {
+			"alt": "¶",
+			"altShift": "‡",
+			"base": "༧",
+			"shift": "྅"
+		},
+		"8": {
+			"alt": "•",
+			"altShift": "°",
+			"base": "༨",
+			"shift": "༌"
+		},
+		"9": {
+			"alt": "ª",
+			"altShift": "·",
+			"base": "༩",
+			"shift": "༼"
+		},
+		"A": {
+			"alt": "å",
+			"altShift": "Å",
+			"base": "ཨ",
+			"shift": "ཨཱ"
+		},
+		"B": {
+			"alt": "∫",
+			"altShift": "ı",
+			"base": "བ",
+			"shift": "B"
+		},
+		"Backslash": {
+			"alt": "«",
+			"altShift": "»",
+			"base": "\\",
+			"shift": "༑"
+		},
+		"C": {
+			"alt": "ç",
+			"altShift": "Ç",
+			"base": "ཅ",
+			"shift": "C"
+		},
+		"Comma": {
+			"alt": "≤",
+			"altShift": "¯",
+			"base": ",",
+			"shift": "༺"
+		},
+		"D": {
+			"alt": "∂",
+			"altShift": "Î",
+			"base": "ད",
+			"shift": "ཌ"
+		},
+		"E": {
+			"alt": "´",
+			"altShift": "´",
+			"base": "ཨེ",
+			"shift": "ཨཱེ"
+		},
+		"Equal": {
+			"alt": "≠",
+			"altShift": "±",
+			"base": "༴"
+		},
+		"F": {
+			"alt": "ƒ",
+			"altShift": "Ï",
+			"base": "ཕ༹",
+			"shift": "F"
+		},
+		"G": {
+			"alt": "©",
+			"altShift": "˝",
+			"base": "ག",
+			"shift": "G"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "`",
+			"base": "༓"
+		},
+		"H": {
+			"alt": "˙",
+			"altShift": "Ó",
+			"base": "ཧ",
+			"shift": "ཿ"
+		},
+		"I": {
+			"alt": "ˆ",
+			"altShift": "ˆ",
+			"base": "ཨི",
+			"shift": "ཨཱི"
+		},
+		"J": {
+			"alt": "∆",
+			"altShift": "Ô",
+			"base": "ཇ",
+			"shift": "J"
+		},
+		"K": {
+			"alt": "˚",
+			"altShift": "",
+			"base": "ཀ",
+			"shift": "K"
+		},
+		"L": {
+			"alt": "¬",
+			"altShift": "Ò",
+			"base": "ལ",
+			"shift": "L"
+		},
+		"LeftBracket": {
+			"alt": "“",
+			"altShift": "”",
+			"base": "༐",
+			"shift": "༿"
+		},
+		"M": {
+			"alt": "µ",
+			"altShift": "Â",
+			"base": "མ",
+			"shift": "ཾ"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "—",
+			"shift": " "
+		},
+		"N": {
+			"alt": "˜",
+			"altShift": "˜",
+			"base": "ན",
+			"shift": "ཎ"
+		},
+		"O": {
+			"alt": "ø",
+			"altShift": "Ø",
+			"base": "ཨོ",
+			"shift": "ཨཱོ"
+		},
+		"P": {
+			"alt": "π",
+			"altShift": "∏",
+			"base": "པ",
+			"shift": "P"
+		},
+		"Period": {
+			"alt": "≥",
+			"altShift": "˘",
+			"shift": "༻"
+		},
+		"Q": {
+			"alt": "œ",
+			"altShift": "Œ",
+			"base": "q",
+			"shift": "Q"
+		},
+		"Quote": {
+			"alt": "æ",
+			"altShift": "Æ",
+			"base": "འ",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "®",
+			"altShift": "‰",
+			"base": "ར",
+			"shift": "ཪ"
+		},
+		"RightBracket": {
+			"alt": "‘",
+			"altShift": "’",
+			"base": "༒",
+			"shift": "༾"
+		},
+		"S": {
+			"alt": "ß",
+			"altShift": "Í",
+			"base": "ས",
+			"shift": "ཥ"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "༓",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": "…",
+			"altShift": "Ú",
+			"base": "༏",
+			"shift": "༔"
+		},
+		"Slash": {
+			"alt": "÷",
+			"altShift": "¿",
+			"base": "།",
+			"shift": "྄"
+		},
+		"T": {
+			"alt": "†",
+			"altShift": "ˇ",
+			"base": "ཏ",
+			"shift": "ཊ"
+		},
+		"U": {
+			"alt": "¨",
+			"altShift": "¨",
+			"base": "ཨུ",
+			"shift": "ཨཱུ"
+		},
+		"V": {
+			"alt": "√",
+			"altShift": "◊",
+			"base": "བ༹",
+			"shift": "V"
+		},
+		"W": {
+			"alt": "∑",
+			"altShift": "„",
+			"base": "ཝ",
+			"shift": "ྺ"
+		},
+		"X": {
+			"alt": "≈",
+			"altShift": "˛",
+			"base": "༷",
+			"shift": "X"
+		},
+		"Y": {
+			"alt": "¥",
+			"altShift": "Á",
+			"base": "ཡ",
+			"shift": "ྻ"
+		},
+		"Z": {
+			"alt": "Ω",
+			"altShift": "¸",
+			"base": "ཟ",
+			"shift": "Z"
+		}
+	},
+	"name": "Tibetan – Wylie",
+	"physicalLayout": "iso"
+}

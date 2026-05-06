@@ -1,0 +1,231 @@
+{
+	"id": "myanmar",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"base": "၀",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "!",
+			"base": "၁",
+			"shift": "ဍ"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "@",
+			"base": "၂",
+			"shift": "ၒ"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "#",
+			"base": "၃",
+			"shift": "ဋ"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "$",
+			"base": "၄",
+			"shift": "ၓ"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "%",
+			"base": "၅",
+			"shift": "ၔ"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "^",
+			"base": "၆",
+			"shift": "ၕ"
+		},
+		"7": {
+			"alt": "7",
+			"altShift": "&",
+			"base": "၇",
+			"shift": "ရ"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "•",
+			"base": "၈",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "9",
+			"base": "၉",
+			"shift": "("
+		},
+		"A": {
+			"base": "ေ",
+			"shift": "ဗ"
+		},
+		"B": {
+			"base": "ဘ",
+			"shift": "ယ"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "၏",
+			"shift": "ၑ"
+		},
+		"C": {
+			"base": "ခ",
+			"shift": "ဃ"
+		},
+		"Comma": {
+			"base": ",",
+			"shift": "၊"
+		},
+		"D": {
+			"base": "ိ",
+			"shift": "ီ"
+		},
+		"E": {
+			"base": "န",
+			"shift": "ဣ"
+		},
+		"Equal": {
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"base": "်",
+			"shift": "္"
+		},
+		"G": {
+			"alt": "©",
+			"base": "ါ",
+			"shift": "ွ"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "ၐ",
+			"shift": "ဎ"
+		},
+		"H": {
+			"base": "့",
+			"shift": "ံ"
+		},
+		"I": {
+			"alt": "င်္",
+			"base": "င",
+			"shift": "၍"
+		},
+		"J": {
+			"alt": "ၖ",
+			"altShift": "ၗ",
+			"base": "ြ",
+			"shift": "ဲ"
+		},
+		"K": {
+			"base": "ု",
+			"shift": "ဒ"
+		},
+		"L": {
+			"base": "ူ",
+			"shift": "ဓ"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "ဟ",
+			"shift": "ဧ"
+		},
+		"M": {
+			"base": "ာ",
+			"shift": "ဦ"
+		},
+		"Minus": {
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"base": "ည",
+			"shift": "ဉ"
+		},
+		"O": {
+			"base": "သ",
+			"shift": "ဿ"
+		},
+		"P": {
+			"base": "စ",
+			"shift": "ဏ"
+		},
+		"Period": {
+			"alt": "…",
+			"base": ".",
+			"shift": "။"
+		},
+		"Q": {
+			"base": "ဆ",
+			"shift": "ဈ"
+		},
+		"Quote": {
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "®",
+			"base": "မ",
+			"shift": "၎"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "ဩ",
+			"shift": "ဪ"
+		},
+		"S": {
+			"base": "ျ",
+			"shift": "ှ"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": "း",
+			"shift": "ဂ"
+		},
+		"Slash": {
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"base": "အ",
+			"shift": "ဤ"
+		},
+		"U": {
+			"base": "က",
+			"shift": "ဥ"
+		},
+		"V": {
+			"alt": "ၘ",
+			"altShift": "ၙ",
+			"base": "လ",
+			"shift": "ဠ"
+		},
+		"W": {
+			"base": "တ",
+			"shift": "ဝ"
+		},
+		"X": {
+			"base": "ထ",
+			"shift": "ဌ"
+		},
+		"Y": {
+			"base": "ပ",
+			"shift": "၌"
+		},
+		"Z": {
+			"base": "ဖ",
+			"shift": "ဇ"
+		}
+	},
+	"name": "Myanmar",
+	"physicalLayout": "iso"
+}

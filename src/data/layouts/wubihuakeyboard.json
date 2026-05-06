@@ -1,0 +1,293 @@
+{
+	"id": "wubihuakeyboard",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": ")",
+			"base": "0",
+			"shift": "）"
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "!",
+			"base": "1",
+			"shift": "！"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "@",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "#",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "$",
+			"base": "4",
+			"shift": "¥"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "%",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "^",
+			"base": "6",
+			"shift": "……"
+		},
+		"7": {
+			"alt": "7",
+			"altShift": "&",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "*",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "9",
+			"altShift": "(",
+			"base": "9",
+			"shift": "（"
+		},
+		"A": {
+			"alt": "a",
+			"altShift": "A",
+			"base": "a",
+			"shift": "A"
+		},
+		"B": {
+			"alt": "b",
+			"altShift": "B",
+			"base": "b",
+			"shift": "B"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "、",
+			"shift": "｜"
+		},
+		"C": {
+			"alt": "c",
+			"altShift": "C",
+			"base": "c",
+			"shift": "C"
+		},
+		"Comma": {
+			"alt": ",",
+			"altShift": "<",
+			"base": "，",
+			"shift": "《"
+		},
+		"D": {
+			"alt": "d",
+			"altShift": "D",
+			"base": "d",
+			"shift": "D"
+		},
+		"E": {
+			"alt": "e",
+			"altShift": "E",
+			"base": "e",
+			"shift": "E"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "+",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "f",
+			"altShift": "F",
+			"base": "f",
+			"shift": "F"
+		},
+		"G": {
+			"alt": "g",
+			"altShift": "G",
+			"base": "g",
+			"shift": "G"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "·",
+			"shift": "～"
+		},
+		"H": {
+			"alt": "h",
+			"altShift": "H",
+			"base": "h",
+			"shift": "H"
+		},
+		"I": {
+			"alt": "i",
+			"altShift": "I",
+			"base": "i",
+			"shift": "I"
+		},
+		"J": {
+			"alt": "j",
+			"altShift": "J",
+			"base": "j",
+			"shift": "J"
+		},
+		"K": {
+			"alt": "k",
+			"altShift": "K",
+			"base": "k",
+			"shift": "K"
+		},
+		"L": {
+			"alt": "l",
+			"altShift": "L",
+			"base": "l",
+			"shift": "L"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "【",
+			"shift": "「"
+		},
+		"M": {
+			"alt": "m",
+			"altShift": "M",
+			"base": "m",
+			"shift": "M"
+		},
+		"Minus": {
+			"alt": "—",
+			"altShift": "_",
+			"base": "-",
+			"shift": "——"
+		},
+		"N": {
+			"alt": "n",
+			"altShift": "N",
+			"base": "n",
+			"shift": "N"
+		},
+		"O": {
+			"alt": "o",
+			"altShift": "O",
+			"base": "o",
+			"shift": "O"
+		},
+		"P": {
+			"alt": "p",
+			"altShift": "P",
+			"base": "p",
+			"shift": "P"
+		},
+		"Period": {
+			"alt": ".",
+			"altShift": ">",
+			"base": "。",
+			"shift": "》"
+		},
+		"Q": {
+			"alt": "q",
+			"altShift": "Q",
+			"base": "q",
+			"shift": "Q"
+		},
+		"Quote": {
+			"alt": "'",
+			"altShift": "\"",
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "r",
+			"altShift": "R",
+			"base": "r",
+			"shift": "R"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "】",
+			"shift": "」"
+		},
+		"S": {
+			"alt": "s",
+			"altShift": "S",
+			"base": "s",
+			"shift": "S"
+		},
+		"Section": {
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": "；",
+			"shift": "："
+		},
+		"Slash": {
+			"alt": "\/",
+			"altShift": "?",
+			"base": "\/",
+			"shift": "？"
+		},
+		"T": {
+			"alt": "t",
+			"altShift": "T",
+			"base": "t",
+			"shift": "T"
+		},
+		"U": {
+			"alt": "u",
+			"altShift": "U",
+			"base": "u",
+			"shift": "U"
+		},
+		"V": {
+			"alt": "v",
+			"altShift": "V",
+			"base": "v",
+			"shift": "V"
+		},
+		"W": {
+			"alt": "w",
+			"altShift": "W",
+			"base": "w",
+			"shift": "W"
+		},
+		"X": {
+			"alt": "x",
+			"altShift": "X",
+			"base": "x",
+			"shift": "X"
+		},
+		"Y": {
+			"alt": "y",
+			"altShift": "Y",
+			"base": "y",
+			"shift": "Y"
+		},
+		"Z": {
+			"alt": "z",
+			"altShift": "Z",
+			"base": "z",
+			"shift": "Z"
+		}
+	},
+	"name": "Stroke – Simplified",
+	"physicalLayout": "iso"
+}

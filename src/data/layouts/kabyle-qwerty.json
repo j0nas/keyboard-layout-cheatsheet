@@ -1,0 +1,233 @@
+{
+	"id": "kabyle-qwerty",
+	"keymap": {
+		"0": {
+			"base": "0",
+			"shift": ")"
+		},
+		"1": {
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"base": "6",
+			"shift": "^"
+		},
+		"7": {
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"base": "9",
+			"shift": "("
+		},
+		"A": {
+			"base": "a",
+			"shift": "A"
+		},
+		"B": {
+			"base": "b",
+			"shift": "B"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "̌",
+			"shift": "̂"
+		},
+		"C": {
+			"base": "c",
+			"shift": "C"
+		},
+		"Comma": {
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"alt": "ḏ̣",
+			"altShift": "Ḏ̣",
+			"base": "d",
+			"shift": "D"
+		},
+		"E": {
+			"base": "e",
+			"shift": "E"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "+",
+			"base": "̆",
+			"shift": "́"
+		},
+		"F": {
+			"base": "f",
+			"shift": "F"
+		},
+		"G": {
+			"alt": "ġ",
+			"altShift": "Ġ",
+			"base": "g",
+			"shift": "G"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "ʷ",
+			"shift": "°"
+		},
+		"H": {
+			"base": "h",
+			"shift": "H"
+		},
+		"I": {
+			"base": "i",
+			"shift": "I"
+		},
+		"J": {
+			"base": "j",
+			"shift": "J"
+		},
+		"K": {
+			"base": "k",
+			"shift": "K"
+		},
+		"L": {
+			"alt": "γ",
+			"altShift": "Γ",
+			"base": "l",
+			"shift": "L"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "ɛ",
+			"shift": "Ɛ"
+		},
+		"M": {
+			"alt": "ñ",
+			"altShift": "Ñ",
+			"base": "m",
+			"shift": "M"
+		},
+		"Minus": {
+			"alt": "-",
+			"altShift": "_",
+			"base": "̧",
+			"shift": "̱"
+		},
+		"N": {
+			"alt": "ŋ",
+			"altShift": "Ŋ",
+			"base": "n",
+			"shift": "N"
+		},
+		"O": {
+			"base": "o",
+			"shift": "O"
+		},
+		"P": {
+			"alt": "ε",
+			"altShift": "Σ",
+			"base": "p",
+			"shift": "P"
+		},
+		"Period": {
+			"base": ".",
+			"shift": ">"
+		},
+		"Q": {
+			"base": "q",
+			"shift": "Q"
+		},
+		"Quote": {
+			"alt": "'",
+			"altShift": "\"",
+			"base": "ǝ",
+			"shift": "Ǝ"
+		},
+		"R": {
+			"base": "r",
+			"shift": "R"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "̣",
+			"shift": "̣"
+		},
+		"S": {
+			"alt": "ɗ",
+			"altShift": "Ɗ",
+			"base": "s",
+			"shift": "S"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": "ɣ",
+			"shift": "Ɣ"
+		},
+		"Slash": {
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"alt": "ƭ",
+			"altShift": "Ƭ",
+			"base": "t",
+			"shift": "T"
+		},
+		"U": {
+			"base": "u",
+			"shift": "U"
+		},
+		"V": {
+			"base": "v",
+			"shift": "V"
+		},
+		"W": {
+			"base": "w",
+			"shift": "W"
+		},
+		"X": {
+			"base": "x",
+			"shift": "X"
+		},
+		"Y": {
+			"base": "y",
+			"shift": "Y"
+		},
+		"Z": {
+			"base": "z",
+			"shift": "Z"
+		}
+	},
+	"name": "Kabyle – QWERTY",
+	"physicalLayout": "iso"
+}

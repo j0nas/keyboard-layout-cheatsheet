@@ -1,0 +1,295 @@
+{
+	"id": "dvorak-qwertycmd",
+	"keymap": {
+		"0": {
+			"alt": "º",
+			"altShift": "‚",
+			"base": "0",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "¡",
+			"altShift": "⁄",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "™",
+			"altShift": "€",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "£",
+			"altShift": "‹",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "¢",
+			"altShift": "›",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "∞",
+			"altShift": "ﬁ",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "§",
+			"altShift": "ﬂ",
+			"base": "6",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "¶",
+			"altShift": "‡",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "•",
+			"altShift": "°",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "ª",
+			"altShift": "·",
+			"base": "9",
+			"shift": "("
+		},
+		"A": {
+			"alt": "å",
+			"altShift": "Å",
+			"base": "a",
+			"shift": "A"
+		},
+		"B": {
+			"alt": "≈",
+			"altShift": "˛",
+			"base": "x",
+			"shift": "X"
+		},
+		"Backslash": {
+			"alt": "«",
+			"altShift": "»",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"alt": "∆",
+			"altShift": "Ô",
+			"base": "j",
+			"shift": "J"
+		},
+		"Comma": {
+			"alt": "∑",
+			"altShift": "„",
+			"base": "w",
+			"shift": "W"
+		},
+		"D": {
+			"alt": "´",
+			"altShift": "´",
+			"base": "e",
+			"shift": "E"
+		},
+		"E": {
+			"alt": "≥",
+			"altShift": "˘",
+			"base": ".",
+			"shift": ">"
+		},
+		"Equal": {
+			"alt": "‘",
+			"altShift": "’",
+			"base": "]",
+			"shift": "}"
+		},
+		"F": {
+			"alt": "¨",
+			"altShift": "¨",
+			"base": "u",
+			"shift": "U"
+		},
+		"G": {
+			"alt": "ˆ",
+			"altShift": "ˆ",
+			"base": "i",
+			"shift": "I"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "`",
+			"base": "`",
+			"shift": "~"
+		},
+		"H": {
+			"alt": "∂",
+			"altShift": "Î",
+			"base": "d",
+			"shift": "D"
+		},
+		"I": {
+			"alt": "ç",
+			"altShift": "Ç",
+			"base": "c",
+			"shift": "C"
+		},
+		"J": {
+			"alt": "˙",
+			"altShift": "Ó",
+			"base": "h",
+			"shift": "H"
+		},
+		"K": {
+			"alt": "†",
+			"altShift": "ˇ",
+			"base": "t",
+			"shift": "T"
+		},
+		"L": {
+			"alt": "˜",
+			"altShift": "˜",
+			"base": "n",
+			"shift": "N"
+		},
+		"LeftBracket": {
+			"alt": "÷",
+			"altShift": "¿",
+			"base": "\/",
+			"shift": "?"
+		},
+		"M": {
+			"alt": "µ",
+			"altShift": "Â",
+			"base": "m",
+			"shift": "M"
+		},
+		"Minus": {
+			"alt": "“",
+			"altShift": "”",
+			"base": "[",
+			"shift": "{"
+		},
+		"N": {
+			"alt": "∫",
+			"altShift": "ı",
+			"base": "b",
+			"shift": "B"
+		},
+		"O": {
+			"alt": "®",
+			"altShift": "‰",
+			"base": "r",
+			"shift": "R"
+		},
+		"P": {
+			"alt": "¬",
+			"altShift": "Ò",
+			"base": "l",
+			"shift": "L"
+		},
+		"Period": {
+			"alt": "√",
+			"altShift": "◊",
+			"base": "v",
+			"shift": "V"
+		},
+		"Q": {
+			"alt": "æ",
+			"altShift": "Æ",
+			"base": "'",
+			"shift": "\""
+		},
+		"Quote": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "-",
+			"shift": "_"
+		},
+		"R": {
+			"alt": "π",
+			"altShift": "∏",
+			"base": "p",
+			"shift": "P"
+		},
+		"RightBracket": {
+			"alt": "≠",
+			"altShift": "±",
+			"base": "=",
+			"shift": "+"
+		},
+		"S": {
+			"alt": "ø",
+			"altShift": "Ø",
+			"base": "o",
+			"shift": "O"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": "ß",
+			"altShift": "Í",
+			"base": "s",
+			"shift": "S"
+		},
+		"Slash": {
+			"alt": "Ω",
+			"altShift": "¸",
+			"base": "z",
+			"shift": "Z"
+		},
+		"T": {
+			"alt": "¥",
+			"altShift": "Á",
+			"base": "y",
+			"shift": "Y"
+		},
+		"U": {
+			"alt": "©",
+			"altShift": "˝",
+			"base": "g",
+			"shift": "G"
+		},
+		"V": {
+			"alt": "˚",
+			"altShift": "",
+			"base": "k",
+			"shift": "K"
+		},
+		"W": {
+			"alt": "≤",
+			"altShift": "¯",
+			"base": ",",
+			"shift": "<"
+		},
+		"X": {
+			"alt": "œ",
+			"altShift": "Œ",
+			"base": "q",
+			"shift": "Q"
+		},
+		"Y": {
+			"alt": "ƒ",
+			"altShift": "Ï",
+			"base": "f",
+			"shift": "F"
+		},
+		"Z": {
+			"alt": "…",
+			"altShift": "Ú",
+			"base": ";",
+			"shift": ":"
+		}
+	},
+	"name": "Dvorak – QWERTY ⌘",
+	"physicalLayout": "iso"
+}

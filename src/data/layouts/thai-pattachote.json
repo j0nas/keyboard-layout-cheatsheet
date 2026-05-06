@@ -1,0 +1,203 @@
+{
+	"id": "thai-pattachote",
+	"keymap": {
+		"0": {
+			"base": "๐",
+			"shift": ")"
+		},
+		"2": {
+			"alt": "™",
+			"base": "๒",
+			"shift": "\""
+		},
+		"3": {
+			"base": "๓",
+			"shift": "\/"
+		},
+		"4": {
+			"base": "๔",
+			"shift": ","
+		},
+		"5": {
+			"base": "๕",
+			"shift": "?"
+		},
+		"6": {
+			"base": "ู",
+			"shift": "ุ"
+		},
+		"7": {
+			"base": "๗",
+			"shift": "_"
+		},
+		"8": {
+			"alt": "•",
+			"base": "๘",
+			"shift": "."
+		},
+		"9": {
+			"base": "๙",
+			"shift": "("
+		},
+		"A": {
+			"base": "้",
+			"shift": "๋"
+		},
+		"B": {
+			"base": "ิ",
+			"shift": "ั"
+		},
+		"Backslash": {
+			"alt": "«",
+			"altShift": "»",
+			"base": "ฃ",
+			"shift": "ฅ"
+		},
+		"C": {
+			"base": "ล",
+			"shift": "ฐ"
+		},
+		"Comma": {
+			"base": "ะ",
+			"shift": "ฟ"
+		},
+		"D": {
+			"base": "ง",
+			"shift": "ำ"
+		},
+		"E": {
+			"base": "ย",
+			"shift": "ๆ"
+		},
+		"Equal": {
+			"base": "๖",
+			"shift": "%"
+		},
+		"F": {
+			"base": "ก",
+			"shift": "ณ"
+		},
+		"G": {
+			"alt": "©",
+			"base": "ั",
+			"shift": "์"
+		},
+		"Grave": {
+			"base": "฿"
+		},
+		"H": {
+			"base": "ี",
+			"shift": "ื"
+		},
+		"I": {
+			"base": "ม",
+			"shift": "ซ"
+		},
+		"J": {
+			"base": "า",
+			"shift": "ผ"
+		},
+		"K": {
+			"base": "น",
+			"shift": "ช"
+		},
+		"L": {
+			"base": "เ",
+			"shift": "โ"
+		},
+		"LeftBracket": {
+			"alt": "“",
+			"altShift": "”",
+			"base": "ใ",
+			"shift": "ฯ"
+		},
+		"M": {
+			"base": "ส",
+			"shift": "ฮ"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "๑",
+			"shift": "-"
+		},
+		"N": {
+			"base": "ค",
+			"shift": "ศ"
+		},
+		"O": {
+			"base": "ว",
+			"shift": "ถ"
+		},
+		"P": {
+			"base": "แ",
+			"shift": "ฒ"
+		},
+		"Period": {
+			"base": "จ",
+			"shift": "ฉ"
+		},
+		"Q": {
+			"base": "็",
+			"shift": "๊"
+		},
+		"Quote": {
+			"base": "ข",
+			"shift": "ฑ"
+		},
+		"R": {
+			"alt": "®",
+			"base": "อ",
+			"shift": "ญ"
+		},
+		"RightBracket": {
+			"alt": "‘",
+			"altShift": "’",
+			"base": "ฌ",
+			"shift": "ฦ"
+		},
+		"S": {
+			"base": "ท",
+			"shift": "ธ"
+		},
+		"Semicolon": {
+			"alt": "…",
+			"base": "ไ",
+			"shift": "ฆ"
+		},
+		"Slash": {
+			"base": "พ",
+			"shift": "ฬ"
+		},
+		"T": {
+			"base": "ร",
+			"shift": "ษ"
+		},
+		"U": {
+			"base": "ด",
+			"shift": "ฝ"
+		},
+		"V": {
+			"base": "ห",
+			"shift": "ภ"
+		},
+		"W": {
+			"base": "ต",
+			"shift": "ฤ"
+		},
+		"X": {
+			"base": "ป",
+			"shift": "ฏ"
+		},
+		"Y": {
+			"base": "่",
+			"shift": "ึ"
+		},
+		"Z": {
+			"base": "บ",
+			"shift": "ฎ"
+		}
+	},
+	"name": "Thai – Pattachote",
+	"physicalLayout": "iso"
+}

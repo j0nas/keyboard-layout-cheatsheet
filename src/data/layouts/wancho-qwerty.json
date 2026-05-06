@@ -1,0 +1,216 @@
+{
+	"id": "wancho-qwerty",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": "°",
+			"base": "𞋰",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "…",
+			"base": "𞋱",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "2",
+			"base": "𞋲",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "3",
+			"base": "𞋳",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "₹",
+			"base": "𞋴",
+			"shift": "𞋿"
+		},
+		"5": {
+			"alt": "5",
+			"base": "𞋵",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "6",
+			"base": "𞋶",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "7",
+			"base": "𞋷",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "•",
+			"base": "𞋸",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "9",
+			"base": "𞋹",
+			"shift": "("
+		},
+		"A": {
+			"base": "𞋀",
+			"shift": "𞋁"
+		},
+		"B": {
+			"base": "𞋂"
+		},
+		"Backslash": {
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"base": "𞋃",
+			"shift": "𞋠"
+		},
+		"Comma": {
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"base": "𞋄"
+		},
+		"E": {
+			"base": "𞋛",
+			"shift": "𞋧"
+		},
+		"Equal": {
+			"alt": "≠",
+			"altShift": "±",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"base": "𞋍"
+		},
+		"G": {
+			"base": "𞋅",
+			"shift": "𞋝"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "𞋬",
+			"shift": "𞋭"
+		},
+		"H": {
+			"base": "𞋚",
+			"shift": "𞋦"
+		},
+		"I": {
+			"base": "𞋜",
+			"shift": "𞋥"
+		},
+		"J": {
+			"base": "𞋐",
+			"shift": "𞋑"
+		},
+		"K": {
+			"alt": "",
+			"base": "𞋔",
+			"shift": "𞋙"
+		},
+		"L": {
+			"base": "𞋈",
+			"shift": "𞋟"
+		},
+		"LeftBracket": {
+			"base": "[",
+			"shift": "{"
+		},
+		"M": {
+			"base": "𞋘",
+			"shift": "𞋨"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"base": "𞋉",
+			"shift": "𞋢"
+		},
+		"O": {
+			"base": "𞋕",
+			"shift": "𞋖"
+		},
+		"P": {
+			"base": "𞋊",
+			"shift": "𞋇"
+		},
+		"Period": {
+			"base": ".",
+			"shift": ">"
+		},
+		"Q": {
+			"base": "𞋮",
+			"shift": "𞋯"
+		},
+		"Quote": {
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"base": "𞋗",
+			"shift": "𞋡"
+		},
+		"RightBracket": {
+			"base": "]",
+			"shift": "}"
+		},
+		"S": {
+			"base": "𞋎",
+			"shift": "𞋏"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "𞋬",
+			"shift": "𞋭"
+		},
+		"Semicolon": {
+			"base": ";",
+			"shift": ":"
+		},
+		"Slash": {
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"base": "𞋋",
+			"shift": "𞋌"
+		},
+		"U": {
+			"base": "𞋞",
+			"shift": "𞋪"
+		},
+		"V": {
+			"base": "𞋓"
+		},
+		"W": {
+			"base": "𞋒"
+		},
+		"X": {
+			"base": "𞋫"
+		},
+		"Y": {
+			"base": "𞋆",
+			"shift": "𞋩"
+		},
+		"Z": {
+			"base": "𞋣",
+			"shift": "𞋤"
+		}
+	},
+	"name": "Wancho – QWERTY",
+	"physicalLayout": "iso"
+}

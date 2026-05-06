@@ -1,0 +1,288 @@
+{
+	"id": "dhivehi-qwerty",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": ")",
+			"base": "0",
+			"shift": "("
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "!",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "@",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "#",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "$",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "%",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "^",
+			"base": "6",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "7",
+			"altShift": "&",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "*",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "9",
+			"altShift": "(",
+			"base": "9",
+			"shift": ")"
+		},
+		"A": {
+			"alt": "َ",
+			"altShift": "ً",
+			"base": "ަ",
+			"shift": "ާ"
+		},
+		"B": {
+			"alt": "ب",
+			"altShift": "ش",
+			"base": "ބ",
+			"shift": "ޝ"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"alt": "ث",
+			"base": "ޗ",
+			"shift": "ޘ"
+		},
+		"Comma": {
+			"alt": ",",
+			"altShift": "<",
+			"base": "،",
+			"shift": "<"
+		},
+		"D": {
+			"alt": "د",
+			"base": "ދ",
+			"shift": "ޑ"
+		},
+		"E": {
+			"alt": "ء",
+			"altShift": "ئ",
+			"base": "ެ",
+			"shift": "ޭ"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "ﷻ",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "ف",
+			"altShift": "ذ",
+			"base": "ފ",
+			"shift": "ޛ"
+		},
+		"G": {
+			"alt": "غ",
+			"base": "ގ",
+			"shift": "ޣ"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "`",
+			"shift": "~"
+		},
+		"H": {
+			"alt": "ه",
+			"altShift": "ح",
+			"base": "ހ",
+			"shift": "ޙ"
+		},
+		"I": {
+			"alt": "ِ",
+			"altShift": "ٍ",
+			"base": "ި",
+			"shift": "ީ"
+		},
+		"J": {
+			"alt": "ج",
+			"altShift": "ض",
+			"base": "ޖ",
+			"shift": "ޟ"
+		},
+		"K": {
+			"alt": "ك",
+			"altShift": "خ",
+			"base": "ކ",
+			"shift": "ޚ"
+		},
+		"L": {
+			"alt": "ل",
+			"base": "ލ",
+			"shift": "ޅ"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "]",
+			"shift": "}"
+		},
+		"M": {
+			"alt": "م",
+			"base": "މ",
+			"shift": "ޏ"
+		},
+		"Minus": {
+			"alt": "-",
+			"altShift": "ﷺ",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "ن",
+			"altShift": "ص",
+			"base": "ނ",
+			"shift": "ޞ"
+		},
+		"O": {
+			"alt": "أ",
+			"altShift": "آ",
+			"base": "ޮ",
+			"shift": "ޯ"
+		},
+		"P": {
+			"alt": "ّ",
+			"altShift": "﷽",
+			"base": "ޕ",
+			"shift": "الله"
+		},
+		"Period": {
+			"alt": ".",
+			"altShift": ">",
+			"base": ".",
+			"shift": ">"
+		},
+		"Q": {
+			"alt": "ْ",
+			"altShift": "ق",
+			"base": "ް",
+			"shift": "ޤ"
+		},
+		"Quote": {
+			"alt": "'",
+			"altShift": "\"",
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "ر",
+			"altShift": "ز",
+			"base": "ރ",
+			"shift": "ޜ"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "[",
+			"shift": "{"
+		},
+		"S": {
+			"alt": "س",
+			"altShift": "ش",
+			"base": "ސ",
+			"shift": "ށ"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": "؛",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "\/",
+			"altShift": "?",
+			"base": "\/",
+			"shift": "؟"
+		},
+		"T": {
+			"alt": "ت",
+			"altShift": "ة",
+			"base": "ތ",
+			"shift": "ޓ"
+		},
+		"U": {
+			"alt": "ُ",
+			"altShift": "ٌ",
+			"base": "ު",
+			"shift": "ޫ"
+		},
+		"V": {
+			"alt": "و",
+			"altShift": "ؤ",
+			"base": "ވ",
+			"shift": "ޥ"
+		},
+		"W": {
+			"alt": "ا",
+			"altShift": "ع",
+			"base": "އ",
+			"shift": "ޢ"
+		},
+		"X": {
+			"alt": "ط",
+			"base": "ޱ",
+			"shift": "ޠ"
+		},
+		"Y": {
+			"alt": "ي",
+			"altShift": "ى",
+			"base": "ޔ",
+			"shift": "ޔ"
+		},
+		"Z": {
+			"alt": "ظ",
+			"base": "ޒ",
+			"shift": "ޡ"
+		}
+	},
+	"name": "Dhivehi",
+	"physicalLayout": "iso"
+}

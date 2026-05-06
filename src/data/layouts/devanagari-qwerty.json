@@ -1,0 +1,262 @@
+{
+	"id": "devanagari-qwerty",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": "×",
+			"base": "०",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "…",
+			"base": "१",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "©",
+			"base": "२",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "®",
+			"base": "३",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "™",
+			"base": "४",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "’",
+			"base": "५",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "‘",
+			"base": "६",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "7",
+			"altShift": "–",
+			"base": "७",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "•",
+			"base": "८",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "9",
+			"altShift": "—",
+			"base": "९",
+			"shift": "("
+		},
+		"A": {
+			"alt": "अ",
+			"altShift": "आ",
+			"base": "ा",
+			"shift": "ा"
+		},
+		"B": {
+			"base": "ब",
+			"shift": "भ"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "ॊ",
+			"shift": "ऒ"
+		},
+		"C": {
+			"base": "च",
+			"shift": "छ"
+		},
+		"Comma": {
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"alt": "ड",
+			"altShift": "ढ",
+			"base": "द",
+			"shift": "ध"
+		},
+		"E": {
+			"alt": "ए",
+			"altShift": "ऐ",
+			"base": "े",
+			"shift": "ै"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "+",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "़",
+			"base": "्",
+			"shift": "़"
+		},
+		"G": {
+			"base": "ग",
+			"shift": "घ"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "ॆ",
+			"shift": "ऎ"
+		},
+		"H": {
+			"base": "ह",
+			"shift": "ः"
+		},
+		"I": {
+			"alt": "इ",
+			"altShift": "ई",
+			"base": "ि",
+			"shift": "ी"
+		},
+		"J": {
+			"alt": "ज्ञ",
+			"altShift": "ॹ",
+			"base": "ज",
+			"shift": "झ"
+		},
+		"K": {
+			"base": "क",
+			"shift": "ख"
+		},
+		"L": {
+			"alt": "ऴ",
+			"base": "ल",
+			"shift": "ळ"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "॰",
+			"shift": "["
+		},
+		"M": {
+			"alt": "ँ",
+			"altShift": "ॐ",
+			"base": "म",
+			"shift": "ं"
+		},
+		"Minus": {
+			"alt": "_",
+			"altShift": "−",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "ञ",
+			"altShift": "ऩ",
+			"base": "न",
+			"shift": "ण"
+		},
+		"O": {
+			"alt": "ओ",
+			"altShift": "औ",
+			"base": "ो",
+			"shift": "ौ"
+		},
+		"P": {
+			"base": "प",
+			"shift": "फ"
+		},
+		"Period": {
+			"alt": ".",
+			"altShift": "॥",
+			"base": "।",
+			"shift": ">"
+		},
+		"Q": {
+			"alt": "ऍ",
+			"altShift": "ऑ",
+			"base": "ॅ",
+			"shift": "ॉ"
+		},
+		"Quote": {
+			"alt": "ऽ",
+			"altShift": "\"",
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "ऋ",
+			"altShift": "ऱ",
+			"base": "र",
+			"shift": "ृ"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "₹",
+			"shift": "]"
+		},
+		"S": {
+			"alt": "श्र",
+			"altShift": "ष",
+			"base": "स",
+			"shift": "श"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": ";",
+			"shift": ":"
+		},
+		"Slash": {
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"alt": "ट",
+			"altShift": "ठ",
+			"base": "त",
+			"shift": "थ"
+		},
+		"U": {
+			"alt": "उ",
+			"altShift": "ऊ",
+			"base": "ु",
+			"shift": "ू"
+		},
+		"V": {
+			"base": "व"
+		},
+		"W": {
+			"base": "अ",
+			"shift": "आ"
+		},
+		"X": {
+			"base": "ष",
+			"shift": "क्ष"
+		},
+		"Y": {
+			"alt": "य़",
+			"base": "य",
+			"shift": "य़"
+		},
+		"Z": {
+			"altShift": "ऒ",
+			"base": "ङ",
+			"shift": "ँ"
+		}
+	},
+	"name": "Devanagari – QWERTY",
+	"physicalLayout": "iso"
+}

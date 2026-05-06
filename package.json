@@ -1,0 +1,41 @@
+{
+	"name": "keyboard-layout-cheatsheet",
+	"type": "module",
+	"version": "0.0.1",
+	"packageManager": "pnpm@11.0.6",
+	"engines": {
+		"node": ">=22.12.0",
+		"pnpm": ">=11"
+	},
+	"scripts": {
+		"dev": "astro dev",
+		"build": "astro build",
+		"preview": "astro preview",
+		"astro": "astro",
+		"check": "astro check",
+		"test": "vitest run",
+		"test:watch": "vitest",
+		"lint": "biome check",
+		"lint:fix": "biome check --write",
+		"format": "biome format --write",
+		"verify": "pnpm lint && pnpm check && pnpm test",
+		"gen:mac-layouts": "swift tools/dump-mac-layouts.swift src/data/layouts"
+	},
+	"dependencies": {
+		"@astrojs/react": "^5.0.4",
+		"@tailwindcss/vite": "^4.2.4",
+		"@types/react": "^19.2.14",
+		"@types/react-dom": "^19.2.3",
+		"astro": "^6.2.2",
+		"react": "^19.2.5",
+		"react-dom": "^19.2.5",
+		"tailwindcss": "^4.2.4"
+	},
+	"devDependencies": {
+		"@astrojs/check": "^0.9.9",
+		"@biomejs/biome": "2.4.14",
+		"@vitest/ui": "^4.1.5",
+		"typescript": "^6.0.3",
+		"vitest": "^4.1.5"
+	}
+}

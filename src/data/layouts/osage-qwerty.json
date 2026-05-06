@@ -1,0 +1,265 @@
+{
+	"id": "osage-qwerty",
+	"keymap": {
+		"0": {
+			"alt": "»",
+			"altShift": "»",
+			"base": "0",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "¡",
+			"altShift": "¡",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "™",
+			"altShift": "™",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "£",
+			"altShift": "£",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "¢",
+			"altShift": "¢",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "∞",
+			"altShift": "∞",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "§",
+			"altShift": "§",
+			"base": "6",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "¶",
+			"altShift": "¶",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "•",
+			"altShift": "•",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "«",
+			"altShift": "«",
+			"base": "9",
+			"shift": "("
+		},
+		"A": {
+			"alt": "𐓚",
+			"altShift": "𐒲",
+			"base": "𐓘",
+			"shift": "𐒰"
+		},
+		"B": {
+			"base": "𐓜",
+			"shift": "𐒴"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "\\",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"alt": "𐓞",
+			"altShift": "𐒶",
+			"base": "𐓝",
+			"shift": "𐒵"
+		},
+		"Comma": {
+			"alt": "<",
+			"altShift": "<",
+			"base": ",",
+			"shift": ";"
+		},
+		"D": {
+			"alt": "𐓱",
+			"altShift": "𐓉",
+			"base": "𐓰",
+			"shift": "𐓈"
+		},
+		"E": {
+			"alt": "𐓠",
+			"altShift": "𐒸",
+			"base": "𐓟",
+			"shift": "𐒷"
+		},
+		"Equal": {
+			"alt": "≠",
+			"altShift": "≠",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "͘",
+			"altShift": "͘",
+			"base": "͘",
+			"shift": "͘"
+		},
+		"G": {
+			"base": "𐓢",
+			"shift": "𐒺"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "`",
+			"base": "`",
+			"shift": "~"
+		},
+		"H": {
+			"base": "𐓡",
+			"shift": "𐒹"
+		},
+		"I": {
+			"alt": "𐓙",
+			"altShift": "𐒱",
+			"base": "𐓣",
+			"shift": "𐒻"
+		},
+		"J": {
+			"alt": "𐓥",
+			"altShift": "𐒽",
+			"base": "𐓛",
+			"shift": "𐒳"
+		},
+		"K": {
+			"base": "𐓤",
+			"shift": "𐒼"
+		},
+		"L": {
+			"base": "𐓧",
+			"shift": "𐒿"
+		},
+		"LeftBracket": {
+			"alt": "̋",
+			"altShift": "{",
+			"base": "̋",
+			"shift": "̋"
+		},
+		"M": {
+			"base": "𐓨",
+			"shift": "𐓀"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "–",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"base": "𐓩",
+			"shift": "𐓁"
+		},
+		"O": {
+			"alt": "𐓫",
+			"altShift": "𐓃",
+			"base": "𐓪",
+			"shift": "𐓂"
+		},
+		"P": {
+			"alt": "𐓭",
+			"altShift": "𐓅",
+			"base": "𐓬",
+			"shift": "𐓄"
+		},
+		"Period": {
+			"alt": ">",
+			"altShift": ">",
+			"base": ".",
+			"shift": ":"
+		},
+		"Q": {
+			"base": "𐓦",
+			"shift": "𐒾"
+		},
+		"Quote": {
+			"alt": "'",
+			"altShift": "'",
+			"base": "ʼ",
+			"shift": "ʼ"
+		},
+		"R": {
+			"alt": "𐓳",
+			"altShift": "𐓋",
+			"base": "𐓲",
+			"shift": "𐓊"
+		},
+		"RightBracket": {
+			"alt": "́",
+			"altShift": "}",
+			"base": "́",
+			"shift": "́"
+		},
+		"S": {
+			"base": "𐓮",
+			"shift": "𐓆"
+		},
+		"Section": {
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": "̄",
+			"altShift": "̄",
+			"base": "̄",
+			"shift": "̄"
+		},
+		"Slash": {
+			"alt": "\/",
+			"altShift": "\/",
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"alt": "𐓴",
+			"altShift": "𐓌",
+			"base": "𐓵",
+			"shift": "𐓍"
+		},
+		"U": {
+			"base": "𐓶",
+			"shift": "𐓎"
+		},
+		"V": {
+			"base": "𐓯",
+			"shift": "𐓇"
+		},
+		"W": {
+			"base": "𐓷",
+			"shift": "𐓏"
+		},
+		"X": {
+			"alt": "𐓹",
+			"altShift": "𐓑",
+			"base": "𐓸",
+			"shift": "𐓐"
+		},
+		"Y": {
+			"base": "𐓻",
+			"shift": "𐓓"
+		},
+		"Z": {
+			"base": "𐓺",
+			"shift": "𐓒"
+		}
+	},
+	"name": "Osage – QWERTY",
+	"physicalLayout": "iso"
+}

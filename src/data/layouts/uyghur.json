@@ -1,0 +1,236 @@
+{
+	"id": "uyghur",
+	"keymap": {
+		"0": {
+			"alt": "⓪",
+			"altShift": "٠",
+			"base": "0",
+			"shift": "("
+		},
+		"1": {
+			"alt": "①",
+			"altShift": "١",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "②",
+			"altShift": "٢",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "③",
+			"altShift": "٣",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "④",
+			"altShift": "٤",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "⑤",
+			"altShift": "٥",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "⑥",
+			"altShift": "٦",
+			"base": "6",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "⑦",
+			"altShift": "٧",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "⑧",
+			"altShift": "٨",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "⑨",
+			"altShift": "٩",
+			"base": "9",
+			"shift": ")"
+		},
+		"A": {
+			"alt": "α",
+			"base": "ھ"
+		},
+		"B": {
+			"alt": "】",
+			"base": "ب"
+		},
+		"Backslash": {
+			"alt": "±",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"alt": "〗",
+			"base": "غ"
+		},
+		"Comma": {
+			"alt": "≤",
+			"base": "،",
+			"shift": ">"
+		},
+		"D": {
+			"alt": "γ",
+			"base": "د",
+			"shift": "ژ"
+		},
+		"E": {
+			"alt": "¥",
+			"altShift": "€",
+			"base": "ې"
+		},
+		"Equal": {
+			"alt": "≠",
+			"altShift": "+",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "δ",
+			"base": "ا",
+			"shift": "ف"
+		},
+		"G": {
+			"alt": "ε",
+			"base": "ە",
+			"shift": "گ"
+		},
+		"Grave": {
+			"alt": "≈",
+			"base": "`",
+			"shift": "~"
+		},
+		"H": {
+			"alt": "ζ",
+			"base": "ى",
+			"shift": "خ"
+		},
+		"I": {
+			"alt": "κ",
+			"base": "ڭ"
+		},
+		"J": {
+			"alt": "η",
+			"base": "ق",
+			"shift": "ج"
+		},
+		"K": {
+			"alt": "θ",
+			"base": "ك",
+			"shift": "ۆ"
+		},
+		"L": {
+			"alt": "λ",
+			"base": "ل",
+			"shift": "لا"
+		},
+		"LeftBracket": {
+			"alt": "〔",
+			"base": "]",
+			"shift": "}"
+		},
+		"M": {
+			"alt": "∑",
+			"base": "م"
+		},
+		"Minus": {
+			"alt": "ـ",
+			"altShift": "_",
+			"base": "-",
+			"shift": "—"
+		},
+		"N": {
+			"alt": "№",
+			"base": "ن"
+		},
+		"O": {
+			"alt": "∞",
+			"base": "و"
+		},
+		"P": {
+			"alt": "§",
+			"base": "پ"
+		},
+		"Period": {
+			"alt": "≥",
+			"base": ".",
+			"shift": "<"
+		},
+		"Q": {
+			"alt": "“",
+			"base": "چ"
+		},
+		"Quote": {
+			"alt": "…",
+			"base": "»",
+			"shift": "«"
+		},
+		"R": {
+			"alt": "‰",
+			"base": "ر"
+		},
+		"RightBracket": {
+			"alt": "〕",
+			"base": "[",
+			"shift": "{"
+		},
+		"S": {
+			"alt": "β",
+			"base": "س"
+		},
+		"Semicolon": {
+			"alt": "μ",
+			"base": "؛",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "\/",
+			"base": "ئ‍",
+			"shift": "؟"
+		},
+		"T": {
+			"alt": "لله",
+			"base": "ت"
+		},
+		"U": {
+			"alt": "÷",
+			"base": "ۇ"
+		},
+		"V": {
+			"alt": "【",
+			"base": "ۈ"
+		},
+		"W": {
+			"alt": "”",
+			"base": "ۋ"
+		},
+		"X": {
+			"alt": "〖",
+			"base": "ش"
+		},
+		"Y": {
+			"alt": "×",
+			"base": "ي"
+		},
+		"Z": {
+			"alt": "※",
+			"base": "ز"
+		}
+	},
+	"name": "Uyghur",
+	"physicalLayout": "iso"
+}

@@ -1,0 +1,295 @@
+{
+	"id": "kazakh",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": ")",
+			"base": "қ",
+			"shift": "Қ"
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "!",
+			"base": "\"",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "@",
+			"base": "ә",
+			"shift": "Ә"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "#",
+			"base": "і",
+			"shift": "І"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "$",
+			"base": "ң",
+			"shift": "Ң"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "%",
+			"base": "ғ",
+			"shift": "Ғ"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "^",
+			"base": ",",
+			"shift": ";"
+		},
+		"7": {
+			"alt": "7",
+			"altShift": "&",
+			"base": ".",
+			"shift": ":"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "*",
+			"base": "ү",
+			"shift": "Ү"
+		},
+		"9": {
+			"alt": "9",
+			"altShift": "(",
+			"base": "ұ",
+			"shift": "Ұ"
+		},
+		"A": {
+			"alt": "ƒ",
+			"altShift": "ƒ",
+			"base": "ф",
+			"shift": "Ф"
+		},
+		"B": {
+			"alt": "и",
+			"altShift": "И",
+			"base": "и",
+			"shift": "И"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "ё",
+			"shift": "Ё"
+		},
+		"C": {
+			"alt": "≠",
+			"altShift": "≠",
+			"base": "с",
+			"shift": "С"
+		},
+		"Comma": {
+			"alt": "≤",
+			"altShift": "<",
+			"base": "б",
+			"shift": "Б"
+		},
+		"D": {
+			"alt": "ћ",
+			"altShift": "Ћ",
+			"base": "в",
+			"shift": "В"
+		},
+		"E": {
+			"alt": "ў",
+			"altShift": "Ў",
+			"base": "у",
+			"shift": "У"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "+",
+			"base": "һ",
+			"shift": "Һ"
+		},
+		"F": {
+			"alt": "÷",
+			"altShift": "÷",
+			"base": "а",
+			"shift": "А"
+		},
+		"G": {
+			"alt": "©",
+			"altShift": "©",
+			"base": "п",
+			"shift": "П"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "[",
+			"shift": "]"
+		},
+		"H": {
+			"alt": "{",
+			"altShift": "}",
+			"base": "р",
+			"shift": "Р"
+		},
+		"I": {
+			"alt": "ѕ",
+			"altShift": "Ѕ",
+			"base": "ш",
+			"shift": "Ш"
+		},
+		"J": {
+			"alt": "°",
+			"altShift": "•",
+			"base": "о",
+			"shift": "О"
+		},
+		"K": {
+			"alt": "љ",
+			"altShift": "Љ",
+			"base": "л",
+			"shift": "Л"
+		},
+		"L": {
+			"alt": "∆",
+			"altShift": "∆",
+			"base": "д",
+			"shift": "Д"
+		},
+		"LeftBracket": {
+			"alt": "“",
+			"altShift": "”",
+			"base": "х",
+			"shift": "Х"
+		},
+		"M": {
+			"alt": "~",
+			"altShift": "~",
+			"base": "ь",
+			"shift": "Ь"
+		},
+		"Minus": {
+			"alt": "-",
+			"altShift": "_",
+			"base": "ө",
+			"shift": "Ө"
+		},
+		"N": {
+			"alt": "₸",
+			"altShift": "₸",
+			"base": "т",
+			"shift": "Т"
+		},
+		"O": {
+			"alt": "'",
+			"altShift": "„",
+			"base": "щ",
+			"shift": "Щ"
+		},
+		"P": {
+			"alt": "‘",
+			"altShift": "’",
+			"base": "з",
+			"shift": "З"
+		},
+		"Period": {
+			"alt": "≥",
+			"altShift": ">",
+			"base": "ю",
+			"shift": "Ю"
+		},
+		"Q": {
+			"alt": "ј",
+			"altShift": "Ј",
+			"base": "й",
+			"shift": "Й"
+		},
+		"Quote": {
+			"alt": "є",
+			"altShift": "Є",
+			"base": "э",
+			"shift": "Э"
+		},
+		"R": {
+			"alt": "ќ",
+			"altShift": "Ќ",
+			"base": "к",
+			"shift": "К"
+		},
+		"RightBracket": {
+			"alt": "ґ",
+			"altShift": "Ґ",
+			"base": "ъ",
+			"shift": "Ъ"
+		},
+		"S": {
+			"alt": "ы",
+			"altShift": "Ы",
+			"base": "ы",
+			"shift": "Ы"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "(",
+			"shift": ")"
+		},
+		"Semicolon": {
+			"alt": "…",
+			"altShift": "…",
+			"base": "ж",
+			"shift": "Ж"
+		},
+		"Slash": {
+			"alt": "ї",
+			"altShift": "Ї",
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"alt": "€",
+			"altShift": "†",
+			"base": "е",
+			"shift": "Е"
+		},
+		"U": {
+			"alt": "ѓ",
+			"altShift": "Ѓ",
+			"base": "г",
+			"shift": "Г"
+		},
+		"V": {
+			"alt": "µ",
+			"altShift": "µ",
+			"base": "м",
+			"shift": "М"
+		},
+		"W": {
+			"alt": "џ",
+			"altShift": "Џ",
+			"base": "ц",
+			"shift": "Ц"
+		},
+		"X": {
+			"alt": "≈",
+			"altShift": "≈",
+			"base": "ч",
+			"shift": "Ч"
+		},
+		"Y": {
+			"alt": "њ",
+			"altShift": "Њ",
+			"base": "н",
+			"shift": "Н"
+		},
+		"Z": {
+			"alt": "ђ",
+			"altShift": "Ђ",
+			"base": "я",
+			"shift": "Я"
+		}
+	},
+	"name": "Kazakh",
+	"physicalLayout": "iso"
+}

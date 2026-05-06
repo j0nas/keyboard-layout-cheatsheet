@@ -1,0 +1,271 @@
+{
+	"id": "inuktitut-nunavut",
+	"keymap": {
+		"0": {
+			"alt": "]",
+			"base": "ᔾ",
+			"shift": "0"
+		},
+		"1": {
+			"alt": "!",
+			"base": "ᖕ",
+			"shift": "1"
+		},
+		"2": {
+			"alt": "@",
+			"base": "ᑉ",
+			"shift": "2"
+		},
+		"3": {
+			"alt": "#",
+			"base": "ᕐ",
+			"shift": "3"
+		},
+		"4": {
+			"alt": "$",
+			"base": "ᒃ",
+			"shift": "4"
+		},
+		"5": {
+			"alt": "^",
+			"base": "ᑦ",
+			"shift": "5"
+		},
+		"6": {
+			"alt": "%",
+			"base": "ᖅ",
+			"shift": "6"
+		},
+		"7": {
+			"alt": "&",
+			"base": "ᒻ",
+			"shift": "7"
+		},
+		"8": {
+			"alt": "*",
+			"base": "ᓐ",
+			"shift": "8"
+		},
+		"9": {
+			"alt": "[",
+			"base": "ᓪ",
+			"shift": "9"
+		},
+		"A": {
+			"alt": "ᖒ",
+			"altShift": "ᒎ",
+			"base": "ᖑ",
+			"shift": "ᒍ"
+		},
+		"B": {
+			"alt": "ᑖ",
+			"base": "ᑕ",
+			"shift": "ᕼ"
+		},
+		"Backslash": {
+			"alt": "•",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"alt": "ᖄ",
+			"altShift": "ᕌ",
+			"base": "ᖃ",
+			"shift": "ᕋ"
+		},
+		"Comma": {
+			"alt": "᙭",
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"alt": "ᖂ",
+			"altShift": "ᕉ",
+			"base": "ᖁ",
+			"shift": "ᕈ"
+		},
+		"E": {
+			"alt": "ᖀ",
+			"altShift": "ᕇ",
+			"base": "ᕿ",
+			"shift": "ᕆ"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "—",
+			"base": "ᕝ",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "ᑰ",
+			"altShift": "ᕖ",
+			"base": "ᑯ",
+			"shift": "ᕕ"
+		},
+		"G": {
+			"alt": "ᑑ",
+			"base": "ᑐ",
+			"shift": "("
+		},
+		"Grave": {
+			"alt": "˙",
+			"altShift": "˙",
+			"base": "˙",
+			"shift": "˙"
+		},
+		"H": {
+			"alt": "ᓲ",
+			"base": "ᓱ",
+			"shift": ")"
+		},
+		"I": {
+			"alt": "ᓃ",
+			"altShift": "ᖥ",
+			"base": "ᓂ",
+			"shift": "ᖤ"
+		},
+		"J": {
+			"alt": "ᒨ",
+			"altShift": "ᔫ",
+			"base": "ᒧ",
+			"shift": "ᔪ"
+		},
+		"K": {
+			"alt": "ᓅ",
+			"altShift": "ᕘ",
+			"base": "ᓄ",
+			"shift": "ᕗ"
+		},
+		"L": {
+			"alt": "ᓘ",
+			"altShift": "ᖣ",
+			"base": "ᓗ",
+			"shift": "ᖢ"
+		},
+		"LeftBracket": {
+			"base": "ᒡ",
+			"shift": "ᔅ"
+		},
+		"M": {
+			"alt": "ᒫ",
+			"altShift": "ᓛ",
+			"base": "ᒪ",
+			"shift": "ᓚ"
+		},
+		"Minus": {
+			"alt": "–",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "ᓵ",
+			"altShift": "ᓈ",
+			"base": "ᓴ",
+			"shift": "ᓇ"
+		},
+		"O": {
+			"alt": "ᓖ",
+			"altShift": "ᖡ",
+			"base": "ᓕ",
+			"shift": "ᖠ"
+		},
+		"P": {
+			"alt": "ᔩ",
+			"base": "ᔨ",
+			"shift": "ᖦ"
+		},
+		"Period": {
+			"alt": "ł",
+			"base": ".",
+			"shift": ">"
+		},
+		"Q": {
+			"alt": "ᖐ",
+			"altShift": "ᒌ",
+			"base": "ᖏ",
+			"shift": "ᒋ"
+		},
+		"Quote": {
+			"alt": "‘",
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "ᑮ",
+			"base": "ᑭ",
+			"shift": "ᖕ"
+		},
+		"RightBracket": {
+			"alt": "˙",
+			"altShift": "˙",
+			"base": "˙",
+			"shift": "˙"
+		},
+		"S": {
+			"alt": "ᐆ",
+			"altShift": "ᐴ",
+			"base": "ᐅ",
+			"shift": "ᐳ"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "~"
+		},
+		"Semicolon": {
+			"alt": "…",
+			"base": ";",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "ᔮ",
+			"altShift": "ᕚ",
+			"base": "ᔭ",
+			"shift": "ᕙ"
+		},
+		"T": {
+			"alt": "ᑏ",
+			"altShift": "ᙲ",
+			"base": "ᑎ",
+			"shift": "ᙱ"
+		},
+		"U": {
+			"alt": "ᒦ",
+			"altShift": "ᙶ",
+			"base": "ᒥ",
+			"shift": "ᙵ"
+		},
+		"V": {
+			"alt": "ᑳ",
+			"base": "ᑲ",
+			"shift": "?"
+		},
+		"W": {
+			"alt": "ᐄ",
+			"altShift": "ᐲ",
+			"base": "ᐃ",
+			"shift": "ᐱ"
+		},
+		"X": {
+			"alt": "ᐋ",
+			"altShift": "ᐹ",
+			"base": "ᐊ",
+			"shift": "ᐸ"
+		},
+		"Y": {
+			"alt": "ᓰ",
+			"altShift": "ᙴ",
+			"base": "ᓯ",
+			"shift": "ᙳ"
+		},
+		"Z": {
+			"alt": "ᖔ",
+			"altShift": "ᒑ",
+			"base": "ᖓ",
+			"shift": "ᒐ"
+		}
+	},
+	"name": "Inuktitut – Nunavut",
+	"physicalLayout": "iso"
+}

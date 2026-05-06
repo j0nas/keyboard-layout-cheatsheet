@@ -1,0 +1,242 @@
+{
+	"id": "kannada-qwerty",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": "×",
+			"base": "೦",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "…",
+			"base": "೧",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "©",
+			"base": "೨",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "®",
+			"base": "೩",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "™",
+			"base": "೪",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "’",
+			"base": "೫",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "‘",
+			"base": "೬",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "7",
+			"altShift": "–",
+			"base": "೭",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "•",
+			"base": "೮",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "9",
+			"altShift": "—",
+			"base": "೯",
+			"shift": "("
+		},
+		"A": {
+			"alt": "ಅ",
+			"altShift": "ಆ",
+			"base": "ಾ",
+			"shift": "ಾ"
+		},
+		"B": {
+			"base": "ಬ",
+			"shift": "ಭ"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "ೊ",
+			"shift": "ಒ"
+		},
+		"C": {
+			"base": "ಚ",
+			"shift": "ಛ"
+		},
+		"Comma": {
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"alt": "ಡ",
+			"altShift": "ಢ",
+			"base": "ದ",
+			"shift": "ಧ"
+		},
+		"E": {
+			"alt": "ಏ",
+			"altShift": "ಐ",
+			"base": "ೇ",
+			"shift": "ೈ"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "+",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"base": "್"
+		},
+		"G": {
+			"base": "ಗ",
+			"shift": "ಘ"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "ೆ",
+			"shift": "ಎ"
+		},
+		"H": {
+			"base": "ಹ",
+			"shift": "ಃ"
+		},
+		"I": {
+			"alt": "ಇ",
+			"altShift": "ಈ",
+			"base": "ಿ",
+			"shift": "ೀ"
+		},
+		"J": {
+			"alt": "ಜ್ಞ",
+			"base": "ಜ",
+			"shift": "ಝ"
+		},
+		"K": {
+			"base": "ಕ",
+			"shift": "ಖ"
+		},
+		"L": {
+			"base": "ಲ",
+			"shift": "ಳ"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"shift": "["
+		},
+		"M": {
+			"base": "ಮ",
+			"shift": "ಂ"
+		},
+		"Minus": {
+			"alt": "_",
+			"altShift": "−",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "ಞ",
+			"base": "ನ",
+			"shift": "ಣ"
+		},
+		"O": {
+			"alt": "ಓ",
+			"altShift": "ಔ",
+			"base": "ೋ",
+			"shift": "ೌ"
+		},
+		"P": {
+			"base": "ಪ",
+			"shift": "ಫ"
+		},
+		"Period": {
+			"alt": ".",
+			"shift": ">"
+		},
+		"Quote": {
+			"altShift": "\"",
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "ಋ",
+			"altShift": "ಱ",
+			"base": "ರ",
+			"shift": "ೃ"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "ರ",
+			"shift": "]"
+		},
+		"S": {
+			"alt": "ಶ್ರ",
+			"altShift": "ಷ",
+			"base": "ಸ",
+			"shift": "ಶ"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": ";",
+			"shift": ":"
+		},
+		"Slash": {
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"alt": "ಟ",
+			"altShift": "ಠ",
+			"base": "ತ",
+			"shift": "ಥ"
+		},
+		"U": {
+			"alt": "ಉ",
+			"altShift": "ಊ",
+			"base": "ು",
+			"shift": "ೂ"
+		},
+		"V": {
+			"base": "ವ"
+		},
+		"W": {
+			"base": "ಅ",
+			"shift": "ಆ"
+		},
+		"X": {
+			"base": "ಷ",
+			"shift": "ಕ್ಷ"
+		},
+		"Y": {
+			"base": "ಯ"
+		},
+		"Z": {
+			"altShift": "ಒ",
+			"base": "ಙ"
+		}
+	},
+	"name": "Kannada – QWERTY",
+	"physicalLayout": "iso"
+}

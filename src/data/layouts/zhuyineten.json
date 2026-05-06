@@ -1,0 +1,293 @@
+{
+	"id": "zhuyineten",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": ")",
+			"base": "ㄤ",
+			"shift": "）"
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "!",
+			"base": "˙",
+			"shift": "！"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "@",
+			"base": "ˊ",
+			"shift": "＠"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "#",
+			"base": "ˇ",
+			"shift": "＃"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "$",
+			"base": "ˋ",
+			"shift": "＄"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "%",
+			"base": "5",
+			"shift": "％"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "^",
+			"base": "6",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "7",
+			"altShift": "&",
+			"base": "ㄑ",
+			"shift": "＆"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "*",
+			"base": "ㄢ",
+			"shift": "＊"
+		},
+		"9": {
+			"alt": "9",
+			"altShift": "(",
+			"base": "ㄣ",
+			"shift": "（"
+		},
+		"A": {
+			"alt": "a",
+			"altShift": "A",
+			"base": "ㄚ",
+			"shift": "ａ"
+		},
+		"B": {
+			"alt": "b",
+			"altShift": "B",
+			"base": "ㄅ",
+			"shift": "ｂ"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "、",
+			"shift": "｜"
+		},
+		"C": {
+			"alt": "c",
+			"altShift": "C",
+			"base": "ㄒ",
+			"shift": "ｃ"
+		},
+		"Comma": {
+			"alt": ",",
+			"altShift": "<",
+			"base": "ㄓ",
+			"shift": "，"
+		},
+		"D": {
+			"alt": "d",
+			"altShift": "D",
+			"base": "ㄉ",
+			"shift": "ｄ"
+		},
+		"E": {
+			"alt": "e",
+			"altShift": "E",
+			"base": "ㄧ",
+			"shift": "ｅ"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "+",
+			"base": "ㄦ",
+			"shift": "＋"
+		},
+		"F": {
+			"alt": "f",
+			"altShift": "F",
+			"base": "ㄈ",
+			"shift": "ｆ"
+		},
+		"G": {
+			"alt": "g",
+			"altShift": "G",
+			"base": "ㄐ",
+			"shift": "ｇ"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "·",
+			"shift": "～"
+		},
+		"H": {
+			"alt": "h",
+			"altShift": "H",
+			"base": "ㄏ",
+			"shift": "ｈ"
+		},
+		"I": {
+			"alt": "i",
+			"altShift": "I",
+			"base": "ㄞ",
+			"shift": "ｉ"
+		},
+		"J": {
+			"alt": "j",
+			"altShift": "J",
+			"base": "ㄖ",
+			"shift": "ｊ"
+		},
+		"K": {
+			"alt": "k",
+			"altShift": "K",
+			"base": "ㄎ",
+			"shift": "ｋ"
+		},
+		"L": {
+			"alt": "l",
+			"altShift": "L",
+			"base": "ㄌ",
+			"shift": "ｌ"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "「",
+			"shift": "『"
+		},
+		"M": {
+			"alt": "m",
+			"altShift": "M",
+			"base": "ㄇ",
+			"shift": "ｍ"
+		},
+		"Minus": {
+			"alt": "—",
+			"altShift": "_",
+			"base": "ㄥ",
+			"shift": "＿"
+		},
+		"N": {
+			"alt": "n",
+			"altShift": "N",
+			"base": "ㄋ",
+			"shift": "ｎ"
+		},
+		"O": {
+			"alt": "o",
+			"altShift": "O",
+			"base": "ㄛ",
+			"shift": "ｏ"
+		},
+		"P": {
+			"alt": "p",
+			"altShift": "P",
+			"base": "ㄆ",
+			"shift": "ｐ"
+		},
+		"Period": {
+			"alt": ".",
+			"altShift": ">",
+			"base": "ㄔ",
+			"shift": "。"
+		},
+		"Q": {
+			"alt": "q",
+			"altShift": "Q",
+			"base": "ㄟ",
+			"shift": "ｑ"
+		},
+		"Quote": {
+			"alt": "'",
+			"altShift": "\"",
+			"base": "ㄘ",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "r",
+			"altShift": "R",
+			"base": "ㄜ",
+			"shift": "ｒ"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "」",
+			"shift": "』"
+		},
+		"S": {
+			"alt": "s",
+			"altShift": "S",
+			"base": "ㄙ",
+			"shift": "ｓ"
+		},
+		"Section": {
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": "ㄗ",
+			"shift": "："
+		},
+		"Slash": {
+			"alt": "\/",
+			"altShift": "?",
+			"base": "ㄕ",
+			"shift": "？"
+		},
+		"T": {
+			"alt": "t",
+			"altShift": "T",
+			"base": "ㄊ",
+			"shift": "ｔ"
+		},
+		"U": {
+			"alt": "u",
+			"altShift": "U",
+			"base": "ㄩ",
+			"shift": "ｕ"
+		},
+		"V": {
+			"alt": "v",
+			"altShift": "V",
+			"base": "ㄍ",
+			"shift": "ｖ"
+		},
+		"W": {
+			"alt": "w",
+			"altShift": "W",
+			"base": "ㄝ",
+			"shift": "ｗ"
+		},
+		"X": {
+			"alt": "x",
+			"altShift": "X",
+			"base": "ㄨ",
+			"shift": "ｘ"
+		},
+		"Y": {
+			"alt": "y",
+			"altShift": "Y",
+			"base": "ㄡ",
+			"shift": "ｙ"
+		},
+		"Z": {
+			"alt": "z",
+			"altShift": "Z",
+			"base": "ㄠ",
+			"shift": "ｚ"
+		}
+	},
+	"name": "Zhuyin Eten – Traditional",
+	"physicalLayout": "iso"
+}

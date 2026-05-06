@@ -1,0 +1,251 @@
+{
+	"id": "gurmukhi-qwerty",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": "×",
+			"base": "੦",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "…",
+			"base": "੧",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "2",
+			"altShift": "©",
+			"base": "੨",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "3",
+			"altShift": "®",
+			"base": "੩",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "4",
+			"altShift": "™",
+			"base": "੪",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "5",
+			"altShift": "’",
+			"base": "੫",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "6",
+			"altShift": "‘",
+			"base": "੬",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "7",
+			"altShift": "–",
+			"base": "੭",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "•",
+			"base": "੮",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "9",
+			"altShift": "—",
+			"base": "੯",
+			"shift": "("
+		},
+		"A": {
+			"alt": "ਅ",
+			"altShift": "ਆ",
+			"base": "ਾ",
+			"shift": "ਾ"
+		},
+		"B": {
+			"base": "ਬ",
+			"shift": "ਭ"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"base": "ਚ",
+			"shift": "ਛ"
+		},
+		"Comma": {
+			"alt": "<",
+			"base": ",",
+			"shift": "."
+		},
+		"D": {
+			"alt": "ਡ",
+			"altShift": "ਢ",
+			"base": "ਦ",
+			"shift": "ਧ"
+		},
+		"E": {
+			"alt": "ਏ",
+			"altShift": "ਐ",
+			"base": "ੇ",
+			"shift": "ੈ"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "+",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"base": "੍",
+			"shift": "਼"
+		},
+		"G": {
+			"alt": "ਗ਼",
+			"base": "ਗ",
+			"shift": "ਘ"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "ੑ",
+			"shift": "ੵ"
+		},
+		"H": {
+			"base": "ਹ",
+			"shift": "ਃ"
+		},
+		"I": {
+			"alt": "ਇ",
+			"altShift": "ਈ",
+			"base": "ਿ",
+			"shift": "ੀ"
+		},
+		"J": {
+			"alt": "ਜ਼",
+			"base": "ਜ",
+			"shift": "ਝ"
+		},
+		"K": {
+			"alt": "ਖ਼",
+			"base": "ਕ",
+			"shift": "ਖ"
+		},
+		"L": {
+			"base": "ਲ",
+			"shift": "ਲ਼"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "ੱ",
+			"shift": "["
+		},
+		"M": {
+			"alt": "ਁ",
+			"base": "ਮ",
+			"shift": "ਂ"
+		},
+		"Minus": {
+			"alt": "-",
+			"altShift": "−",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "ਞ",
+			"base": "ਨ",
+			"shift": "ਣ"
+		},
+		"O": {
+			"alt": "ਓ",
+			"altShift": "ਔ",
+			"base": "ੋ",
+			"shift": "ੌ"
+		},
+		"P": {
+			"alt": "ਫ਼",
+			"base": "ਪ",
+			"shift": "ਫ"
+		},
+		"Period": {
+			"alt": ">",
+			"altShift": ".",
+			"base": "।",
+			"shift": "॥"
+		},
+		"Q": {
+			"base": "ੳ",
+			"shift": "ੲ"
+		},
+		"Quote": {
+			"alt": "'",
+			"altShift": "\"",
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"base": "ਰ"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "ੰ",
+			"shift": "]"
+		},
+		"S": {
+			"base": "ਸ",
+			"shift": "ਸ਼"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": ";",
+			"shift": ":"
+		},
+		"Slash": {
+			"base": "\/",
+			"shift": "?"
+		},
+		"T": {
+			"alt": "ਟ",
+			"altShift": "ਠ",
+			"base": "ਤ",
+			"shift": "ਥ"
+		},
+		"U": {
+			"alt": "ਉ",
+			"altShift": "ਊ",
+			"base": "ੁ",
+			"shift": "ੂ"
+		},
+		"V": {
+			"base": "ਵ",
+			"shift": "ੴ"
+		},
+		"W": {
+			"base": "ਅ",
+			"shift": "ਆ"
+		},
+		"X": {
+			"base": "ੜ",
+			"shift": "ੜ੍ਹ"
+		},
+		"Y": {
+			"base": "ਯ"
+		},
+		"Z": {
+			"base": "ਙ"
+		}
+	},
+	"name": "Gurmukhi – QWERTY",
+	"physicalLayout": "iso"
+}

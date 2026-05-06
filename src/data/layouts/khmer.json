@@ -1,0 +1,234 @@
+{
+	"id": "khmer",
+	"keymap": {
+		"0": {
+			"alt": ")",
+			"altShift": "×",
+			"base": "០",
+			"shift": "ឳ"
+		},
+		"1": {
+			"alt": "‌",
+			"altShift": "…",
+			"base": "១",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "@",
+			"altShift": "©",
+			"base": "២",
+			"shift": "ៗ"
+		},
+		"3": {
+			"alt": "៑",
+			"altShift": "®",
+			"base": "៣",
+			"shift": "\""
+		},
+		"4": {
+			"alt": "$",
+			"altShift": "™",
+			"base": "៤",
+			"shift": "៛"
+		},
+		"5": {
+			"alt": "€",
+			"altShift": "’",
+			"base": "៥",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "៙",
+			"altShift": "‘",
+			"base": "៦",
+			"shift": "៍"
+		},
+		"7": {
+			"alt": "៚",
+			"altShift": "–",
+			"base": "៧",
+			"shift": "័"
+		},
+		"8": {
+			"alt": "*",
+			"altShift": "•",
+			"base": "៨",
+			"shift": "៏"
+		},
+		"9": {
+			"alt": "(",
+			"altShift": "—",
+			"base": "៩",
+			"shift": "ឰ"
+		},
+		"A": {
+			"alt": "ៜ",
+			"base": "ា",
+			"shift": "ឫ"
+		},
+		"B": {
+			"base": "ប",
+			"shift": "ព"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"base": "ឭ",
+			"shift": "ឮ"
+		},
+		"C": {
+			"base": "ច",
+			"shift": "ជ"
+		},
+		"Comma": {
+			"alt": ",",
+			"base": "ឦ",
+			"shift": "ឱ"
+		},
+		"D": {
+			"alt": "ឞ",
+			"base": "ដ",
+			"shift": "ឌ"
+		},
+		"E": {
+			"base": "េ",
+			"shift": "ែ"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "+",
+			"base": "ឲ",
+			"shift": "៎"
+		},
+		"F": {
+			"base": "ថ",
+			"shift": "ធ"
+		},
+		"G": {
+			"base": "ង",
+			"shift": "អ"
+		},
+		"Grave": {
+			"alt": "‍",
+			"altShift": "~",
+			"base": "«",
+			"shift": "»"
+		},
+		"H": {
+			"base": "ហ",
+			"shift": "ះ"
+		},
+		"I": {
+			"base": "ិ",
+			"shift": "ី"
+		},
+		"J": {
+			"base": "្",
+			"shift": "ញ"
+		},
+		"K": {
+			"base": "ក",
+			"shift": "គ"
+		},
+		"L": {
+			"base": "ល",
+			"shift": "ឡ"
+		},
+		"LeftBracket": {
+			"alt": "ឨ",
+			"base": "ៀ",
+			"shift": "ឿ"
+		},
+		"M": {
+			"base": "ម",
+			"shift": "ំ"
+		},
+		"Minus": {
+			"alt": "+",
+			"altShift": "−",
+			"base": "ឥ",
+			"shift": "៌"
+		},
+		"N": {
+			"base": "ន",
+			"shift": "ណ"
+		},
+		"O": {
+			"base": "ោ",
+			"shift": "ៅ"
+		},
+		"P": {
+			"base": "ផ",
+			"shift": "ភ"
+		},
+		"Period": {
+			"alt": ".",
+			"base": "។",
+			"shift": "៕"
+		},
+		"Q": {
+			"base": "ឆ",
+			"shift": "ឈ"
+		},
+		"Quote": {
+			"alt": "'",
+			"base": "់",
+			"shift": "៉"
+		},
+		"R": {
+			"base": "រ",
+			"shift": "ឬ"
+		},
+		"RightBracket": {
+			"alt": "ឩ",
+			"base": "ឪ",
+			"shift": "ឧ"
+		},
+		"S": {
+			"alt": "ឝ",
+			"altShift": "ឞ",
+			"base": "ស",
+			"shift": "ៃ"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"base": "ើ",
+			"shift": "៖"
+		},
+		"Slash": {
+			"alt": "?",
+			"base": "៊",
+			"shift": "ឯ"
+		},
+		"T": {
+			"alt": "ថ",
+			"base": "ត",
+			"shift": "ទ"
+		},
+		"U": {
+			"base": "ុ",
+			"shift": "ូ"
+		},
+		"V": {
+			"base": "វ",
+			"shift": "ៈ"
+		},
+		"W": {
+			"base": "ឹ",
+			"shift": "ឺ"
+		},
+		"X": {
+			"base": "ខ",
+			"shift": "ឃ"
+		},
+		"Y": {
+			"base": "យ",
+			"shift": "ួ"
+		},
+		"Z": {
+			"base": "ឋ",
+			"shift": "ឍ"
+		}
+	},
+	"name": "Khmer",
+	"physicalLayout": "iso"
+}

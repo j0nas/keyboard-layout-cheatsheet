@@ -1,0 +1,295 @@
+{
+	"id": "brazilian-abnt2",
+	"keymap": {
+		"0": {
+			"alt": "º",
+			"altShift": "°",
+			"base": "0",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "¹",
+			"altShift": "¡",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "²",
+			"altShift": "½",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "³",
+			"altShift": "¾",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "£",
+			"altShift": "¼",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "¢",
+			"altShift": "⅜",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "¬",
+			"altShift": "¨",
+			"base": "6",
+			"shift": "¨"
+		},
+		"7": {
+			"alt": "¶",
+			"altShift": "⅞",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "•",
+			"altShift": "×",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "∑",
+			"altShift": "·",
+			"base": "9",
+			"shift": "("
+		},
+		"A": {
+			"alt": "æ",
+			"altShift": "Æ",
+			"base": "a",
+			"shift": "A"
+		},
+		"B": {
+			"alt": "∫",
+			"altShift": "™",
+			"base": "b",
+			"shift": "B"
+		},
+		"Backslash": {
+			"alt": "º",
+			"altShift": "º",
+			"base": "]",
+			"shift": "}"
+		},
+		"C": {
+			"alt": "₢",
+			"altShift": "©",
+			"base": "c",
+			"shift": "C"
+		},
+		"Comma": {
+			"alt": "≤",
+			"altShift": "«",
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"alt": "ð",
+			"altShift": "Ð",
+			"base": "d",
+			"shift": "D"
+		},
+		"E": {
+			"alt": "€",
+			"altShift": "€",
+			"base": "e",
+			"shift": "E"
+		},
+		"Equal": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "đ",
+			"altShift": "◊",
+			"base": "f",
+			"shift": "F"
+		},
+		"G": {
+			"alt": "∆",
+			"altShift": "˝",
+			"base": "g",
+			"shift": "G"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "’",
+			"base": "'",
+			"shift": "\""
+		},
+		"H": {
+			"alt": "ħ",
+			"altShift": "Ħ",
+			"base": "h",
+			"shift": "H"
+		},
+		"I": {
+			"alt": "→",
+			"altShift": "ı",
+			"base": "i",
+			"shift": "I"
+		},
+		"J": {
+			"alt": "ʝ",
+			"altShift": "&",
+			"base": "j",
+			"shift": "J"
+		},
+		"K": {
+			"alt": "ĸ",
+			"altShift": "",
+			"base": "k",
+			"shift": "K"
+		},
+		"L": {
+			"alt": "ł",
+			"altShift": "Ł",
+			"base": "l",
+			"shift": "L"
+		},
+		"LeftBracket": {
+			"alt": "´",
+			"altShift": "`",
+			"base": "´",
+			"shift": "`"
+		},
+		"M": {
+			"alt": "µ",
+			"altShift": "µ",
+			"base": "m",
+			"shift": "M"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "ŋ",
+			"altShift": "Ŋ",
+			"base": "n",
+			"shift": "N"
+		},
+		"O": {
+			"alt": "ø",
+			"altShift": "Ø",
+			"base": "o",
+			"shift": "O"
+		},
+		"P": {
+			"alt": "þ",
+			"altShift": "Þ",
+			"base": "p",
+			"shift": "P"
+		},
+		"Period": {
+			"alt": "≥",
+			"altShift": "»",
+			"base": ".",
+			"shift": ">"
+		},
+		"Q": {
+			"alt": "\/",
+			"altShift": "\\",
+			"base": "q",
+			"shift": "Q"
+		},
+		"Quote": {
+			"alt": "~",
+			"altShift": "^",
+			"base": "~",
+			"shift": "^"
+		},
+		"R": {
+			"alt": "®",
+			"altShift": "®",
+			"base": "r",
+			"shift": "R"
+		},
+		"RightBracket": {
+			"alt": "ª",
+			"altShift": "ª",
+			"base": "[",
+			"shift": "{"
+		},
+		"S": {
+			"alt": "ß",
+			"altShift": "§",
+			"base": "s",
+			"shift": "S"
+		},
+		"Section": {
+			"alt": "∏",
+			"altShift": "ă",
+			"base": "\\",
+			"shift": "|"
+		},
+		"Semicolon": {
+			"alt": "·",
+			"altShift": "ő",
+			"base": "ç",
+			"shift": "Ç"
+		},
+		"Slash": {
+			"alt": "…",
+			"altShift": "…",
+			"base": ";",
+			"shift": ":"
+		},
+		"T": {
+			"alt": "ŧ",
+			"altShift": "Ŧ",
+			"base": "t",
+			"shift": "T"
+		},
+		"U": {
+			"alt": "↓",
+			"altShift": "↑",
+			"base": "u",
+			"shift": "U"
+		},
+		"V": {
+			"alt": "ʋ",
+			"altShift": "Ʋ",
+			"base": "v",
+			"shift": "V"
+		},
+		"W": {
+			"alt": "?",
+			"altShift": "¿",
+			"base": "w",
+			"shift": "W"
+		},
+		"X": {
+			"alt": "≈",
+			"altShift": ">",
+			"base": "x",
+			"shift": "X"
+		},
+		"Y": {
+			"alt": "←",
+			"altShift": "¥",
+			"base": "y",
+			"shift": "Y"
+		},
+		"Z": {
+			"alt": "Ω",
+			"altShift": "<",
+			"base": "z",
+			"shift": "Z"
+		}
+	},
+	"name": "Brazilian – ABNT2",
+	"physicalLayout": "iso"
+}

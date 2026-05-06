@@ -1,0 +1,264 @@
+{
+	"id": "estonian",
+	"keymap": {
+		"0": {
+			"alt": "}",
+			"altShift": "≠",
+			"base": "0",
+			"shift": "="
+		},
+		"1": {
+			"alt": "©",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "@",
+			"altShift": "”",
+			"base": "2",
+			"shift": "\""
+		},
+		"3": {
+			"alt": "£",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "$",
+			"base": "4",
+			"shift": "€"
+		},
+		"5": {
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "§",
+			"altShift": "¶",
+			"base": "6",
+			"shift": "&"
+		},
+		"7": {
+			"alt": "{",
+			"base": "7",
+			"shift": "\/"
+		},
+		"8": {
+			"alt": "[",
+			"altShift": "≤",
+			"base": "8",
+			"shift": "("
+		},
+		"9": {
+			"alt": "]",
+			"altShift": "≥",
+			"base": "9",
+			"shift": ")"
+		},
+		"A": {
+			"altShift": "◊",
+			"base": "a",
+			"shift": "A"
+		},
+		"B": {
+			"alt": "›",
+			"altShift": "»",
+			"base": "b",
+			"shift": "B"
+		},
+		"Backslash": {
+			"alt": "½",
+			"altShift": "™",
+			"base": "'",
+			"shift": "*"
+		},
+		"C": {
+			"alt": "č",
+			"altShift": "Č",
+			"base": "c",
+			"shift": "C"
+		},
+		"Comma": {
+			"alt": "’",
+			"altShift": "”",
+			"base": ",",
+			"shift": ";"
+		},
+		"D": {
+			"alt": "∂",
+			"altShift": "∆",
+			"base": "d",
+			"shift": "D"
+		},
+		"E": {
+			"alt": "€",
+			"base": "e",
+			"shift": "E"
+		},
+		"Equal": {
+			"alt": "`",
+			"altShift": "ˇ",
+			"base": "´",
+			"shift": "`"
+		},
+		"F": {
+			"base": "f",
+			"shift": "F"
+		},
+		"G": {
+			"base": "g",
+			"shift": "G"
+		},
+		"Grave": {
+			"alt": "|",
+			"altShift": "|",
+			"base": "<",
+			"shift": ">"
+		},
+		"H": {
+			"base": "h",
+			"shift": "H"
+		},
+		"I": {
+			"altShift": "ˇ",
+			"base": "i",
+			"shift": "I"
+		},
+		"J": {
+			"alt": "√",
+			"altShift": "¬",
+			"base": "j",
+			"shift": "J"
+		},
+		"K": {
+			"base": "k",
+			"shift": "K"
+		},
+		"L": {
+			"alt": "ß",
+			"altShift": "∑",
+			"base": "l",
+			"shift": "L"
+		},
+		"LeftBracket": {
+			"alt": "¨",
+			"altShift": "Ű",
+			"base": "ü",
+			"shift": "Ü"
+		},
+		"M": {
+			"alt": "‘",
+			"altShift": "“",
+			"base": "m",
+			"shift": "M"
+		},
+		"Minus": {
+			"alt": "\\",
+			"base": "+",
+			"shift": "?"
+		},
+		"N": {
+			"alt": "‚",
+			"altShift": "„",
+			"base": "n",
+			"shift": "N"
+		},
+		"O": {
+			"base": "o",
+			"shift": "O"
+		},
+		"P": {
+			"base": "p",
+			"shift": "P"
+		},
+		"Period": {
+			"alt": "…",
+			"altShift": "÷",
+			"base": ".",
+			"shift": ":"
+		},
+		"Q": {
+			"alt": "•",
+			"altShift": "°",
+			"base": "q",
+			"shift": "Q"
+		},
+		"Quote": {
+			"alt": "^",
+			"base": "ä",
+			"shift": "Ä"
+		},
+		"R": {
+			"alt": "®",
+			"altShift": "√",
+			"base": "r",
+			"shift": "R"
+		},
+		"RightBracket": {
+			"alt": "§",
+			"altShift": "~",
+			"base": "õ",
+			"shift": "Õ"
+		},
+		"S": {
+			"alt": "š",
+			"altShift": "Š",
+			"base": "s",
+			"shift": "S"
+		},
+		"Section": {
+			"alt": "¶",
+			"altShift": "•",
+			"base": "ˇ",
+			"shift": "~"
+		},
+		"Semicolon": {
+			"alt": "ő",
+			"altShift": "Ő",
+			"base": "ö",
+			"shift": "Ö"
+		},
+		"Slash": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "-",
+			"shift": "_"
+		},
+		"T": {
+			"alt": "†",
+			"base": "t",
+			"shift": "T"
+		},
+		"U": {
+			"base": "u",
+			"shift": "U"
+		},
+		"V": {
+			"alt": "‹",
+			"altShift": "«",
+			"base": "v",
+			"shift": "V"
+		},
+		"W": {
+			"base": "w",
+			"shift": "W"
+		},
+		"X": {
+			"altShift": "≠",
+			"base": "x",
+			"shift": "X"
+		},
+		"Y": {
+			"base": "y",
+			"shift": "Y"
+		},
+		"Z": {
+			"alt": "ž",
+			"altShift": "Ž",
+			"base": "z",
+			"shift": "Z"
+		}
+	},
+	"name": "Estonian",
+	"physicalLayout": "iso"
+}

@@ -1,0 +1,279 @@
+{
+	"id": "greekpolytonic",
+	"keymap": {
+		"0": {
+			"alt": "°",
+			"base": "0",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "¹",
+			"altShift": "ʹ",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "²",
+			"altShift": "½",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "³",
+			"altShift": "϶",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "£",
+			"altShift": "¢",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "§",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "¶",
+			"base": "6",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "ϗ",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "•",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "·",
+			"base": "9",
+			"shift": "("
+		},
+		"A": {
+			"alt": "…",
+			"base": "α",
+			"shift": "Α"
+		},
+		"B": {
+			"alt": "ϐ",
+			"base": "β",
+			"shift": "Β"
+		},
+		"Backslash": {
+			"alt": "¦",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"alt": "ϡ",
+			"altShift": "Ϡ",
+			"base": "ψ",
+			"shift": "Ψ"
+		},
+		"Comma": {
+			"alt": "«",
+			"altShift": "≤",
+			"base": ",",
+			"shift": "<"
+		},
+		"D": {
+			"alt": "÷",
+			"base": "δ",
+			"shift": "Δ"
+		},
+		"E": {
+			"alt": "€",
+			"altShift": "ϵ",
+			"base": "ε",
+			"shift": "Ε"
+		},
+		"Equal": {
+			"alt": "=",
+			"altShift": "+",
+			"base": "῍",
+			"shift": "῝"
+		},
+		"F": {
+			"alt": "ϕ",
+			"base": "φ",
+			"shift": "Φ"
+		},
+		"G": {
+			"alt": "©",
+			"altShift": "®",
+			"base": "γ",
+			"shift": "Γ"
+		},
+		"Grave": {
+			"alt": ";",
+			"altShift": "·",
+			"base": "`",
+			"shift": "~"
+		},
+		"H": {
+			"alt": "¬",
+			"base": "η",
+			"shift": "Η"
+		},
+		"I": {
+			"alt": "ι",
+			"base": "ι",
+			"shift": "Ι"
+		},
+		"J": {
+			"alt": "ϳ",
+			"base": "ξ",
+			"shift": "Ξ"
+		},
+		"K": {
+			"alt": "ϰ",
+			"base": "κ",
+			"shift": "Κ"
+		},
+		"L": {
+			"alt": "˘",
+			"altShift": "¯",
+			"base": "λ",
+			"shift": "Λ"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "῀",
+			"shift": "ι"
+		},
+		"M": {
+			"alt": "ϻ",
+			"altShift": "Ϻ",
+			"base": "μ",
+			"shift": "Μ"
+		},
+		"Minus": {
+			"alt": "-",
+			"altShift": "_",
+			"base": "῏",
+			"shift": "῟"
+		},
+		"N": {
+			"alt": "’",
+			"altShift": "”",
+			"base": "ν",
+			"shift": "Ν"
+		},
+		"O": {
+			"alt": "ϛ",
+			"altShift": "Ϛ",
+			"base": "ο",
+			"shift": "Ο"
+		},
+		"P": {
+			"alt": "ϖ",
+			"altShift": "≈",
+			"base": "π",
+			"shift": "Π"
+		},
+		"Period": {
+			"alt": "»",
+			"altShift": "≥",
+			"base": ".",
+			"shift": ">"
+		},
+		"Q": {
+			"alt": "ϙ",
+			"altShift": "Ϙ",
+			"base": ";",
+			"shift": ":"
+		},
+		"Quote": {
+			"alt": "'",
+			"altShift": "\"",
+			"base": "᾽",
+			"shift": "῾"
+		},
+		"R": {
+			"alt": "ϱ",
+			"base": "ρ",
+			"shift": "Ρ"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "`",
+			"shift": "`"
+		},
+		"S": {
+			"alt": "ϲ",
+			"altShift": "Ϲ",
+			"base": "σ",
+			"shift": "Σ"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ":",
+			"base": "´",
+			"shift": "¨"
+		},
+		"Slash": {
+			"alt": "\/",
+			"altShift": "?",
+			"base": "῎",
+			"shift": "῞"
+		},
+		"T": {
+			"alt": "™",
+			"altShift": "†",
+			"base": "τ",
+			"shift": "Τ"
+		},
+		"U": {
+			"alt": "ϑ",
+			"altShift": "ϴ",
+			"base": "θ",
+			"shift": "Θ"
+		},
+		"V": {
+			"alt": "‘",
+			"altShift": "“",
+			"base": "ω",
+			"shift": "Ω"
+		},
+		"W": {
+			"alt": "ϝ",
+			"altShift": "Ϝ",
+			"base": "ς",
+			"shift": "΅"
+		},
+		"X": {
+			"alt": "ϸ",
+			"altShift": "Ϸ",
+			"base": "χ",
+			"shift": "Χ"
+		},
+		"Y": {
+			"alt": "¥",
+			"altShift": "ϒ",
+			"base": "υ",
+			"shift": "Υ"
+		},
+		"Z": {
+			"alt": "ϟ",
+			"altShift": "Ϟ",
+			"base": "ζ",
+			"shift": "Ζ"
+		}
+	},
+	"name": "Greek – Polytonic",
+	"physicalLayout": "iso"
+}

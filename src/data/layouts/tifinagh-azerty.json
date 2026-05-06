@@ -1,0 +1,237 @@
+{
+	"id": "tifinagh-azerty",
+	"keymap": {
+		"0": {
+			"alt": "º",
+			"altShift": "‚",
+			"base": "0",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "¡",
+			"altShift": "⁄",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "™",
+			"altShift": "€",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "£",
+			"altShift": "‹",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "¢",
+			"altShift": "›",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "∞",
+			"altShift": "ﬁ",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "§",
+			"altShift": "ﬂ",
+			"base": "6",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "¶",
+			"altShift": "‡",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "•",
+			"altShift": "°",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "ª",
+			"altShift": "·",
+			"base": "9",
+			"shift": "("
+		},
+		"A": {
+			"base": "ⵇ",
+			"shift": "ⵈ"
+		},
+		"B": {
+			"base": "ⴱ",
+			"shift": "ⴲ"
+		},
+		"Backslash": {
+			"alt": "\\",
+			"altShift": "|",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"base": "ⵛ",
+			"shift": "ⵞ"
+		},
+		"Comma": {
+			"base": ".",
+			"shift": ">"
+		},
+		"D": {
+			"alt": "ⴸ",
+			"altShift": "ⴺ",
+			"base": "ⴷ",
+			"shift": "ⴹ"
+		},
+		"E": {
+			"base": "ⴻ",
+			"shift": "ⵦ"
+		},
+		"Equal": {
+			"alt": "≠",
+			"altShift": "±",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"base": "ⴼ",
+			"shift": "ⴼ"
+		},
+		"G": {
+			"base": "ⴳ",
+			"shift": "ⴴ"
+		},
+		"Grave": {
+			"base": "ⵯ",
+			"shift": "ⵯ"
+		},
+		"H": {
+			"alt": "ⵁ",
+			"base": "ⵀ",
+			"shift": "ⵂ"
+		},
+		"I": {
+			"base": "ⵉ",
+			"shift": "ⵑ"
+		},
+		"J": {
+			"base": "ⵊ",
+			"shift": "ⴵ"
+		},
+		"K": {
+			"alt": "ⴿ",
+			"base": "ⴽ",
+			"shift": "ⴾ"
+		},
+		"L": {
+			"base": "ⵍ",
+			"shift": "ⵍ"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "ⵗ",
+			"shift": "ⵘ"
+		},
+		"M": {
+			"base": ",",
+			"shift": "<"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"base": "ⵏ",
+			"shift": "ⵐ"
+		},
+		"O": {
+			"base": "ⵄ",
+			"shift": "ⵧ"
+		},
+		"P": {
+			"base": "ⵃ",
+			"shift": "ⵒ"
+		},
+		"Period": {
+			"base": "\/",
+			"shift": "?"
+		},
+		"Q": {
+			"base": "ⴰ",
+			"shift": "ⴰ"
+		},
+		"Quote": {
+			"base": "ⵌ",
+			"shift": "ⵋ"
+		},
+		"R": {
+			"base": "ⵔ",
+			"shift": "ⵕ"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "ⵤ",
+			"shift": "ⵤ"
+		},
+		"S": {
+			"base": "ⵙ",
+			"shift": "ⵚ"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"base": "ⵎ",
+			"shift": "ⵎ"
+		},
+		"Slash": {
+			"base": "⵰",
+			"shift": "⵿"
+		},
+		"T": {
+			"altShift": "ⵝ",
+			"base": "ⵜ",
+			"shift": "ⵟ"
+		},
+		"U": {
+			"base": "ⵓ",
+			"shift": "ⴶ"
+		},
+		"V": {
+			"base": "ⵖ",
+			"shift": "ⵠ"
+		},
+		"W": {
+			"alt": "ⵥ",
+			"base": "ⵣ",
+			"shift": "ⵥ"
+		},
+		"X": {
+			"base": "ⵅ",
+			"shift": "ⵆ"
+		},
+		"Y": {
+			"base": "ⵢ",
+			"shift": "ⵢ"
+		},
+		"Z": {
+			"base": "ⵡ",
+			"shift": "ⵡ"
+		}
+	},
+	"name": "Tifinagh",
+	"physicalLayout": "iso"
+}

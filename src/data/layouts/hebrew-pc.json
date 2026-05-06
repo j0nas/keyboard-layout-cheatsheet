@@ -1,0 +1,236 @@
+{
+	"id": "hebrew-pc",
+	"keymap": {
+		"0": {
+			"altShift": "ְ",
+			"base": "0",
+			"shift": "("
+		},
+		"1": {
+			"altShift": "ֲ",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"altShift": "ֳ",
+			"base": "2",
+			"shift": "@"
+		},
+		"3": {
+			"altShift": "ֱ",
+			"base": "3",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "₪",
+			"altShift": "ִ",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"altShift": "ֵ",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"altShift": "ַ",
+			"base": "6",
+			"shift": "^"
+		},
+		"7": {
+			"altShift": "ָ",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"altShift": "ֻ",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"altShift": "ֶ",
+			"base": "9",
+			"shift": ")"
+		},
+		"A": {
+			"alt": "‎",
+			"base": "ש",
+			"shift": "A"
+		},
+		"B": {
+			"altShift": "֜",
+			"base": "נ",
+			"shift": "B"
+		},
+		"Backslash": {
+			"altShift": "־",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"altShift": "֞",
+			"base": "ב",
+			"shift": "C"
+		},
+		"Comma": {
+			"altShift": "ּ",
+			"base": "ת",
+			"shift": ">"
+		},
+		"D": {
+			"alt": "‏",
+			"base": "ג",
+			"shift": "D"
+		},
+		"E": {
+			"alt": "€",
+			"base": "ק",
+			"shift": "E"
+		},
+		"Equal": {
+			"altShift": "ֹ",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"altShift": "€",
+			"base": "כ",
+			"shift": "F"
+		},
+		"G": {
+			"base": "ע",
+			"shift": "G"
+		},
+		"Grave": {
+			"base": "\\",
+			"shift": "|"
+		},
+		"H": {
+			"alt": "ײ",
+			"altShift": "ײַ",
+			"base": "י",
+			"shift": "H"
+		},
+		"I": {
+			"base": "ן",
+			"shift": "I"
+		},
+		"J": {
+			"alt": "ױ",
+			"base": "ח",
+			"shift": "J"
+		},
+		"K": {
+			"base": "ל",
+			"shift": "K"
+		},
+		"L": {
+			"base": "ך",
+			"shift": "L"
+		},
+		"LeftBracket": {
+			"base": "]",
+			"shift": "}"
+		},
+		"M": {
+			"altShift": "שׁ",
+			"base": "צ",
+			"shift": "M"
+		},
+		"Minus": {
+			"alt": "ֿ",
+			"altShift": "-",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"altShift": "’",
+			"base": "מ",
+			"shift": "N"
+		},
+		"O": {
+			"base": "ם",
+			"shift": "O"
+		},
+		"P": {
+			"base": "פ",
+			"shift": "P"
+		},
+		"Period": {
+			"base": "ץ",
+			"shift": "<"
+		},
+		"Q": {
+			"altShift": "…",
+			"base": "\/",
+			"shift": "Q"
+		},
+		"Quote": {
+			"altShift": "ֲ",
+			"base": ",",
+			"shift": "\""
+		},
+		"R": {
+			"base": "ר",
+			"shift": "R"
+		},
+		"RightBracket": {
+			"base": "[",
+			"shift": "{"
+		},
+		"S": {
+			"altShift": "שׂ",
+			"base": "ד",
+			"shift": "S"
+		},
+		"Section": {
+			"base": ";",
+			"shift": "~"
+		},
+		"Semicolon": {
+			"altShift": ";",
+			"base": "ף",
+			"shift": ":"
+		},
+		"Slash": {
+			"base": ".",
+			"shift": "?"
+		},
+		"T": {
+			"base": "א",
+			"shift": "T"
+		},
+		"U": {
+			"alt": "װ",
+			"altShift": "וּ",
+			"base": "ו",
+			"shift": "U"
+		},
+		"V": {
+			"altShift": "”",
+			"base": "ה",
+			"shift": "V"
+		},
+		"W": {
+			"altShift": "ָ",
+			"base": "'",
+			"shift": "W"
+		},
+		"X": {
+			"altShift": "—",
+			"base": "ס",
+			"shift": "X"
+		},
+		"Y": {
+			"base": "ט",
+			"shift": "Y"
+		},
+		"Z": {
+			"altShift": "–",
+			"base": "ז",
+			"shift": "Z"
+		}
+	},
+	"name": "Hebrew – PC",
+	"physicalLayout": "iso"
+}

@@ -1,0 +1,223 @@
+{
+	"id": "nko-qwerty",
+	"keymap": {
+		"0": {
+			"alt": "0",
+			"altShift": "﴿",
+			"base": "߀",
+			"shift": "("
+		},
+		"1": {
+			"alt": "1",
+			"altShift": "!",
+			"base": "߁",
+			"shift": "߹"
+		},
+		"2": {
+			"alt": "2",
+			"base": "߂",
+			"shift": "@"
+		},
+		"3": {
+			"alt": "3",
+			"base": "߃",
+			"shift": "#"
+		},
+		"4": {
+			"alt": "4",
+			"base": "߄",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "5",
+			"base": "߅",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "6",
+			"base": "߆",
+			"shift": "^"
+		},
+		"7": {
+			"alt": "7",
+			"base": "߇",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "8",
+			"altShift": "•",
+			"base": "߈",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "9",
+			"altShift": "﴾",
+			"base": "߉",
+			"shift": ")"
+		},
+		"A": {
+			"base": "ߊ",
+			"shift": "߮"
+		},
+		"B": {
+			"base": "ߓ"
+		},
+		"Backslash": {
+			"base": "߷",
+			"shift": "߶"
+		},
+		"C": {
+			"base": "ߗ",
+			"shift": "ߩ"
+		},
+		"Comma": {
+			"alt": ",",
+			"base": "߸",
+			"shift": "،"
+		},
+		"D": {
+			"alt": "߾",
+			"base": "ߘ",
+			"shift": "߳"
+		},
+		"E": {
+			"base": "ߋ",
+			"shift": "߭"
+		},
+		"Equal": {
+			"alt": "≠",
+			"altShift": "±",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"base": "ߝ",
+			"shift": "߽"
+		},
+		"G": {
+			"base": "ߜ",
+			"shift": "߱"
+		},
+		"Grave": {
+			"alt": "`",
+			"altShift": "~",
+			"base": "߲",
+			"shift": "~"
+		},
+		"H": {
+			"base": "ߤ"
+		},
+		"I": {
+			"base": "ߌ"
+		},
+		"J": {
+			"base": "ߖ",
+			"shift": "ߨ"
+		},
+		"K": {
+			"alt": "",
+			"base": "ߞ"
+		},
+		"L": {
+			"base": "ߟ",
+			"shift": "ߠ"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "ߵ",
+			"shift": "⸜"
+		},
+		"M": {
+			"base": "ߡ"
+		},
+		"Minus": {
+			"alt": "_",
+			"altShift": "—",
+			"base": "-",
+			"shift": "ߺ"
+		},
+		"N": {
+			"base": "ߣ",
+			"shift": "ߒ"
+		},
+		"O": {
+			"base": "ߏ"
+		},
+		"P": {
+			"base": "ߔ"
+		},
+		"Period": {
+			"alt": "߲",
+			"base": ".",
+			"shift": "·"
+		},
+		"Q": {
+			"base": "ߍ",
+			"shift": "߫"
+		},
+		"Quote": {
+			"base": "'",
+			"shift": "\""
+		},
+		"R": {
+			"alt": "ߚ",
+			"base": "ߙ",
+			"shift": "ߪ"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "ߴ",
+			"shift": "⸝"
+		},
+		"S": {
+			"base": "ߛ",
+			"shift": "߰"
+		},
+		"Section": {
+			"alt": "§",
+			"altShift": "±",
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": "…",
+			"altShift": ";",
+			"base": "؛",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "?",
+			"base": "\/",
+			"shift": "؟"
+		},
+		"T": {
+			"alt": "߿",
+			"base": "ߕ",
+			"shift": "߯"
+		},
+		"U": {
+			"base": "ߎ"
+		},
+		"V": {
+			"base": "ߢ"
+		},
+		"W": {
+			"base": "ߥ",
+			"shift": "߬"
+		},
+		"X": {
+			"base": "ߐ"
+		},
+		"Y": {
+			"base": "ߦ",
+			"shift": "ߧ"
+		},
+		"Z": {
+			"base": "ߑ"
+		}
+	},
+	"name": "N’Ko – QWERTY",
+	"physicalLayout": "iso"
+}

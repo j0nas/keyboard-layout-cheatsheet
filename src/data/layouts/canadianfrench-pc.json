@@ -1,0 +1,269 @@
+{
+	"id": "canadianfrench-pc",
+	"keymap": {
+		"0": {
+			"alt": "°",
+			"altShift": "¾",
+			"base": "0",
+			"shift": ")"
+		},
+		"1": {
+			"alt": "±",
+			"altShift": "¡",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "@",
+			"altShift": "″",
+			"base": "2",
+			"shift": "\""
+		},
+		"3": {
+			"alt": "£",
+			"altShift": "÷",
+			"base": "3",
+			"shift": "\/"
+		},
+		"4": {
+			"alt": "¢",
+			"altShift": "¤",
+			"base": "4",
+			"shift": "$"
+		},
+		"5": {
+			"alt": "∞",
+			"altShift": "‰",
+			"base": "5",
+			"shift": "%"
+		},
+		"6": {
+			"alt": "¬",
+			"altShift": "¿",
+			"base": "6",
+			"shift": "?"
+		},
+		"7": {
+			"alt": "¦",
+			"altShift": "⅋",
+			"base": "7",
+			"shift": "&"
+		},
+		"8": {
+			"alt": "•",
+			"altShift": "¼",
+			"base": "8",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "†",
+			"altShift": "½",
+			"base": "9",
+			"shift": "("
+		},
+		"A": {
+			"alt": "æ",
+			"altShift": "Æ",
+			"base": "a",
+			"shift": "A"
+		},
+		"B": {
+			"alt": "∫",
+			"base": "b",
+			"shift": "B"
+		},
+		"Backslash": {
+			"alt": "}",
+			"altShift": "≥",
+			"base": "<",
+			"shift": ">"
+		},
+		"C": {
+			"alt": "ç",
+			"altShift": "Ç",
+			"base": "c",
+			"shift": "C"
+		},
+		"Comma": {
+			"alt": "‘",
+			"altShift": "’",
+			"base": ",",
+			"shift": "'"
+		},
+		"D": {
+			"alt": "∂",
+			"altShift": "∆",
+			"base": "d",
+			"shift": "D"
+		},
+		"E": {
+			"alt": "€",
+			"base": "e",
+			"shift": "E"
+		},
+		"Equal": {
+			"alt": "≠",
+			"altShift": "±",
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "ƒ",
+			"base": "f",
+			"shift": "F"
+		},
+		"G": {
+			"alt": "©",
+			"base": "g",
+			"shift": "G"
+		},
+		"Grave": {
+			"alt": "˚",
+			"base": "«",
+			"shift": "»"
+		},
+		"H": {
+			"base": "h",
+			"shift": "H"
+		},
+		"I": {
+			"alt": "§",
+			"base": "i",
+			"shift": "I"
+		},
+		"J": {
+			"base": "j",
+			"shift": "J"
+		},
+		"K": {
+			"alt": "",
+			"base": "k",
+			"shift": "K"
+		},
+		"L": {
+			"alt": "ø",
+			"altShift": "Ø",
+			"base": "l",
+			"shift": "L"
+		},
+		"LeftBracket": {
+			"alt": "[",
+			"altShift": "“",
+			"base": "^",
+			"shift": "^"
+		},
+		"M": {
+			"alt": "µ",
+			"base": "m",
+			"shift": "M"
+		},
+		"Minus": {
+			"alt": "–",
+			"altShift": "—",
+			"base": "-",
+			"shift": "_"
+		},
+		"N": {
+			"alt": "ñ",
+			"altShift": "Ñ",
+			"base": "n",
+			"shift": "N"
+		},
+		"O": {
+			"alt": "œ",
+			"altShift": "Œ",
+			"base": "o",
+			"shift": "O"
+		},
+		"P": {
+			"alt": "¶",
+			"base": "p",
+			"shift": "P"
+		},
+		"Period": {
+			"alt": "·",
+			"altShift": "…",
+			"base": ".",
+			"shift": "."
+		},
+		"Q": {
+			"alt": "π",
+			"altShift": "∏",
+			"base": "q",
+			"shift": "Q"
+		},
+		"Quote": {
+			"alt": "{",
+			"altShift": "≤",
+			"base": "`",
+			"shift": "`"
+		},
+		"R": {
+			"alt": "®",
+			"base": "r",
+			"shift": "R"
+		},
+		"RightBracket": {
+			"alt": "]",
+			"altShift": "”",
+			"base": "¸",
+			"shift": "¨"
+		},
+		"S": {
+			"alt": "ß",
+			"base": "s",
+			"shift": "S"
+		},
+		"Section": {
+			"alt": "\\",
+			"altShift": "§",
+			"base": "#",
+			"shift": "|"
+		},
+		"Semicolon": {
+			"alt": "~",
+			"base": ";",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "÷",
+			"altShift": "×",
+			"base": "é",
+			"shift": "É"
+		},
+		"T": {
+			"alt": "™",
+			"base": "t",
+			"shift": "T"
+		},
+		"U": {
+			"base": "u",
+			"shift": "U"
+		},
+		"V": {
+			"alt": "√",
+			"base": "v",
+			"shift": "V"
+		},
+		"W": {
+			"alt": "∑",
+			"base": "w",
+			"shift": "W"
+		},
+		"X": {
+			"base": "x",
+			"shift": "X"
+		},
+		"Y": {
+			"alt": "¥",
+			"base": "y",
+			"shift": "Y"
+		},
+		"Z": {
+			"base": "z",
+			"shift": "Z"
+		}
+	},
+	"name": "Canadian – PC",
+	"physicalLayout": "iso"
+}

@@ -1,0 +1,291 @@
+{
+	"id": "afghandari",
+	"keymap": {
+		"0": {
+			"alt": "‏",
+			"altShift": "‏",
+			"base": "۰",
+			"shift": "("
+		},
+		"1": {
+			"alt": "`",
+			"altShift": "`",
+			"base": "۱",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "@",
+			"altShift": "@",
+			"base": "۲",
+			"shift": "٬"
+		},
+		"3": {
+			"alt": "#",
+			"altShift": "#",
+			"base": "۳",
+			"shift": "٫"
+		},
+		"4": {
+			"alt": "$",
+			"altShift": "$",
+			"base": "۴",
+			"shift": "؋"
+		},
+		"5": {
+			"alt": "%",
+			"altShift": "%",
+			"base": "۵",
+			"shift": "٪"
+		},
+		"6": {
+			"alt": "^",
+			"altShift": "^",
+			"base": "۶",
+			"shift": "×"
+		},
+		"7": {
+			"alt": "&",
+			"altShift": "&",
+			"base": "۷",
+			"shift": "،"
+		},
+		"8": {
+			"alt": "•",
+			"altShift": "•",
+			"base": "۸",
+			"shift": "*"
+		},
+		"9": {
+			"alt": "‎",
+			"altShift": "‎",
+			"base": "۹",
+			"shift": ")"
+		},
+		"A": {
+			"alt": "ښ",
+			"altShift": "ښ",
+			"base": "ش",
+			"shift": "ؤ"
+		},
+		"B": {
+			"alt": "ڈ",
+			"altShift": "ڈ",
+			"base": "ذ",
+			"shift": "‌"
+		},
+		"Backslash": {
+			"alt": "?",
+			"altShift": "?",
+			"base": "\\",
+			"shift": "|"
+		},
+		"C": {
+			"alt": "ږ",
+			"altShift": "ږ",
+			"base": "ز",
+			"shift": "ژ"
+		},
+		"Comma": {
+			"alt": ",",
+			"altShift": ",",
+			"base": "و",
+			"shift": "<"
+		},
+		"D": {
+			"alt": "ى",
+			"altShift": "ى",
+			"base": "ی",
+			"shift": "ي"
+		},
+		"E": {
+			"alt": "€",
+			"altShift": "€",
+			"base": "ث",
+			"shift": "ٍ"
+		},
+		"Equal": {
+			"base": "=",
+			"shift": "+"
+		},
+		"F": {
+			"alt": "ې",
+			"altShift": "ې",
+			"base": "ب",
+			"shift": "إ"
+		},
+		"G": {
+			"alt": "ڷ",
+			"altShift": "ڷ",
+			"base": "ل",
+			"shift": "أ"
+		},
+		"Grave": {
+			"alt": "~",
+			"altShift": "~",
+			"base": "‍",
+			"shift": "÷"
+		},
+		"H": {
+			"alt": "ٱ",
+			"altShift": "ٱ",
+			"base": "ا",
+			"shift": "آ"
+		},
+		"I": {
+			"alt": "ٕ",
+			"altShift": "ٕ",
+			"base": "ه",
+			"shift": "ّ"
+		},
+		"J": {
+			"alt": "ټ",
+			"altShift": "ټ",
+			"base": "ت",
+			"shift": "ة"
+		},
+		"K": {
+			"alt": "ڼ",
+			"altShift": "ڼ",
+			"base": "ن",
+			"shift": "»"
+		},
+		"L": {
+			"alt": "ں",
+			"altShift": "ں",
+			"base": "م",
+			"shift": "«"
+		},
+		"LeftBracket": {
+			"alt": "ځ",
+			"altShift": "ځ",
+			"base": "ج",
+			"shift": "}"
+		},
+		"M": {
+			"alt": "ٹ",
+			"altShift": "ٹ",
+			"base": "پ",
+			"shift": "ء"
+		},
+		"Minus": {
+			"alt": "_",
+			"altShift": "_",
+			"base": "-",
+			"shift": "ـ"
+		},
+		"N": {
+			"alt": "ډ",
+			"altShift": "ډ",
+			"base": "د",
+			"shift": "ٔ"
+		},
+		"O": {
+			"alt": "'",
+			"altShift": "'",
+			"base": "خ",
+			"shift": "]"
+		},
+		"P": {
+			"alt": "\"",
+			"altShift": "\"",
+			"base": "ح",
+			"shift": "["
+		},
+		"Period": {
+			"alt": "ۇ",
+			"altShift": "ۇ",
+			"base": ".",
+			"shift": ">"
+		},
+		"Q": {
+			"alt": "°",
+			"altShift": "°",
+			"base": "ض",
+			"shift": "ْ"
+		},
+		"Quote": {
+			"alt": "ګ",
+			"altShift": "ګ",
+			"base": "گ",
+			"shift": "؛"
+		},
+		"R": {
+			"alt": "﴿",
+			"altShift": "﴿",
+			"base": "ق",
+			"shift": "ً"
+		},
+		"RightBracket": {
+			"alt": "څ",
+			"altShift": "څ",
+			"base": "چ",
+			"shift": "{"
+		},
+		"S": {
+			"alt": "ۍ",
+			"altShift": "ۍ",
+			"base": "س",
+			"shift": "ئ"
+		},
+		"Section": {
+			"alt": "~",
+			"altShift": "~",
+			"base": "‍",
+			"shift": "÷"
+		},
+		"Semicolon": {
+			"alt": ";",
+			"altShift": ";",
+			"base": "ک",
+			"shift": ":"
+		},
+		"Slash": {
+			"alt": "ۉ",
+			"altShift": "ۉ",
+			"base": "\/",
+			"shift": "؟"
+		},
+		"T": {
+			"alt": "﴾",
+			"altShift": "﴾",
+			"base": "ف",
+			"shift": "ُ"
+		},
+		"U": {
+			"alt": "ٙ",
+			"altShift": "ٙ",
+			"base": "ع",
+			"shift": "َ"
+		},
+		"V": {
+			"alt": "ړ",
+			"altShift": "ړ",
+			"base": "ر",
+			"shift": "ٰ"
+		},
+		"W": {
+			"base": "ص",
+			"shift": "ٌ"
+		},
+		"X": {
+			"alt": "ڑ",
+			"altShift": "ڑ",
+			"base": "ط",
+			"shift": "ٓ"
+		},
+		"Y": {
+			"alt": "ٖ",
+			"altShift": "ٖ",
+			"base": "غ",
+			"shift": "ِ"
+		},
+		"Z": {
+			"alt": "ے",
+			"altShift": "ے",
+			"base": "ظ",
+			"shift": "ك"
+		}
+	},
+	"name": "Afghan Dari",
+	"physicalLayout": "iso"
+}

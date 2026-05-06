@@ -1,0 +1,293 @@
+{
+	"id": "turkish",
+	"keymap": {
+		"0": {
+			"alt": "º",
+			"altShift": "÷",
+			"base": "0",
+			"shift": ":"
+		},
+		"1": {
+			"alt": "¡",
+			"altShift": "·",
+			"base": "1",
+			"shift": "!"
+		},
+		"2": {
+			"alt": "™",
+			"altShift": "€",
+			"base": "2",
+			"shift": "*"
+		},
+		"3": {
+			"alt": "“",
+			"altShift": "”",
+			"base": "3",
+			"shift": "\""
+		},
+		"4": {
+			"alt": "‘",
+			"altShift": "’",
+			"base": "4",
+			"shift": "'"
+		},
+		"5": {
+			"alt": "[",
+			"altShift": "{",
+			"base": "5",
+			"shift": "("
+		},
+		"6": {
+			"alt": "|",
+			"altShift": "\\",
+			"base": "6",
+			"shift": "\/"
+		},
+		"7": {
+			"alt": "]",
+			"altShift": "}",
+			"base": "7",
+			"shift": ")"
+		},
+		"8": {
+			"alt": "•",
+			"altShift": "°",
+			"base": "8",
+			"shift": "_"
+		},
+		"9": {
+			"alt": "«",
+			"altShift": "»",
+			"base": "9",
+			"shift": "%"
+		},
+		"A": {
+			"alt": "",
+			"altShift": "Ë",
+			"base": "u",
+			"shift": "U"
+		},
+		"B": {
+			"alt": "¯",
+			"altShift": "˙",
+			"base": "ç",
+			"shift": "Ç"
+		},
+		"Backslash": {
+			"alt": "≠",
+			"altShift": "±",
+			"base": "=",
+			"shift": "+"
+		},
+		"C": {
+			"alt": "√",
+			"altShift": "◊",
+			"base": "v",
+			"shift": "V"
+		},
+		"Comma": {
+			"alt": "∫",
+			"altShift": "ß",
+			"base": "b",
+			"shift": "B"
+		},
+		"D": {
+			"alt": "´",
+			"altShift": "‰",
+			"base": "e",
+			"shift": "E"
+		},
+		"E": {
+			"alt": "#",
+			"altShift": "´",
+			"base": "ğ",
+			"shift": "Ğ"
+		},
+		"Equal": {
+			"alt": "œ",
+			"altShift": "Œ",
+			"base": "q",
+			"shift": "Q"
+		},
+		"F": {
+			"alt": "å",
+			"altShift": "Å",
+			"base": "a",
+			"shift": "A"
+		},
+		"G": {
+			"alt": "@",
+			"altShift": "ª",
+			"base": "ü",
+			"shift": "Ü"
+		},
+		"Grave": {
+			"alt": "∑",
+			"altShift": "„",
+			"base": "w",
+			"shift": "W"
+		},
+		"H": {
+			"alt": "₺",
+			"altShift": "Ê",
+			"base": "t",
+			"shift": "T"
+		},
+		"I": {
+			"alt": "~",
+			"altShift": "ˆ",
+			"base": "n",
+			"shift": "N"
+		},
+		"J": {
+			"alt": "¨",
+			"altShift": "©",
+			"base": "k",
+			"shift": "K"
+		},
+		"K": {
+			"alt": "µ",
+			"altShift": "˜",
+			"base": "m",
+			"shift": "M"
+		},
+		"L": {
+			"alt": "¬",
+			"altShift": "£",
+			"base": "l",
+			"shift": "L"
+		},
+		"LeftBracket": {
+			"alt": "…",
+			"altShift": "¢",
+			"base": ";",
+			"shift": "$"
+		},
+		"M": {
+			"alt": "§",
+			"altShift": "~",
+			"base": "s",
+			"shift": "S"
+		},
+		"Minus": {
+			"alt": "≈",
+			"altShift": "Ù",
+			"base": "x",
+			"shift": "X"
+		},
+		"N": {
+			"alt": "Ω",
+			"altShift": "Û",
+			"base": "z",
+			"shift": "Z"
+		},
+		"O": {
+			"alt": "^",
+			"altShift": "Ó",
+			"base": "h",
+			"shift": "H"
+		},
+		"P": {
+			"alt": "π",
+			"altShift": "∏",
+			"base": "p",
+			"shift": "P"
+		},
+		"Period": {
+			"alt": "&",
+			"altShift": "¿",
+			"base": ".",
+			"shift": "?"
+		},
+		"Q": {
+			"alt": "ƒ",
+			"altShift": "Ï",
+			"base": "f",
+			"shift": "F"
+		},
+		"Quote": {
+			"alt": "æ",
+			"altShift": "Æ",
+			"base": "ş",
+			"shift": "Ş"
+		},
+		"R": {
+			"alt": "^",
+			"altShift": "È",
+			"base": "ı",
+			"shift": "I"
+		},
+		"RightBracket": {
+			"alt": "≥",
+			"altShift": "≤",
+			"base": ">",
+			"shift": "<"
+		},
+		"S": {
+			"alt": "`",
+			"altShift": "∞",
+			"base": "i",
+			"shift": "İ"
+		},
+		"Section": {
+			"base": "§",
+			"shift": "±"
+		},
+		"Semicolon": {
+			"alt": "¥",
+			"altShift": "Á",
+			"base": "y",
+			"shift": "Y"
+		},
+		"Slash": {
+			"alt": "–",
+			"altShift": "—",
+			"base": ",",
+			"shift": "-"
+		},
+		"T": {
+			"alt": "ø",
+			"altShift": "Ø",
+			"base": "o",
+			"shift": "O"
+		},
+		"U": {
+			"alt": "®",
+			"altShift": "Â",
+			"base": "r",
+			"shift": "R"
+		},
+		"V": {
+			"alt": "ç",
+			"altShift": "˚",
+			"base": "c",
+			"shift": "C"
+		},
+		"W": {
+			"alt": "¶",
+			"altShift": "`",
+			"base": "g",
+			"shift": "G"
+		},
+		"X": {
+			"alt": "¨",
+			"altShift": "Ÿ",
+			"base": "ö",
+			"shift": "Ö"
+		},
+		"Y": {
+			"alt": "∂",
+			"altShift": "Î",
+			"base": "d",
+			"shift": "D"
+		},
+		"Z": {
+			"alt": "∆",
+			"altShift": "Ô",
+			"base": "j",
+			"shift": "J"
+		}
+	},
+	"name": "Turkish F – Legacy",
+	"physicalLayout": "iso"
+}
